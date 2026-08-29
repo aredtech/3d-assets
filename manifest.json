@@ -1,0 +1,1911 @@
+{
+  "source": {
+    "file": "SIMPLE INDOOR ASSETS PACK.glb",
+    "modelUrl": "https://sketchfab.com/3d-models/simple-indoor-assets-pack-cd73b52500334f4c860e1a75cb790a1c",
+    "creator": "Dari (@dariiiii)",
+    "license": "Sketchfab Free Standard"
+  },
+  "assetCount": 95,
+  "assets": [
+    {
+      "name": "FloorCabinet",
+      "file": "floor_cabinet.glb",
+      "bytes": 1035476,
+      "bounds": {
+        "min": [
+          -0.482516,
+          0,
+          -0.320751
+        ],
+        "max": [
+          0.482516,
+          0.552295,
+          0.320751
+        ]
+      },
+      "meshes": 1,
+      "materials": 2,
+      "textures": 4
+    },
+    {
+      "name": "FlowerInPot",
+      "file": "flower_in_pot.glb",
+      "bytes": 3177344,
+      "bounds": {
+        "min": [
+          -0.275078,
+          0,
+          -0.295713
+        ],
+        "max": [
+          0.275078,
+          0.751098,
+          0.295713
+        ]
+      },
+      "meshes": 1,
+      "materials": 3,
+      "textures": 2
+    },
+    {
+      "name": "Television",
+      "file": "television.glb",
+      "bytes": 801236,
+      "bounds": {
+        "min": [
+          -0.52191,
+          0,
+          -0.353453
+        ],
+        "max": [
+          0.52191,
+          1.014156,
+          0.353453
+        ]
+      },
+      "meshes": 1,
+      "materials": 6,
+      "textures": 3
+    },
+    {
+      "name": "DialPhone",
+      "file": "dial_phone.glb",
+      "bytes": 2732320,
+      "bounds": {
+        "min": [
+          -0.231415,
+          0,
+          -0.196219
+        ],
+        "max": [
+          0.231415,
+          0.183036,
+          0.196219
+        ]
+      },
+      "meshes": 1,
+      "materials": 4,
+      "textures": 5
+    },
+    {
+      "name": "CuttingBoard",
+      "file": "cutting_board.glb",
+      "bytes": 1831604,
+      "bounds": {
+        "min": [
+          -0.221903,
+          0,
+          -0.127474
+        ],
+        "max": [
+          0.221903,
+          0.017907,
+          0.127474
+        ]
+      },
+      "meshes": 1,
+      "materials": 1,
+      "textures": 2
+    },
+    {
+      "name": "BreadBox",
+      "file": "bread_box.glb",
+      "bytes": 3565112,
+      "bounds": {
+        "min": [
+          -0.234956,
+          0,
+          -0.138037
+        ],
+        "max": [
+          0.234956,
+          0.211508,
+          0.138037
+        ]
+      },
+      "meshes": 1,
+      "materials": 2,
+      "textures": 4
+    },
+    {
+      "name": "BreadPackaged",
+      "file": "bread_packaged.glb",
+      "bytes": 161636,
+      "bounds": {
+        "min": [
+          -0.123477,
+          0,
+          -0.111044
+        ],
+        "max": [
+          0.123477,
+          0.107652,
+          0.111044
+        ]
+      },
+      "meshes": 1,
+      "materials": 2,
+      "textures": 1
+    },
+    {
+      "name": "ButterKnife",
+      "file": "butter_knife.glb",
+      "bytes": 19144,
+      "bounds": {
+        "min": [
+          -0.006806,
+          0,
+          -0.082576
+        ],
+        "max": [
+          0.006806,
+          0.003068,
+          0.082576
+        ]
+      },
+      "meshes": 1,
+      "materials": 1,
+      "textures": 0
+    },
+    {
+      "name": "CeilingLight",
+      "file": "ceiling_light.glb",
+      "bytes": 16060,
+      "bounds": {
+        "min": [
+          -0.189311,
+          0,
+          -0.594985
+        ],
+        "max": [
+          0.189311,
+          0.067991,
+          0.594985
+        ]
+      },
+      "meshes": 1,
+      "materials": 3,
+      "textures": 0
+    },
+    {
+      "name": "CoffeeTable",
+      "file": "coffee_table.glb",
+      "bytes": 603728,
+      "bounds": {
+        "min": [
+          -0.429332,
+          0,
+          -0.644899
+        ],
+        "max": [
+          0.429332,
+          0.360147,
+          0.644899
+        ]
+      },
+      "meshes": 1,
+      "materials": 1,
+      "textures": 2
+    },
+    {
+      "name": "Cup",
+      "file": "cup.glb",
+      "bytes": 553508,
+      "bounds": {
+        "min": [
+          -0.089318,
+          0,
+          -0.062222
+        ],
+        "max": [
+          0.089318,
+          0.138886,
+          0.062222
+        ]
+      },
+      "meshes": 1,
+      "materials": 1,
+      "textures": 1
+    },
+    {
+      "name": "Glass",
+      "file": "glass.glb",
+      "bytes": 77524,
+      "bounds": {
+        "min": [
+          -0.054455,
+          0,
+          -0.054455
+        ],
+        "max": [
+          0.054455,
+          0.228472,
+          0.054455
+        ]
+      },
+      "meshes": 1,
+      "materials": 1,
+      "textures": 0
+    },
+    {
+      "name": "KitchenKnife",
+      "file": "kitchen_knife.glb",
+      "bytes": 43144,
+      "bounds": {
+        "min": [
+          -0.010788,
+          0,
+          -0.023801
+        ],
+        "max": [
+          0.010788,
+          0.329845,
+          0.023801
+        ]
+      },
+      "meshes": 1,
+      "materials": 3,
+      "textures": 0
+    },
+    {
+      "name": "LeatherCouch",
+      "file": "leather_couch.glb",
+      "bytes": 3502800,
+      "bounds": {
+        "min": [
+          -1.17977,
+          0,
+          -0.509851
+        ],
+        "max": [
+          1.17977,
+          1.110833,
+          0.509851
+        ]
+      },
+      "meshes": 1,
+      "materials": 3,
+      "textures": 6
+    },
+    {
+      "name": "WoodenShelfBooks",
+      "file": "wooden_shelf_books.glb",
+      "bytes": 359680,
+      "bounds": {
+        "min": [
+          -0.879649,
+          0,
+          -0.37258
+        ],
+        "max": [
+          0.879649,
+          0.607242,
+          0.37258
+        ]
+      },
+      "meshes": 1,
+      "materials": 4,
+      "textures": 1
+    },
+    {
+      "name": "SmallTable",
+      "file": "small_table.glb",
+      "bytes": 747460,
+      "bounds": {
+        "min": [
+          -0.403897,
+          0,
+          -0.403897
+        ],
+        "max": [
+          0.403897,
+          0.468082,
+          0.403897
+        ]
+      },
+      "meshes": 1,
+      "materials": 1,
+      "textures": 3
+    },
+    {
+      "name": "TrashBinPlastic",
+      "file": "trash_bin_plastic.glb",
+      "bytes": 75928,
+      "bounds": {
+        "min": [
+          -0.234311,
+          0,
+          -0.211999
+        ],
+        "max": [
+          0.234311,
+          0.50481,
+          0.211999
+        ]
+      },
+      "meshes": 1,
+      "materials": 2,
+      "textures": 0
+    },
+    {
+      "name": "CounterTopSink",
+      "file": "counter_top_sink.glb",
+      "bytes": 2453328,
+      "bounds": {
+        "min": [
+          -1.848717,
+          0,
+          -0.427161
+        ],
+        "max": [
+          1.848717,
+          1.074766,
+          0.427161
+        ]
+      },
+      "meshes": 1,
+      "materials": 7,
+      "textures": 4
+    },
+    {
+      "name": "RefrigeratorBig",
+      "file": "refrigerator_big.glb",
+      "bytes": 2902644,
+      "bounds": {
+        "min": [
+          -0.473187,
+          0,
+          -0.543167
+        ],
+        "max": [
+          0.473187,
+          2.312282,
+          0.543167
+        ]
+      },
+      "meshes": 1,
+      "materials": 5,
+      "textures": 4
+    },
+    {
+      "name": "StudyTable",
+      "file": "study_table.glb",
+      "bytes": 376876,
+      "bounds": {
+        "min": [
+          -0.969453,
+          0,
+          -0.45291
+        ],
+        "max": [
+          0.969453,
+          0.994997,
+          0.45291
+        ]
+      },
+      "meshes": 1,
+      "materials": 2,
+      "textures": 1
+    },
+    {
+      "name": "Pillow",
+      "file": "pillow.glb",
+      "bytes": 1899504,
+      "bounds": {
+        "min": [
+          -0.278728,
+          0,
+          -0.34247
+        ],
+        "max": [
+          0.278728,
+          0.29126,
+          0.34247
+        ]
+      },
+      "meshes": 1,
+      "materials": 1,
+      "textures": 2
+    },
+    {
+      "name": "WoodenChair",
+      "file": "wooden_chair.glb",
+      "bytes": 356316,
+      "bounds": {
+        "min": [
+          -0.247641,
+          0,
+          -0.33513
+        ],
+        "max": [
+          0.247641,
+          1.182208,
+          0.33513
+        ]
+      },
+      "meshes": 1,
+      "materials": 1,
+      "textures": 1
+    },
+    {
+      "name": "Wardrobe",
+      "file": "wardrobe.glb",
+      "bytes": 104312,
+      "bounds": {
+        "min": [
+          -0.821042,
+          0,
+          -0.434747
+        ],
+        "max": [
+          0.821042,
+          2.387637,
+          0.434747
+        ]
+      },
+      "meshes": 1,
+      "materials": 2,
+      "textures": 1
+    },
+    {
+      "name": "MattressBlanket",
+      "file": "mattress_blanket.glb",
+      "bytes": 4350440,
+      "bounds": {
+        "min": [
+          -1.329908,
+          0,
+          -0.863508
+        ],
+        "max": [
+          1.329908,
+          0.285169,
+          0.863508
+        ]
+      },
+      "meshes": 1,
+      "materials": 2,
+      "textures": 4
+    },
+    {
+      "name": "MattressFlat",
+      "file": "mattress_flat.glb",
+      "bytes": 2045556,
+      "bounds": {
+        "min": [
+          -1.267691,
+          0,
+          -0.818406
+        ],
+        "max": [
+          1.267691,
+          0.118281,
+          0.818406
+        ]
+      },
+      "meshes": 1,
+      "materials": 1,
+      "textures": 2
+    },
+    {
+      "name": "WoodenShelfShoes",
+      "file": "wooden_shelf_shoes.glb",
+      "bytes": 589660,
+      "bounds": {
+        "min": [
+          -0.879649,
+          0,
+          -0.37258
+        ],
+        "max": [
+          0.879649,
+          0.607242,
+          0.37258
+        ]
+      },
+      "meshes": 1,
+      "materials": 8,
+      "textures": 1
+    },
+    {
+      "name": "Toilet",
+      "file": "toilet.glb",
+      "bytes": 51000,
+      "bounds": {
+        "min": [
+          -0.315787,
+          0,
+          -0.521873
+        ],
+        "max": [
+          0.315787,
+          1.072852,
+          0.521873
+        ]
+      },
+      "meshes": 1,
+      "materials": 3,
+      "textures": 0
+    },
+    {
+      "name": "Sink",
+      "file": "sink.glb",
+      "bytes": 107268,
+      "bounds": {
+        "min": [
+          -0.375078,
+          0,
+          -0.453222
+        ],
+        "max": [
+          0.375078,
+          1.284219,
+          0.453222
+        ]
+      },
+      "meshes": 1,
+      "materials": 4,
+      "textures": 0
+    },
+    {
+      "name": "CabinetMirror",
+      "file": "cabinet_mirror.glb",
+      "bytes": 15952,
+      "bounds": {
+        "min": [
+          -0.119254,
+          0,
+          -0.228253
+        ],
+        "max": [
+          0.119254,
+          0.666661,
+          0.228253
+        ]
+      },
+      "meshes": 1,
+      "materials": 5,
+      "textures": 0
+    },
+    {
+      "name": "Bath",
+      "file": "bath.glb",
+      "bytes": 46200,
+      "bounds": {
+        "min": [
+          -1.203147,
+          0,
+          -0.495811
+        ],
+        "max": [
+          1.203147,
+          1.730896,
+          0.495811
+        ]
+      },
+      "meshes": 1,
+      "materials": 2,
+      "textures": 0
+    },
+    {
+      "name": "HandRail",
+      "file": "hand_rail.glb",
+      "bytes": 18672,
+      "bounds": {
+        "min": [
+          -0.038704,
+          0,
+          -1.434994
+        ],
+        "max": [
+          0.038704,
+          0.692902,
+          1.434994
+        ]
+      },
+      "meshes": 1,
+      "materials": 2,
+      "textures": 0
+    },
+    {
+      "name": "CoatHanger",
+      "file": "coat_hanger.glb",
+      "bytes": 65144,
+      "bounds": {
+        "min": [
+          -0.305162,
+          0,
+          -0.305162
+        ],
+        "max": [
+          0.305162,
+          1.907464,
+          0.305162
+        ]
+      },
+      "meshes": 1,
+      "materials": 1,
+      "textures": 0
+    },
+    {
+      "name": "PileOfPlates",
+      "file": "pile_of_plates.glb",
+      "bytes": 1039332,
+      "bounds": {
+        "min": [
+          -0.144215,
+          0,
+          -0.146864
+        ],
+        "max": [
+          0.144215,
+          0.214712,
+          0.146864
+        ]
+      },
+      "meshes": 1,
+      "materials": 2,
+      "textures": 1
+    },
+    {
+      "name": "Fork",
+      "file": "fork.glb",
+      "bytes": 21208,
+      "bounds": {
+        "min": [
+          -0.011303,
+          0,
+          -0.08903
+        ],
+        "max": [
+          0.011303,
+          0.009622,
+          0.08903
+        ]
+      },
+      "meshes": 1,
+      "materials": 1,
+      "textures": 0
+    },
+    {
+      "name": "Radiator",
+      "file": "radiator.glb",
+      "bytes": 21680,
+      "bounds": {
+        "min": [
+          -0.142384,
+          0,
+          -0.54822
+        ],
+        "max": [
+          0.142384,
+          0.65483,
+          0.54822
+        ]
+      },
+      "meshes": 1,
+      "materials": 1,
+      "textures": 0
+    },
+    {
+      "name": "Books",
+      "file": "books.glb",
+      "bytes": 14808,
+      "bounds": {
+        "min": [
+          -0.190639,
+          0,
+          -0.268651
+        ],
+        "max": [
+          0.190639,
+          0.120063,
+          0.268651
+        ]
+      },
+      "meshes": 1,
+      "materials": 2,
+      "textures": 0
+    },
+    {
+      "name": "TableLamp",
+      "file": "table_lamp.glb",
+      "bytes": 3558800,
+      "bounds": {
+        "min": [
+          -0.135366,
+          0,
+          -0.135366
+        ],
+        "max": [
+          0.135366,
+          0.447848,
+          0.135366
+        ]
+      },
+      "meshes": 1,
+      "materials": 4,
+      "textures": 3
+    },
+    {
+      "name": "SinglePlate",
+      "file": "single_plate.glb",
+      "bytes": 549884,
+      "bounds": {
+        "min": [
+          -0.143186,
+          0,
+          -0.143186
+        ],
+        "max": [
+          0.143186,
+          0.024489,
+          0.143186
+        ]
+      },
+      "meshes": 1,
+      "materials": 1,
+      "textures": 1
+    },
+    {
+      "name": "SugarCup",
+      "file": "sugar_cup.glb",
+      "bytes": 644032,
+      "bounds": {
+        "min": [
+          -0.09515,
+          0,
+          -0.09515
+        ],
+        "max": [
+          0.09515,
+          0.197889,
+          0.09515
+        ]
+      },
+      "meshes": 1,
+      "materials": 1,
+      "textures": 1
+    },
+    {
+      "name": "SilverwareCup",
+      "file": "silverware_cup.glb",
+      "bytes": 768808,
+      "bounds": {
+        "min": [
+          -0.073075,
+          0,
+          -0.091829
+        ],
+        "max": [
+          0.073075,
+          0.315636,
+          0.091829
+        ]
+      },
+      "meshes": 1,
+      "materials": 4,
+      "textures": 1
+    },
+    {
+      "name": "Outlet",
+      "file": "outlet.glb",
+      "bytes": 2341828,
+      "bounds": {
+        "min": [
+          -0.020166,
+          0,
+          -0.063941
+        ],
+        "max": [
+          0.020166,
+          0.216345,
+          0.063941
+        ]
+      },
+      "meshes": 1,
+      "materials": 2,
+      "textures": 4
+    },
+    {
+      "name": "TableOven",
+      "file": "table_oven.glb",
+      "bytes": 5074600,
+      "bounds": {
+        "min": [
+          -0.339355,
+          0,
+          -0.245857
+        ],
+        "max": [
+          0.339355,
+          0.309972,
+          0.245857
+        ]
+      },
+      "meshes": 1,
+      "materials": 5,
+      "textures": 8
+    },
+    {
+      "name": "Carpet",
+      "file": "carpet.glb",
+      "bytes": 3863668,
+      "bounds": {
+        "min": [
+          -0.630468,
+          0,
+          -1.101204
+        ],
+        "max": [
+          0.630468,
+          0.02079,
+          1.101204
+        ]
+      },
+      "meshes": 1,
+      "materials": 1,
+      "textures": 2
+    },
+    {
+      "name": "FloorCabinetThin",
+      "file": "floor_cabinet_thin.glb",
+      "bytes": 1035488,
+      "bounds": {
+        "min": [
+          -0.482516,
+          0,
+          -0.194901
+        ],
+        "max": [
+          0.482516,
+          0.671882,
+          0.194901
+        ]
+      },
+      "meshes": 1,
+      "materials": 2,
+      "textures": 4
+    },
+    {
+      "name": "FloorCabinetRich",
+      "file": "floor_cabinet_rich.glb",
+      "bytes": 1034892,
+      "bounds": {
+        "min": [
+          -0.279228,
+          0,
+          -0.16953
+        ],
+        "max": [
+          0.279228,
+          0.61816,
+          0.16953
+        ]
+      },
+      "meshes": 1,
+      "materials": 2,
+      "textures": 4
+    },
+    {
+      "name": "RoundTable",
+      "file": "round_table.glb",
+      "bytes": 363948,
+      "bounds": {
+        "min": [
+          -0.64171,
+          0,
+          -0.64171
+        ],
+        "max": [
+          0.64171,
+          0.688524,
+          0.64171
+        ]
+      },
+      "meshes": 1,
+      "materials": 1,
+      "textures": 1
+    },
+    {
+      "name": "SpeakerBig",
+      "file": "speaker_big.glb",
+      "bytes": 81428,
+      "bounds": {
+        "min": [
+          -0.309901,
+          0,
+          -0.323958
+        ],
+        "max": [
+          0.309901,
+          1.181131,
+          0.323958
+        ]
+      },
+      "meshes": 1,
+      "materials": 4,
+      "textures": 0
+    },
+    {
+      "name": "SpeakerSmall",
+      "file": "speaker_small.glb",
+      "bytes": 45564,
+      "bounds": {
+        "min": [
+          -0.309901,
+          0,
+          -0.323958
+        ],
+        "max": [
+          0.309901,
+          0.599025,
+          0.323958
+        ]
+      },
+      "meshes": 1,
+      "materials": 4,
+      "textures": 0
+    },
+    {
+      "name": "MusicalBox",
+      "file": "musical_box.glb",
+      "bytes": 26788,
+      "bounds": {
+        "min": [
+          -0.309901,
+          0,
+          -0.321026
+        ],
+        "max": [
+          0.309901,
+          0.599025,
+          0.321026
+        ]
+      },
+      "meshes": 1,
+      "materials": 3,
+      "textures": 0
+    },
+    {
+      "name": "DiskHolder",
+      "file": "disk_holder.glb",
+      "bytes": 5035208,
+      "bounds": {
+        "min": [
+          -0.712196,
+          0,
+          -0.328212
+        ],
+        "max": [
+          0.712196,
+          0.176921,
+          0.328212
+        ]
+      },
+      "meshes": 1,
+      "materials": 10,
+      "textures": 8
+    },
+    {
+      "name": "WoodenShelfMusic",
+      "file": "wooden_shelf_music.glb",
+      "bytes": 931304,
+      "bounds": {
+        "min": [
+          -0.879649,
+          0,
+          -0.37258
+        ],
+        "max": [
+          0.879649,
+          0.646247,
+          0.37258
+        ]
+      },
+      "meshes": 1,
+      "materials": 5,
+      "textures": 3
+    },
+    {
+      "name": "WallCabinetAlt",
+      "file": "wall_cabinet_alt.glb",
+      "bytes": 1035484,
+      "bounds": {
+        "min": [
+          -0.482516,
+          0,
+          -0.171054
+        ],
+        "max": [
+          0.482516,
+          0.727231,
+          0.171054
+        ]
+      },
+      "meshes": 1,
+      "materials": 2,
+      "textures": 4
+    },
+    {
+      "name": "WallCabinet",
+      "file": "wall_cabinet.glb",
+      "bytes": 4461832,
+      "bounds": {
+        "min": [
+          -0.482516,
+          0,
+          -0.168163
+        ],
+        "max": [
+          0.482516,
+          0.727231,
+          0.168163
+        ]
+      },
+      "meshes": 1,
+      "materials": 3,
+      "textures": 7
+    },
+    {
+      "name": "SecurityCamera",
+      "file": "security_camera.glb",
+      "bytes": 73972,
+      "bounds": {
+        "min": [
+          -0.217934,
+          0,
+          -0.423381
+        ],
+        "max": [
+          0.217934,
+          0.568282,
+          0.423381
+        ]
+      },
+      "meshes": 1,
+      "materials": 4,
+      "textures": 0
+    },
+    {
+      "name": "Couch",
+      "file": "couch.glb",
+      "bytes": 4321316,
+      "bounds": {
+        "min": [
+          -1.410342,
+          0,
+          -0.652092
+        ],
+        "max": [
+          1.410342,
+          1.278122,
+          0.652092
+        ]
+      },
+      "meshes": 1,
+      "materials": 2,
+      "textures": 5
+    },
+    {
+      "name": "CouchCorner",
+      "file": "couch_corner.glb",
+      "bytes": 4402032,
+      "bounds": {
+        "min": [
+          -1.915273,
+          0,
+          -1.681417
+        ],
+        "max": [
+          1.915273,
+          1.278122,
+          1.681417
+        ]
+      },
+      "meshes": 1,
+      "materials": 2,
+      "textures": 5
+    },
+    {
+      "name": "CouchAlt",
+      "file": "couch_alt.glb",
+      "bytes": 4321324,
+      "bounds": {
+        "min": [
+          -1.410342,
+          0,
+          -0.652092
+        ],
+        "max": [
+          1.410342,
+          1.278122,
+          0.652092
+        ]
+      },
+      "meshes": 1,
+      "materials": 2,
+      "textures": 5
+    },
+    {
+      "name": "CouchCornerAlt",
+      "file": "couch_corner_alt.glb",
+      "bytes": 4406232,
+      "bounds": {
+        "min": [
+          -1.915273,
+          0,
+          -1.681417
+        ],
+        "max": [
+          1.915273,
+          1.278122,
+          1.681417
+        ]
+      },
+      "meshes": 1,
+      "materials": 2,
+      "textures": 5
+    },
+    {
+      "name": "CeilingLamp",
+      "file": "ceiling_lamp.glb",
+      "bytes": 4149372,
+      "bounds": {
+        "min": [
+          -0.32858,
+          0,
+          -0.059571
+        ],
+        "max": [
+          0.32858,
+          0.815543,
+          0.059571
+        ]
+      },
+      "meshes": 1,
+      "materials": 4,
+      "textures": 6
+    },
+    {
+      "name": "RefrigeratorSmall",
+      "file": "refrigerator_small.glb",
+      "bytes": 2873872,
+      "bounds": {
+        "min": [
+          -0.409149,
+          0,
+          -0.469659
+        ],
+        "max": [
+          0.409149,
+          1.152225,
+          0.469659
+        ]
+      },
+      "meshes": 1,
+      "materials": 5,
+      "textures": 4
+    },
+    {
+      "name": "Refrigerator",
+      "file": "refrigerator.glb",
+      "bytes": 2902660,
+      "bounds": {
+        "min": [
+          -0.395147,
+          0,
+          -0.453586
+        ],
+        "max": [
+          0.395147,
+          1.83471,
+          0.453586
+        ]
+      },
+      "meshes": 1,
+      "materials": 5,
+      "textures": 4
+    },
+    {
+      "name": "GasStove",
+      "file": "gas_stove.glb",
+      "bytes": 4121200,
+      "bounds": {
+        "min": [
+          -0.430101,
+          0,
+          -0.510107
+        ],
+        "max": [
+          0.430101,
+          1.158994,
+          0.510107
+        ]
+      },
+      "meshes": 1,
+      "materials": 8,
+      "textures": 5
+    },
+    {
+      "name": "Pan",
+      "file": "pan.glb",
+      "bytes": 21676,
+      "bounds": {
+        "min": [
+          -0.255071,
+          0,
+          -0.201908
+        ],
+        "max": [
+          0.255071,
+          0.076686,
+          0.201908
+        ]
+      },
+      "meshes": 1,
+      "materials": 3,
+      "textures": 0
+    },
+    {
+      "name": "Pot",
+      "file": "pot.glb",
+      "bytes": 9328,
+      "bounds": {
+        "min": [
+          -0.146908,
+          0,
+          -0.143528
+        ],
+        "max": [
+          0.146908,
+          0.199692,
+          0.143528
+        ]
+      },
+      "meshes": 1,
+      "materials": 1,
+      "textures": 0
+    },
+    {
+      "name": "WoodenSpatula",
+      "file": "wooden_spatula.glb",
+      "bytes": 943684,
+      "bounds": {
+        "min": [
+          -0.028469,
+          0,
+          -0.163206
+        ],
+        "max": [
+          0.028469,
+          0.023389,
+          0.163206
+        ]
+      },
+      "meshes": 1,
+      "materials": 1,
+      "textures": 1
+    },
+    {
+      "name": "GasTank",
+      "file": "gas_tank.glb",
+      "bytes": 20752,
+      "bounds": {
+        "min": [
+          -0.228298,
+          0,
+          -0.220259
+        ],
+        "max": [
+          0.228298,
+          0.693246,
+          0.220259
+        ]
+      },
+      "meshes": 1,
+      "materials": 3,
+      "textures": 0
+    },
+    {
+      "name": "FoldingChair",
+      "file": "folding_chair.glb",
+      "bytes": 38008,
+      "bounds": {
+        "min": [
+          -0.23997,
+          0,
+          -0.367526
+        ],
+        "max": [
+          0.23997,
+          1.029571,
+          0.367526
+        ]
+      },
+      "meshes": 1,
+      "materials": 2,
+      "textures": 0
+    },
+    {
+      "name": "FoldedChair",
+      "file": "folded_chair.glb",
+      "bytes": 38012,
+      "bounds": {
+        "min": [
+          -0.23997,
+          0,
+          -0.567092
+        ],
+        "max": [
+          0.23997,
+          0.097913,
+          0.567092
+        ]
+      },
+      "meshes": 1,
+      "materials": 2,
+      "textures": 0
+    },
+    {
+      "name": "AshTray",
+      "file": "ash_tray.glb",
+      "bytes": 18300,
+      "bounds": {
+        "min": [
+          -0.084228,
+          0,
+          -0.097693
+        ],
+        "max": [
+          0.084228,
+          0.052046,
+          0.097693
+        ]
+      },
+      "meshes": 1,
+      "materials": 3,
+      "textures": 0
+    },
+    {
+      "name": "Money",
+      "file": "money.glb",
+      "bytes": 28092,
+      "bounds": {
+        "min": [
+          -0.224085,
+          0,
+          -0.153231
+        ],
+        "max": [
+          0.224085,
+          0.016273,
+          0.153231
+        ]
+      },
+      "meshes": 1,
+      "materials": 3,
+      "textures": 0
+    },
+    {
+      "name": "BeerBottle",
+      "file": "beer_bottle.glb",
+      "bytes": 13020,
+      "bounds": {
+        "min": [
+          -0.042485,
+          0,
+          -0.042485
+        ],
+        "max": [
+          0.042485,
+          0.326416,
+          0.042485
+        ]
+      },
+      "meshes": 1,
+      "materials": 2,
+      "textures": 0
+    },
+    {
+      "name": "BeerBox",
+      "file": "beer_box.glb",
+      "bytes": 213316,
+      "bounds": {
+        "min": [
+          -0.196729,
+          0,
+          -0.27813
+        ],
+        "max": [
+          0.196729,
+          0.334818,
+          0.27813
+        ]
+      },
+      "meshes": 1,
+      "materials": 4,
+      "textures": 0
+    },
+    {
+      "name": "BeerBoxEmpty",
+      "file": "beer_box_empty.glb",
+      "bytes": 76856,
+      "bounds": {
+        "min": [
+          -0.20512,
+          0,
+          -0.283853
+        ],
+        "max": [
+          0.20512,
+          0.318223,
+          0.283853
+        ]
+      },
+      "meshes": 1,
+      "materials": 1,
+      "textures": 0
+    },
+    {
+      "name": "CardboardPile",
+      "file": "cardboard_pile.glb",
+      "bytes": 951400,
+      "bounds": {
+        "min": [
+          -0.886678,
+          0,
+          -0.604181
+        ],
+        "max": [
+          0.886678,
+          0.973858,
+          0.604181
+        ]
+      },
+      "meshes": 1,
+      "materials": 1,
+      "textures": 1
+    },
+    {
+      "name": "CardboardBent",
+      "file": "cardboard_bent.glb",
+      "bytes": 943836,
+      "bounds": {
+        "min": [
+          -0.367843,
+          0,
+          -0.240037
+        ],
+        "max": [
+          0.367843,
+          0.726778,
+          0.240037
+        ]
+      },
+      "meshes": 1,
+      "materials": 1,
+      "textures": 1
+    },
+    {
+      "name": "CardboardPlane",
+      "file": "cardboard_plane.glb",
+      "bytes": 943840,
+      "bounds": {
+        "min": [
+          -0.367843,
+          0,
+          -0.43137
+        ],
+        "max": [
+          0.367843,
+          0.024862,
+          0.43137
+        ]
+      },
+      "meshes": 1,
+      "materials": 1,
+      "textures": 1
+    },
+    {
+      "name": "ScienceFlask",
+      "file": "science_flask.glb",
+      "bytes": 29952,
+      "bounds": {
+        "min": [
+          -0.104231,
+          0,
+          -0.104231
+        ],
+        "max": [
+          0.104231,
+          0.380669,
+          0.104231
+        ]
+      },
+      "meshes": 1,
+      "materials": 1,
+      "textures": 0
+    },
+    {
+      "name": "ScienceFlaskAlt",
+      "file": "science_flask_alt.glb",
+      "bytes": 19368,
+      "bounds": {
+        "min": [
+          -0.089931,
+          0,
+          -0.089931
+        ],
+        "max": [
+          0.089931,
+          0.266579,
+          0.089931
+        ]
+      },
+      "meshes": 1,
+      "materials": 1,
+      "textures": 0
+    },
+    {
+      "name": "ChemicalMixingPhials",
+      "file": "chemical_mixing_phials.glb",
+      "bytes": 79380,
+      "bounds": {
+        "min": [
+          -0.211859,
+          0,
+          -0.17782
+        ],
+        "max": [
+          0.211859,
+          0.318855,
+          0.17782
+        ]
+      },
+      "meshes": 1,
+      "materials": 2,
+      "textures": 0
+    },
+    {
+      "name": "GlassBowl",
+      "file": "glass_bowl.glb",
+      "bytes": 16628,
+      "bounds": {
+        "min": [
+          -0.104231,
+          0,
+          -0.104231
+        ],
+        "max": [
+          0.104231,
+          0.07177,
+          0.104231
+        ]
+      },
+      "meshes": 1,
+      "materials": 1,
+      "textures": 0
+    },
+    {
+      "name": "ChemicalContainerExtract",
+      "file": "chemical_container_extract.glb",
+      "bytes": 40288,
+      "bounds": {
+        "min": [
+          -0.33829,
+          0,
+          -0.175225
+        ],
+        "max": [
+          0.33829,
+          0.546073,
+          0.175225
+        ]
+      },
+      "meshes": 1,
+      "materials": 3,
+      "textures": 0
+    },
+    {
+      "name": "ChemicalContainer",
+      "file": "chemical_container.glb",
+      "bytes": 11012,
+      "bounds": {
+        "min": [
+          -0.162479,
+          0,
+          -0.162479
+        ],
+        "max": [
+          0.162479,
+          0.50969,
+          0.162479
+        ]
+      },
+      "meshes": 1,
+      "materials": 1,
+      "textures": 0
+    },
+    {
+      "name": "Sack",
+      "file": "sack.glb",
+      "bytes": 2325132,
+      "bounds": {
+        "min": [
+          -0.643122,
+          0,
+          -0.28769
+        ],
+        "max": [
+          0.643122,
+          0.327685,
+          0.28769
+        ]
+      },
+      "meshes": 1,
+      "materials": 1,
+      "textures": 1
+    },
+    {
+      "name": "SackPile",
+      "file": "sack_pile.glb",
+      "bytes": 2362980,
+      "bounds": {
+        "min": [
+          -1.023669,
+          0,
+          -0.675946
+        ],
+        "max": [
+          1.023669,
+          0.849041,
+          0.675946
+        ]
+      },
+      "meshes": 1,
+      "materials": 1,
+      "textures": 1
+    },
+    {
+      "name": "ToiletPaper",
+      "file": "toilet_paper.glb",
+      "bytes": 948356,
+      "bounds": {
+        "min": [
+          -0.116176,
+          0,
+          -0.0931
+        ],
+        "max": [
+          0.116176,
+          0.186201,
+          0.0931
+        ]
+      },
+      "meshes": 1,
+      "materials": 2,
+      "textures": 1
+    },
+    {
+      "name": "ToiletPaperHolder",
+      "file": "toilet_paper_holder.glb",
+      "bytes": 957524,
+      "bounds": {
+        "min": [
+          -0.170487,
+          0,
+          -0.146429
+        ],
+        "max": [
+          0.170487,
+          0.234085,
+          0.146429
+        ]
+      },
+      "meshes": 1,
+      "materials": 3,
+      "textures": 1
+    },
+    {
+      "name": "Plunger",
+      "file": "plunger.glb",
+      "bytes": 569080,
+      "bounds": {
+        "min": [
+          -0.098163,
+          0,
+          -0.098163
+        ],
+        "max": [
+          0.098163,
+          0.575432,
+          0.098163
+        ]
+      },
+      "meshes": 1,
+      "materials": 2,
+      "textures": 2
+    },
+    {
+      "name": "NewsPaper",
+      "file": "news_paper.glb",
+      "bytes": 54444,
+      "bounds": {
+        "min": [
+          -0.204303,
+          0,
+          -0.195135
+        ],
+        "max": [
+          0.204303,
+          0.048084,
+          0.195135
+        ]
+      },
+      "meshes": 1,
+      "materials": 1,
+      "textures": 1
+    },
+    {
+      "name": "MattressBent",
+      "file": "mattress_bent.glb",
+      "bytes": 2049652,
+      "bounds": {
+        "min": [
+          -0.923629,
+          0,
+          -0.538219
+        ],
+        "max": [
+          0.923629,
+          0.247903,
+          0.538219
+        ]
+      },
+      "meshes": 1,
+      "materials": 1,
+      "textures": 2
+    },
+    {
+      "name": "BossTable",
+      "file": "boss_table.glb",
+      "bytes": 1134040,
+      "bounds": {
+        "min": [
+          -1.468603,
+          0,
+          -0.547872
+        ],
+        "max": [
+          1.468603,
+          0.923021,
+          0.547872
+        ]
+      },
+      "meshes": 1,
+      "materials": 2,
+      "textures": 4
+    },
+    {
+      "name": "BossChair",
+      "file": "boss_chair.glb",
+      "bytes": 3479560,
+      "bounds": {
+        "min": [
+          -0.407425,
+          0,
+          -0.394929
+        ],
+        "max": [
+          0.407425,
+          1.528787,
+          0.394929
+        ]
+      },
+      "meshes": 1,
+      "materials": 3,
+      "textures": 6
+    },
+    {
+      "name": "ScotchGlass",
+      "file": "scotch_glass.glb",
+      "bytes": 20940,
+      "bounds": {
+        "min": [
+          -0.061098,
+          0,
+          -0.061098
+        ],
+        "max": [
+          0.061098,
+          0.142636,
+          0.061098
+        ]
+      },
+      "meshes": 1,
+      "materials": 1,
+      "textures": 0
+    },
+    {
+      "name": "Scotch",
+      "file": "scotch.glb",
+      "bytes": 2063120,
+      "bounds": {
+        "min": [
+          -0.076607,
+          0,
+          -0.076607
+        ],
+        "max": [
+          0.076607,
+          0.426496,
+          0.076607
+        ]
+      },
+      "meshes": 1,
+      "materials": 3,
+      "textures": 3
+    },
+    {
+      "name": "CounterTopSmall",
+      "file": "counter_top_small.glb",
+      "bytes": 2390648,
+      "bounds": {
+        "min": [
+          -0.427161,
+          0,
+          -1.230295
+        ],
+        "max": [
+          0.427161,
+          0.892182,
+          1.230295
+        ]
+      },
+      "meshes": 1,
+      "materials": 4,
+      "textures": 4
+    },
+    {
+      "name": "BedDouble",
+      "file": "bed_double.glb",
+      "bytes": 5384436,
+      "bounds": {
+        "min": [
+          -1.378133,
+          0,
+          -0.882588
+        ],
+        "max": [
+          1.378133,
+          0.848739,
+          0.882588
+        ]
+      },
+      "meshes": 1,
+      "materials": 4,
+      "textures": 8
+    }
+  ]
+}
