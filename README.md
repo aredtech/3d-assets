@@ -7,16 +7,17 @@ GLB assets hosted for WebSDK applications.
 Use a tagged release for stable URLs:
 
 ```text
-https://cdn.jsdelivr.net/gh/aredtech/3d-assets@v1.0.0/<asset>.glb
+https://cdn.jsdelivr.net/gh/aredtech/3d-assets@v1.0.2/<asset>.glb
 ```
 
 Example:
 
 ```text
-https://cdn.jsdelivr.net/gh/aredtech/3d-assets@v1.0.0/interactive_kiosk.glb
+https://cdn.jsdelivr.net/gh/aredtech/3d-assets@v1.0.2/interactive_kiosk.glb
 ```
 
-`manifest.json` describes the assets extracted from the Simple Indoor Assets Pack.
+`manifest.json` describes all 280 assets. Pre-baked thumbnails are available as
+`<asset-id>.webp` in the same release root.
 
 ## Rights
 
