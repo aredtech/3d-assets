@@ -7,18 +7,32 @@ GLB assets hosted for WebSDK applications.
 Use a tagged release for stable URLs:
 
 ```text
-https://cdn.jsdelivr.net/gh/aredtech/3d-assets@v1.0.2/<asset>.glb
+https://cdn.jsdelivr.net/gh/aredtech/3d-assets@v2.0.0/<asset>.glb
 ```
 
 Example:
 
 ```text
-https://cdn.jsdelivr.net/gh/aredtech/3d-assets@v1.0.2/interactive_kiosk.glb
+https://cdn.jsdelivr.net/gh/aredtech/3d-assets@v2.0.0/hos-017.glb
 ```
 
-`manifest.json` describes all 280 assets. Pre-baked thumbnails are available as
+`manifest.json` describes all 246 assets. Pre-baked thumbnails are available as
 `<asset-id>.webp` in the same release root.
+
+## Catalog
+
+Since `v2.0.0` the catalog holds the "Facility Props" set — 245 props, rooms,
+and complete facilities in real-world meters, Y-up — plus `cctv-ptz-camera`.
+Ids are the facility code lowercased (`SCH-001` → `sch-001`); each facility is
+one manifest category: `school`, `hospital`, `airport`, `prison`, `mall`,
+`office`, `industry`, `structural`, and `cameras`.
+
+Earlier releases (`v1.0.0`, `v1.0.2`) stay available under their immutable
+tags for clients pinned to them.
 
 ## Rights
 
-Copyright and usage rights remain with their respective owners. Public hosting does not grant permission to reuse or redistribute these assets outside their licensed use.
+The Facility Props models and `cctv-ptz-camera` were produced for the Combain
+WebSDK. Assets in earlier tagged releases keep the rights of their respective
+owners; public hosting does not grant permission to reuse or redistribute them
+outside their licensed use.
