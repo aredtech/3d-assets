@@ -7,13 +7,13 @@ GLB assets hosted for WebSDK applications.
 Use a tagged release for stable URLs:
 
 ```text
-https://cdn.jsdelivr.net/gh/aredtech/3d-assets@v2.0.0/<asset>.glb
+https://cdn.jsdelivr.net/gh/aredtech/3d-assets@v2.0.1/<asset>.glb
 ```
 
 Example:
 
 ```text
-https://cdn.jsdelivr.net/gh/aredtech/3d-assets@v2.0.0/hos-017.glb
+https://cdn.jsdelivr.net/gh/aredtech/3d-assets@v2.0.1/hos-017.glb
 ```
 
 `manifest.json` describes all 246 assets. Pre-baked thumbnails are available as
@@ -25,10 +25,12 @@ Since `v2.0.0` the catalog holds the "Facility Props" set — 245 props, rooms,
 and complete facilities in real-world meters, Y-up — plus `cctv-ptz-camera`.
 Ids are the facility code lowercased (`SCH-001` → `sch-001`); each facility is
 one manifest category: `school`, `hospital`, `airport`, `prison`, `mall`,
-`office`, `industry`, `structural`, and `cameras`.
+`office`, `industry`, `structural`, plus `cameras` for the surveillance
+cameras. Since `v2.0.1` every model is centred on its footprint and merges its
+static parts into one mesh per material.
 
-Earlier releases (`v1.0.0`, `v1.0.2`) stay available under their immutable
-tags for clients pinned to them.
+Earlier releases (`v1.0.0`, `v1.0.2`, `v2.0.0`) stay available under their
+immutable tags for clients pinned to them.
 
 ## Rights
 

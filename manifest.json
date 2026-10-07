@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "version": "2.0.0",
+  "version": "2.0.1",
   "assetCount": 246,
   "assets": [
     {
       "id": "sch-001",
       "name": "Classroom",
       "file": "sch-001.glb",
-      "bytes": 17600840,
-      "sha256": "8dcf8a964025e0f8204e8f2e93bb25110f54bd107cec85c76777073eb9a107be",
+      "bytes": 13358596,
+      "sha256": "c4a946a9d3bb4ad7079806f6c9cd197263d39a5f9f0975eac5779deaa02b3c98",
       "category": "school",
       "searchTerms": [
         "building",
@@ -17,14 +17,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -9,
+          "x": -13.5,
           "y": -0.06,
-          "z": -21.18
+          "z": -12.59
         },
         "max": {
-          "x": 18.0,
+          "x": 13.5,
           "y": 5,
-          "z": 4
+          "z": 12.59
         }
       },
       "metadata": {
@@ -38,8 +38,8 @@
       "id": "sch-002",
       "name": "Mobile Whiteboard",
       "file": "sch-002.glb",
-      "bytes": 59032,
-      "sha256": "41fe7b29eeb6db2760b4e4a8692f6b08a81f0df3601b4912549df47ea802e79a",
+      "bytes": 59460,
+      "sha256": "cac32d3f08ea07495daec571f92477b6926e414febe31968db89bc5a41280993",
       "category": "school",
       "searchTerms": [
         "whiteboard",
@@ -51,12 +51,12 @@
         "min": {
           "x": -0.94,
           "y": 0.0,
-          "z": -0.34
+          "z": -0.31
         },
         "max": {
           "x": 0.94,
           "y": 1.745,
-          "z": 0.28
+          "z": 0.31
         }
       },
       "metadata": {
@@ -70,8 +70,8 @@
       "id": "sch-003",
       "name": "Wall Whiteboard",
       "file": "sch-003.glb",
-      "bytes": 59564,
-      "sha256": "21a5ee7e48c99cc7a1007c7644a69a28c3d6089600384cde02cc3a5d8fff5257",
+      "bytes": 45048,
+      "sha256": "0d16c60c071534f4cf1f4f9e504f47a442f47ed7528fa96daee6a1be089ef340",
       "category": "school",
       "searchTerms": [
         "signage",
@@ -82,12 +82,12 @@
         "min": {
           "x": -1.234,
           "y": -0.015,
-          "z": -0.028
+          "z": -0.069
         },
         "max": {
           "x": 1.234,
           "y": 1.294,
-          "z": 0.11
+          "z": 0.069
         }
       },
       "metadata": {
@@ -101,8 +101,8 @@
       "id": "sch-004",
       "name": "Student Desk",
       "file": "sch-004.glb",
-      "bytes": 61720,
-      "sha256": "158c5baed1ec881516602cf87116e3a8681fb0d69719e7397cc2327da24c5f17",
+      "bytes": 49388,
+      "sha256": "e2606551bb5e6b2b0aae66b1c1b1467c0976bcbf35c2b3eb10e1c513645a7e79",
       "category": "school",
       "searchTerms": [
         "desk",
@@ -118,7 +118,7 @@
         },
         "max": {
           "x": 0.383,
-          "y": 0.753,
+          "y": 0.752,
           "z": 0.268
         }
       },
@@ -133,8 +133,8 @@
       "id": "sch-005",
       "name": "Chair",
       "file": "sch-005.glb",
-      "bytes": 202752,
-      "sha256": "2a004bb4a5775329e9a9b2b5d527583e668c7d59017eed65bd49fa3bf2dbb618",
+      "bytes": 138144,
+      "sha256": "26095c07522c3cfc1fc2e9db880848c224d2fa510590ae386e41f9f4da3ce792",
       "category": "school",
       "searchTerms": [
         "seating",
@@ -145,12 +145,12 @@
         "min": {
           "x": -0.232,
           "y": 0.0,
-          "z": -0.245
+          "z": -0.246
         },
         "max": {
           "x": 0.232,
-          "y": 0.834,
-          "z": 0.247
+          "y": 0.833,
+          "z": 0.246
         }
       },
       "metadata": {
@@ -164,8 +164,8 @@
       "id": "sch-006",
       "name": "Bookshelf",
       "file": "sch-006.glb",
-      "bytes": 52368,
-      "sha256": "0861fd22100cb36790c11798ee2c57a86ce57335178dd523b4f4125e8f2df928",
+      "bytes": 31844,
+      "sha256": "67fb7dd714cffd6b2b83bb9c860f6e21f7dc3adb918eeae855714e627f359177",
       "category": "school",
       "searchTerms": [
         "storage",
@@ -195,8 +195,8 @@
       "id": "sch-007",
       "name": "Wall Clock",
       "file": "sch-007.glb",
-      "bytes": 84252,
-      "sha256": "e50fa02524356127ed88bc19adb925a91c367b3d68abfeb2531753d725c7aa5c",
+      "bytes": 70336,
+      "sha256": "3c216f447edc7b80a1d80ade3c15be99f1fe11cec380e50ff7e5356fca4aa394",
       "category": "school",
       "searchTerms": [
         "clock",
@@ -226,8 +226,8 @@
       "id": "sch-008",
       "name": "Projector",
       "file": "sch-008.glb",
-      "bytes": 162676,
-      "sha256": "f119279f55766006834901c001631c09545c5dd3e489588c259f7d2931704d9c",
+      "bytes": 132040,
+      "sha256": "3150b22d8b43930c23ff981021c16094f89e773a00a1596e7c126f74bb730b66",
       "category": "school",
       "searchTerms": [
         "electronics",
@@ -238,12 +238,12 @@
         "min": {
           "x": -0.168,
           "y": 0.0,
-          "z": -0.149
+          "z": -0.178
         },
         "max": {
           "x": 0.168,
           "y": 0.142,
-          "z": 0.208
+          "z": 0.178
         }
       },
       "metadata": {
@@ -257,8 +257,8 @@
       "id": "sch-009",
       "name": "Skeleton",
       "file": "sch-009.glb",
-      "bytes": 884864,
-      "sha256": "089672b6a6820fcebaccb50491bcd0b2d9ecb16d361a9564ccf4645bf9083f55",
+      "bytes": 701436,
+      "sha256": "68a151b01c437af0c8466aeff16d4b05683e17a6dd4dd6d463002d018e9c3a5c",
       "category": "school",
       "searchTerms": [
         "laboratory",
@@ -270,12 +270,12 @@
         "min": {
           "x": -0.264,
           "y": 0.0,
-          "z": -0.564
+          "z": -0.38
         },
         "max": {
           "x": 0.264,
-          "y": 1.969,
-          "z": 0.197
+          "y": 1.968,
+          "z": 0.38
         }
       },
       "metadata": {
@@ -289,8 +289,8 @@
       "id": "sch-010",
       "name": "Lab Bench",
       "file": "sch-010.glb",
-      "bytes": 180536,
-      "sha256": "ae33e142f5e235b59bd29dcd81dc92c42d40e330dafc6b73a10a06086ca9ce69",
+      "bytes": 100024,
+      "sha256": "5e1500c5bf4ea86012795930c8d579fc2ab5f9ba473f1e41b1abe9c81eb8f0fd",
       "category": "school",
       "searchTerms": [
         "chemistry lab",
@@ -323,8 +323,8 @@
       "id": "sch-011",
       "name": "Fume Hood",
       "file": "sch-011.glb",
-      "bytes": 86164,
-      "sha256": "29f0710c9dc2695fb2dd871201e88c90922c28e726b0b7f2b2d4e2c45cf16572",
+      "bytes": 52912,
+      "sha256": "099b0d4397c9698c91f81f0ca1e602b287609cd273578c4ced4f4c0d338c1ebd",
       "category": "school",
       "searchTerms": [
         "chemistry lab",
@@ -336,12 +336,12 @@
         "min": {
           "x": -0.75,
           "y": 0.0,
-          "z": -0.425
+          "z": -0.433
         },
         "max": {
           "x": 0.75,
           "y": 2.75,
-          "z": 0.44
+          "z": 0.433
         }
       },
       "metadata": {
@@ -356,8 +356,8 @@
       "id": "sch-012",
       "name": "Periodic Table Chart",
       "file": "sch-012.glb",
-      "bytes": 72640,
-      "sha256": "774e9b58368183935792b4fd2fa3e2db6c96531fa3b12319ca0b04ca05a6320f",
+      "bytes": 185072,
+      "sha256": "174695781df743f879bddbac4b3967d4b413d1cac5cb4a842492333b17c31f13",
       "category": "school",
       "searchTerms": [
         "periodic table",
@@ -391,8 +391,8 @@
       "id": "sch-013",
       "name": "Glassware Set",
       "file": "sch-013.glb",
-      "bytes": 270776,
-      "sha256": "e63d87b26adb90383302c23031f0e9b93a87dd0ee25236920eb2d2dff2812515",
+      "bytes": 213344,
+      "sha256": "3222eed5faa0a5aeb9e008228cac292d055c103fb031aaca0723fdff96f8dfa4",
       "category": "school",
       "searchTerms": [
         "glassware",
@@ -425,8 +425,8 @@
       "id": "sch-014",
       "name": "Bunsen Burner Set",
       "file": "sch-014.glb",
-      "bytes": 105660,
-      "sha256": "8522d5876e0520243732ac32d7952b8778f140766ba66cd6389026eebf45334f",
+      "bytes": 79940,
+      "sha256": "21bbe62130848150030eba79405c82023f95f6e3c1df253b8508e8e443623d4d",
       "category": "school",
       "searchTerms": [
         "bunsen burner",
@@ -437,14 +437,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -0.16,
+          "x": -0.231,
           "y": -0.001,
-          "z": -0.16
+          "z": -0.162
         },
         "max": {
-          "x": 0.302,
+          "x": 0.231,
           "y": 0.315,
-          "z": 0.165
+          "z": 0.162
         }
       },
       "metadata": {
@@ -459,8 +459,8 @@
       "id": "sch-015",
       "name": "Lab Stool",
       "file": "sch-015.glb",
-      "bytes": 78956,
-      "sha256": "9559a4ea9db243c22436364ee96508c7da860c1eef090265b9e5756c87d7f190",
+      "bytes": 58980,
+      "sha256": "0859df7d38eee710fbc7ea658fcbe42220b7d9ab42b5532a4f545a3712fed733",
       "category": "school",
       "searchTerms": [
         "chemistry lab",
@@ -493,8 +493,8 @@
       "id": "sch-016",
       "name": "Safety Shower",
       "file": "sch-016.glb",
-      "bytes": 126080,
-      "sha256": "25757b88f543715a593cfa15e3a8df35b5840e443459ab9a7e8f4791f8876bf5",
+      "bytes": 85840,
+      "sha256": "9f245ad09761a7565ecdd512589a293b74f8ea643bf3e6f53443e6fdb5c3a9ee",
       "category": "school",
       "searchTerms": [
         "chemistry lab",
@@ -506,14 +506,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -0.145,
+          "x": -0.159,
           "y": 0.0,
-          "z": -0.1
+          "z": -0.365
         },
         "max": {
-          "x": 0.173,
+          "x": 0.159,
           "y": 2.227,
-          "z": 0.63
+          "z": 0.365
         }
       },
       "metadata": {
@@ -528,8 +528,8 @@
       "id": "sch-017",
       "name": "Flammables Cabinet",
       "file": "sch-017.glb",
-      "bytes": 75164,
-      "sha256": "ad99d49f21aff6934cfcac3d53cce59a6d5f1d2040718fdd8ff1ace41c9db98f",
+      "bytes": 44696,
+      "sha256": "ac2f88b4c66fc9ddd7d928c56559877c3011ff1d2a478a1280df9b6b1eaf7e7c",
       "category": "school",
       "searchTerms": [
         "chemistry lab",
@@ -542,12 +542,12 @@
         "min": {
           "x": -0.568,
           "y": 0.0,
-          "z": -0.23
+          "z": -0.253
         },
         "max": {
           "x": 0.568,
           "y": 1.65,
-          "z": 0.276
+          "z": 0.253
         }
       },
       "metadata": {
@@ -562,8 +562,8 @@
       "id": "sch-018",
       "name": "Benzene Model",
       "file": "sch-018.glb",
-      "bytes": 212772,
-      "sha256": "6f0c2b2271c595fd1be1b2dd7a221162b063167746715e74bda12e65c186b839",
+      "bytes": 163228,
+      "sha256": "fbb102c7e6e0a762dadab760b6d039f00f26641d88015fbd910c0fa0db3e433b",
       "category": "school",
       "searchTerms": [
         "chemistry lab",
@@ -595,8 +595,8 @@
       "id": "sch-019",
       "name": "Kitchen Station",
       "file": "sch-019.glb",
-      "bytes": 257740,
-      "sha256": "d6ea3807be0d4852b53b0b7fc57663a18b5150580556f9159f8d9d6f0c2fea04",
+      "bytes": 157768,
+      "sha256": "8bf98eeb30a9d2cf64a55dafb90641f418c99393fc557f3baa08001af1873912",
       "category": "school",
       "searchTerms": [
         "home economics",
@@ -608,12 +608,12 @@
         "min": {
           "x": -1.2,
           "y": 0.0,
-          "z": -0.31
+          "z": -0.316
         },
         "max": {
           "x": 1.2,
           "y": 2.15,
-          "z": 0.322
+          "z": 0.316
         }
       },
       "metadata": {
@@ -628,8 +628,8 @@
       "id": "sch-020",
       "name": "Refrigerator",
       "file": "sch-020.glb",
-      "bytes": 39076,
-      "sha256": "b8f69ed363827a7e784d965482a34ebcb39d9c13eb0e46cf19b58be49a093c89",
+      "bytes": 21740,
+      "sha256": "40115ee68e25a4747c7c5ea30c9acf6e882ef771ff1745d42fa5c07e0ce4a3d7",
       "category": "school",
       "searchTerms": [
         "home economics",
@@ -640,12 +640,12 @@
         "min": {
           "x": -0.3,
           "y": 0.0,
-          "z": -0.325
+          "z": -0.346
         },
         "max": {
           "x": 0.3,
           "y": 1.865,
-          "z": 0.367
+          "z": 0.346
         }
       },
       "metadata": {
@@ -660,8 +660,8 @@
       "id": "sch-021",
       "name": "Microwave",
       "file": "sch-021.glb",
-      "bytes": 35928,
-      "sha256": "0a9e107fb7cb6a24c01a77d5229d44d297faf2bd2ca20556d99145479c2ba9e6",
+      "bytes": 21892,
+      "sha256": "ab41d9c417923c6b10f07294aeee5c6c2227439c7972c48361499dd5edd1a5f0",
       "category": "school",
       "searchTerms": [
         "home economics",
@@ -672,12 +672,12 @@
         "min": {
           "x": -0.25,
           "y": 0.0,
-          "z": -0.19
+          "z": -0.211
         },
         "max": {
           "x": 0.25,
           "y": 0.315,
-          "z": 0.233
+          "z": 0.211
         }
       },
       "metadata": {
@@ -692,8 +692,8 @@
       "id": "sch-022",
       "name": "Dining Table",
       "file": "sch-022.glb",
-      "bytes": 44420,
-      "sha256": "b92ad46f1cd4c5627878e05b82c5463c5be42d9c3325e374bd3f23e3a7f8e93f",
+      "bytes": 27460,
+      "sha256": "2707e92cba381a1a8a0cfb610af9402e2d66f0ecf457a695d8e37b58f977e96a",
       "category": "school",
       "searchTerms": [
         "home economics",
@@ -710,7 +710,7 @@
         },
         "max": {
           "x": 0.608,
-          "y": 0.768,
+          "y": 0.767,
           "z": 0.408
         }
       },
@@ -726,8 +726,8 @@
       "id": "sch-023",
       "name": "Cookware Set",
       "file": "sch-023.glb",
-      "bytes": 63528,
-      "sha256": "c052903cab9d8ab202b5802dcaba813dee29cb6546e231ebe54836d3bcd8880b",
+      "bytes": 49556,
+      "sha256": "15509c738a8e01996aa2dfadd85c5d6508fec15939376e0b16fd24da17dd1dc1",
       "category": "school",
       "searchTerms": [
         "cookware",
@@ -738,14 +738,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -0.416,
+          "x": -0.455,
           "y": 0.0,
-          "z": -0.14
+          "z": -0.235
         },
         "max": {
-          "x": 0.494,
+          "x": 0.455,
           "y": 0.198,
-          "z": 0.33
+          "z": 0.235
         }
       },
       "metadata": {
@@ -760,8 +760,8 @@
       "id": "sch-024",
       "name": "Baking Set",
       "file": "sch-024.glb",
-      "bytes": 182708,
-      "sha256": "8685aab46126bd2cfd4a759eb3ce2ff34611db36b9aafee242f673996a98886b",
+      "bytes": 137340,
+      "sha256": "5a45769acfb897771f029d62548fc75bc9bb47beca8c72718c1cf51aac16c66f",
       "category": "school",
       "searchTerms": [
         "home economics",
@@ -771,14 +771,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -0.57,
+          "x": -0.51,
           "y": -0.002,
-          "z": -0.156
+          "z": -0.206
         },
         "max": {
-          "x": 0.45,
+          "x": 0.51,
           "y": 0.142,
-          "z": 0.256
+          "z": 0.206
         }
       },
       "metadata": {
@@ -793,8 +793,8 @@
       "id": "sch-025",
       "name": "Table Setting",
       "file": "sch-025.glb",
-      "bytes": 68636,
-      "sha256": "477fb04b7e5ab733d90a0d83dec2be6e81fc153e57f140fbd0c57ab779da7a49",
+      "bytes": 53464,
+      "sha256": "00648ebc32a13f5751a8eec6db40a42125abdf02e315eac2b5d038366bfcf7a1",
       "category": "school",
       "searchTerms": [
         "home economics",
@@ -805,12 +805,12 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -0.23,
+          "x": -0.313,
           "y": 0.0,
           "z": -0.17
         },
         "max": {
-          "x": 0.396,
+          "x": 0.313,
           "y": 0.104,
           "z": 0.17
         }
@@ -827,8 +827,8 @@
       "id": "sch-026",
       "name": "Kettle & Toaster",
       "file": "sch-026.glb",
-      "bytes": 95992,
-      "sha256": "4c1a2cb49e88496d79e578561910ed50e5d882e7e5e907de3cb8e1af652506ca",
+      "bytes": 63412,
+      "sha256": "80846fb71f6936609c3c36adee4b19099f369c2f1ffe0ebafb0b522b89340179",
       "category": "school",
       "searchTerms": [
         "home economics",
@@ -837,12 +837,12 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -0.291,
+          "x": -0.318,
           "y": 0.0,
           "z": -0.095
         },
         "max": {
-          "x": 0.345,
+          "x": 0.318,
           "y": 0.235,
           "z": 0.095
         }
@@ -859,8 +859,8 @@
       "id": "sch-027",
       "name": "Basketball Hoop",
       "file": "sch-027.glb",
-      "bytes": 159588,
-      "sha256": "aa1c593dda5ae05c8a0aaacd3147fac7595264017c5a51eff58d98ea02654661",
+      "bytes": 96776,
+      "sha256": "70d3a234938d5eb729e65c30586459b86cf9bcf35aec8bca52c67d5156cfceb7",
       "category": "school",
       "searchTerms": [
         "physical education",
@@ -871,12 +871,12 @@
         "min": {
           "x": -0.605,
           "y": 0.0,
-          "z": -1.408
+          "z": -1.021
         },
         "max": {
           "x": 0.605,
           "y": 3.7,
-          "z": 0.635
+          "z": 1.021
         }
       },
       "metadata": {
@@ -891,8 +891,8 @@
       "id": "sch-028",
       "name": "Wall Bars",
       "file": "sch-028.glb",
-      "bytes": 15500,
-      "sha256": "144330216646168a3c473b953b7745de6054974ab1be92b05d15562341e398e1",
+      "bytes": 45148,
+      "sha256": "9873ec180165a658fa1a4438949b492d9d557a859c0b76a5c5622d9a34b18ba8",
       "category": "school",
       "searchTerms": [
         "physical education",
@@ -903,12 +903,12 @@
         "min": {
           "x": -0.46,
           "y": 0.0,
-          "z": -0.02
+          "z": -0.067
         },
         "max": {
           "x": 0.46,
           "y": 2.6,
-          "z": 0.114
+          "z": 0.067
         }
       },
       "metadata": {
@@ -923,8 +923,8 @@
       "id": "sch-029",
       "name": "Gym Bench",
       "file": "sch-029.glb",
-      "bytes": 91912,
-      "sha256": "8276c2fd9c8ffe979c5f0ce7368eeb5d4435ad9cf3c00bc45858c668ae9ca170",
+      "bytes": 55876,
+      "sha256": "8fd4fe910a8ef650890d09d69159130b0d2815f4a55f4f4ee49f4489e0a5c891",
       "category": "school",
       "searchTerms": [
         "physical education",
@@ -934,13 +934,13 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -1.505,
+          "x": -1.548,
           "y": 0.0,
           "z": -0.196
         },
         "max": {
-          "x": 1.59,
-          "y": 0.358,
+          "x": 1.548,
+          "y": 0.357,
           "z": 0.196
         }
       },
@@ -956,8 +956,8 @@
       "id": "sch-030",
       "name": "Vaulting Box",
       "file": "sch-030.glb",
-      "bytes": 24900,
-      "sha256": "fc75001b9e8a46c05d5e1d1ced9d2d366da9136d15781d77f47feecf06b05f46",
+      "bytes": 12744,
+      "sha256": "cabd75dfb24244b7a23d943362425347be7ffc1709ac349141cb0b69aee65f19",
       "category": "school",
       "searchTerms": [
         "physical education",
@@ -988,8 +988,8 @@
       "id": "sch-031",
       "name": "Gym Mat",
       "file": "sch-031.glb",
-      "bytes": 124156,
-      "sha256": "766008eb767d080eca2f6bcb4f67e03d30a3f6f05be4b4c54540349ba3de8377",
+      "bytes": 90636,
+      "sha256": "186cd74b0ac7a24c110fa20488c344d6b077d5d60abad05136745ef4045d861c",
       "category": "school",
       "searchTerms": [
         "physical education",
@@ -998,12 +998,12 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -1.006,
+          "x": -1.005,
           "y": 0.0,
           "z": -0.556
         },
         "max": {
-          "x": 1.006,
+          "x": 1.005,
           "y": 0.06,
           "z": 0.556
         }
@@ -1020,8 +1020,8 @@
       "id": "sch-032",
       "name": "Ball Cart",
       "file": "sch-032.glb",
-      "bytes": 532268,
-      "sha256": "4de405f364278f23ff99956d0ced20d3bccffa95ea93a80959c0d75803d15717",
+      "bytes": 407928,
+      "sha256": "9a8adfff9d3b4f23f42e0ab1a2f8acdcb2266111456d2eb3e54fb599f37b4ef2",
       "category": "school",
       "searchTerms": [
         "physical education",
@@ -1031,14 +1031,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -0.565,
+          "x": -0.515,
           "y": 0.0,
-          "z": -0.312
+          "z": -0.29
         },
         "max": {
-          "x": 0.481,
+          "x": 0.515,
           "y": 0.965,
-          "z": 0.321
+          "z": 0.29
         }
       },
       "metadata": {
@@ -1053,8 +1053,8 @@
       "id": "sch-033",
       "name": "Floorball Goal",
       "file": "sch-033.glb",
-      "bytes": 44136,
-      "sha256": "17d55f8a62f6fbc6a69db4a6c4cdd02073da9ef708aa49c9afd375c16eba0667",
+      "bytes": 23772,
+      "sha256": "abb4ae4dabc670c02c103d85130c428c212f2af097d6f3d7e73c1bd837a2383a",
       "category": "school",
       "searchTerms": [
         "physical education",
@@ -1065,12 +1065,12 @@
         "min": {
           "x": -0.82,
           "y": 0.0,
-          "z": -0.665
+          "z": -0.343
         },
         "max": {
           "x": 0.82,
           "y": 1.17,
-          "z": 0.02
+          "z": 0.343
         }
       },
       "metadata": {
@@ -1085,8 +1085,8 @@
       "id": "sch-034",
       "name": "Cones & Hurdles",
       "file": "sch-034.glb",
-      "bytes": 63852,
-      "sha256": "57dc973a6ca7c31ad85f318f523a3ccbf3668a143817dac19117cbf2bd91b093",
+      "bytes": 38780,
+      "sha256": "275eb3ab9fbb423b7216d437b123cf7c4fde136b7e0938730afcab3c6bf2cc0c",
       "category": "school",
       "searchTerms": [
         "physical education",
@@ -1097,12 +1097,12 @@
         "min": {
           "x": -0.84,
           "y": 0.0,
-          "z": -0.32
+          "z": -0.38
         },
         "max": {
           "x": 0.84,
           "y": 0.314,
-          "z": 0.44
+          "z": 0.38
         }
       },
       "metadata": {
@@ -1117,8 +1117,8 @@
       "id": "sch-035",
       "name": "Locker Bank",
       "file": "sch-035.glb",
-      "bytes": 17516,
-      "sha256": "3d6150a6d5a822ccd8524b4e62cb1bdce1e24c47c577240a06d81abb5a4bc751",
+      "bytes": 53296,
+      "sha256": "8651b323e119c83ee4783bfeda638489072b5c37d75286073f02ebc5c63f7502",
       "category": "school",
       "searchTerms": [
         "corridor",
@@ -1129,12 +1129,12 @@
         "min": {
           "x": -0.9,
           "y": 0.0,
-          "z": -0.225
+          "z": -0.232
         },
         "max": {
           "x": 0.9,
           "y": 1.92,
-          "z": 0.239
+          "z": 0.232
         }
       },
       "metadata": {
@@ -1149,8 +1149,8 @@
       "id": "sch-036",
       "name": "Corridor Bench",
       "file": "sch-036.glb",
-      "bytes": 14920,
-      "sha256": "0dbc014303d3b88503c595b0f048d64f7dfd906c3b042e56c68a1904b7fdd1d2",
+      "bytes": 8164,
+      "sha256": "9d403c06dbd1132a4911fa93760abd197ce2731ea24ccc935445d34bf5f9fc70",
       "category": "school",
       "searchTerms": [
         "corridor",
@@ -1181,8 +1181,8 @@
       "id": "sch-037",
       "name": "Noticeboard",
       "file": "sch-037.glb",
-      "bytes": 41756,
-      "sha256": "0047f3453ef17efdd4df32a5dd421f935b74b01c101f975eeb4c3089d67dd50a",
+      "bytes": 28040,
+      "sha256": "13b73fe7fe02e6cecce822476059b20b61a1db76bf2fc2e3f03985dcc7b60125",
       "category": "school",
       "searchTerms": [
         "corridor",
@@ -1193,12 +1193,12 @@
         "min": {
           "x": -0.62,
           "y": 0.0,
-          "z": 0.0
+          "z": -0.018
         },
         "max": {
           "x": 0.62,
           "y": 0.94,
-          "z": 0.036
+          "z": 0.018
         }
       },
       "metadata": {
@@ -1213,8 +1213,8 @@
       "id": "sch-038",
       "name": "Drinking Fountain",
       "file": "sch-038.glb",
-      "bytes": 25504,
-      "sha256": "b072a2804a5ff0b64fc21dbb89485e421c8b02aaf7b9740d40e6369c92aa57b6",
+      "bytes": 17592,
+      "sha256": "f5736ea01ddf2786a09db1538e948cb94fc57adc0fd4fe3a476b5d66f0c4f7de",
       "category": "school",
       "searchTerms": [
         "corridor",
@@ -1226,12 +1226,12 @@
         "min": {
           "x": -0.225,
           "y": 0.0,
-          "z": -0.16
+          "z": -0.166
         },
         "max": {
           "x": 0.225,
           "y": 1.55,
-          "z": 0.172
+          "z": 0.166
         }
       },
       "metadata": {
@@ -1246,8 +1246,8 @@
       "id": "sch-039",
       "name": "Recycling Station",
       "file": "sch-039.glb",
-      "bytes": 18216,
-      "sha256": "5c50fbaa0aa16e270da9e062808cc98a8004f63428fc3152fb087bb26aacbc74",
+      "bytes": 11636,
+      "sha256": "29f07bd8f4cd9259fecb3cc59a2a4bb20f3b04852a2f017d4bd80a3d4f99c4c7",
       "category": "school",
       "searchTerms": [
         "corridor",
@@ -1259,12 +1259,12 @@
         "min": {
           "x": -0.59,
           "y": 0.0,
-          "z": -0.2
+          "z": -0.202
         },
         "max": {
           "x": 0.59,
           "y": 0.724,
-          "z": 0.204
+          "z": 0.202
         }
       },
       "metadata": {
@@ -1279,8 +1279,8 @@
       "id": "sch-040",
       "name": "Serving Counter",
       "file": "sch-040.glb",
-      "bytes": 87164,
-      "sha256": "4d7e67c8289f249351ee4f3ff6b99b168d655d982420601aaec7d1c070b776c3",
+      "bytes": 50804,
+      "sha256": "ad6e29ca035abbe3273a269d4996450fc5abe793246156a5b233d0e9c45daa56",
       "category": "school",
       "searchTerms": [
         "cafeteria",
@@ -1293,12 +1293,12 @@
         "min": {
           "x": -1.52,
           "y": 0.0,
-          "z": -0.42
+          "z": -0.545
         },
         "max": {
           "x": 1.52,
           "y": 1.385,
-          "z": 0.67
+          "z": 0.545
         }
       },
       "metadata": {
@@ -1313,8 +1313,8 @@
       "id": "sch-041",
       "name": "Cafeteria Table",
       "file": "sch-041.glb",
-      "bytes": 16452,
-      "sha256": "92ad5cc430987ff70af1f8ab5a1a6522238cddf73de6a0b872e8d018133040a4",
+      "bytes": 10024,
+      "sha256": "37e22be99003780dfb8bac5b4b09f0efcaa0516d82f4377cb57a5e27f4793098",
       "category": "school",
       "searchTerms": [
         "cafeteria",
@@ -1347,8 +1347,8 @@
       "id": "sch-042",
       "name": "Food Tray",
       "file": "sch-042.glb",
-      "bytes": 54200,
-      "sha256": "504852422db00492b9869d41793a6a78bf947682be0977a1150010aad0204554",
+      "bytes": 42028,
+      "sha256": "7ebe8951b9531dd5b1fd5db4253b5f8da69b8e1c9937b4ad87a59642947f47a2",
       "category": "school",
       "searchTerms": [
         "cafeteria",
@@ -1380,8 +1380,8 @@
       "id": "sch-043",
       "name": "Vending Machine",
       "file": "sch-043.glb",
-      "bytes": 35368,
-      "sha256": "a212286883433d980f605e047cff9a2b7f7f380973c5c624af454502fa1cd310",
+      "bytes": 39916,
+      "sha256": "d13a779d7fee05ffb343979c9eacee11d280cd4c3324da47590e6ce6d393d10d",
       "category": "school",
       "searchTerms": [
         "cafeteria",
@@ -1392,12 +1392,12 @@
         "min": {
           "x": -0.45,
           "y": 0.0,
-          "z": -0.4
+          "z": -0.43
         },
         "max": {
           "x": 0.45,
           "y": 1.83,
-          "z": 0.46
+          "z": 0.43
         }
       },
       "metadata": {
@@ -1412,8 +1412,8 @@
       "id": "sch-044",
       "name": "Tray Trolley",
       "file": "sch-044.glb",
-      "bytes": 65660,
-      "sha256": "b550b1c452f49cd18afc6e873908d696d7bc1922ba90f925d2c2f7406eb524e2",
+      "bytes": 34776,
+      "sha256": "843804ed550effec68f9a92a7b792e189f8ac4fb71842a8d3e2d65154c9f691f",
       "category": "school",
       "searchTerms": [
         "cafeteria",
@@ -1446,8 +1446,8 @@
       "id": "sch-045",
       "name": "Menu Board",
       "file": "sch-045.glb",
-      "bytes": 47468,
-      "sha256": "dd01f096806fded786971d111958912fff823e7173b814c1d059555f1434b58e",
+      "bytes": 24552,
+      "sha256": "66884e2f9f490dff701720f0b686ff2e44f6936652f3d351882b8ca2bcf47d2a",
       "category": "school",
       "searchTerms": [
         "cafeteria",
@@ -1458,12 +1458,12 @@
         "min": {
           "x": -1.2,
           "y": 0.0,
-          "z": 0.0
+          "z": -0.017
         },
         "max": {
           "x": 1.2,
           "y": 0.9,
-          "z": 0.034
+          "z": 0.017
         }
       },
       "metadata": {
@@ -1478,8 +1478,8 @@
       "id": "hos-001",
       "name": "Hospital Wing",
       "file": "hos-001.glb",
-      "bytes": 10173280,
-      "sha256": "18e0b26a4284456f9795f28f350edada1bbf9cf7e6e31f467a750600874346fa",
+      "bytes": 5886932,
+      "sha256": "cafbb56dbb843a5a41b0d1db37b4b63136759a81e71138f9d44651aecb0e63c7",
       "category": "hospital",
       "searchTerms": [
         "building",
@@ -1489,14 +1489,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -8.6,
+          "x": -8.55,
           "y": -0.06,
-          "z": -9.7
+          "z": -9.2
         },
         "max": {
-          "x": 8.5,
-          "y": 3.0,
-          "z": 8.7
+          "x": 8.55,
+          "y": 3,
+          "z": 9.2
         }
       },
       "metadata": {
@@ -1510,8 +1510,8 @@
       "id": "hos-002",
       "name": "Patient Room",
       "file": "hos-002.glb",
-      "bytes": 1923136,
-      "sha256": "59429b3780fe1647e3396fd57ab0c418aa16a63c16cfcfe27445c3e363493da9",
+      "bytes": 1170968,
+      "sha256": "93ae0a189568b3e66cdf022dd5cafd71467591134e78026834a6e9ba07086314",
       "category": "hospital",
       "searchTerms": [
         "patient room",
@@ -1521,14 +1521,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -2.3,
+          "x": -2.25,
           "y": -0.06,
-          "z": -2.7
+          "z": -2.65
         },
         "max": {
-          "x": 2.2,
+          "x": 2.25,
           "y": 2.802,
-          "z": 2.6
+          "z": 2.65
         }
       },
       "metadata": {
@@ -1543,8 +1543,8 @@
       "id": "hos-003",
       "name": "Hospital Bed",
       "file": "hos-003.glb",
-      "bytes": 393348,
-      "sha256": "1fba21df4de0f607b06afcd264d5e0be0adde6a39f246d7401dd370d59743f14",
+      "bytes": 260740,
+      "sha256": "16cb561a7ed2da4c39422167e0f1814568554c727ebe28227f3ee767b54bcd01",
       "category": "hospital",
       "searchTerms": [
         "patient room",
@@ -1559,7 +1559,7 @@
         },
         "max": {
           "x": 0.499,
-          "y": 1.141,
+          "y": 1.122,
           "z": 1.046
         }
       },
@@ -1575,8 +1575,8 @@
       "id": "hos-004",
       "name": "Bedside Cabinet",
       "file": "hos-004.glb",
-      "bytes": 120084,
-      "sha256": "b5d4ca31caf57f4e08d25400fda3297877a4cbdcdababf37a391848727955de3",
+      "bytes": 79864,
+      "sha256": "8b824c524a5ed2c0f0c032a44ef57e8064844d931d4670ee43bb66b53bcd9f1c",
       "category": "hospital",
       "searchTerms": [
         "patient room",
@@ -1588,12 +1588,12 @@
         "min": {
           "x": -0.278,
           "y": 0.0,
-          "z": -0.253
+          "z": -0.259
         },
         "max": {
           "x": 0.278,
           "y": 1.02,
-          "z": 0.265
+          "z": 0.259
         }
       },
       "metadata": {
@@ -1608,8 +1608,8 @@
       "id": "hos-005",
       "name": "Overbed Table",
       "file": "hos-005.glb",
-      "bytes": 90340,
-      "sha256": "9e9b2b01ba942f409f5214383e90d4563915e2f906f9eefd508769c77c29296a",
+      "bytes": 54524,
+      "sha256": "602728060a63f3cf531d331b4e87677aace63b4d4df82c343246654d0439d031",
       "category": "hospital",
       "searchTerms": [
         "patient room",
@@ -1619,12 +1619,12 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -0.408,
+          "x": -0.409,
           "y": 0.0,
           "z": -0.208
         },
         "max": {
-          "x": 0.41,
+          "x": 0.409,
           "y": 0.896,
           "z": 0.208
         }
@@ -1641,8 +1641,8 @@
       "id": "hos-006",
       "name": "IV Pole",
       "file": "hos-006.glb",
-      "bytes": 221404,
-      "sha256": "d748afa61053f73dd8269f944939f52faef33733de958b11aefa62a74d2b7391",
+      "bytes": 142452,
+      "sha256": "e2e4b5aeeea032eac3c405987e0e92c094a728bad203e07b214e3a7e457c7900",
       "category": "hospital",
       "searchTerms": [
         "patient room",
@@ -1651,14 +1651,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -0.291,
+          "x": -0.296,
           "y": 0.0,
-          "z": -0.257
+          "z": -0.283
         },
         "max": {
-          "x": 0.301,
+          "x": 0.296,
           "y": 2.081,
-          "z": 0.31
+          "z": 0.283
         }
       },
       "metadata": {
@@ -1673,8 +1673,8 @@
       "id": "hos-007",
       "name": "Headwall Panel",
       "file": "hos-007.glb",
-      "bytes": 162496,
-      "sha256": "1f8b3f7c900cf5232fdd0636b1f6b912c45b4baabd0765dd0d2e6501a22d39e5",
+      "bytes": 108324,
+      "sha256": "96ad77ec01fed68528e5771192a9806b54b3eeee68215efff51eec680b088eab",
       "category": "hospital",
       "searchTerms": [
         "headwall",
@@ -1686,12 +1686,12 @@
         "min": {
           "x": -1.008,
           "y": 1.3,
-          "z": -0.01
+          "z": -0.109
         },
         "max": {
           "x": 1.008,
           "y": 1.722,
-          "z": 0.207
+          "z": 0.109
         }
       },
       "metadata": {
@@ -1706,8 +1706,8 @@
       "id": "hos-008",
       "name": "Patient Monitor",
       "file": "hos-008.glb",
-      "bytes": 255084,
-      "sha256": "1c3e51cda78f49c53bf91869427f8b745ee8e08d00ec5c86eb40b68faa300b52",
+      "bytes": 124052,
+      "sha256": "54c941fb00cadfec14dd9e226277aa0fc4294e2b3a5cb9290f7bc080fb1a8c0b",
       "category": "hospital",
       "searchTerms": [
         "patient room",
@@ -1720,12 +1720,12 @@
         "min": {
           "x": -0.208,
           "y": 1.742,
-          "z": 0.0
+          "z": -0.16
         },
         "max": {
           "x": 0.208,
           "y": 2.058,
-          "z": 0.319
+          "z": 0.16
         }
       },
       "metadata": {
@@ -1740,8 +1740,8 @@
       "id": "hos-009",
       "name": "Visitor Chair",
       "file": "hos-009.glb",
-      "bytes": 85344,
-      "sha256": "e6a8568d611729e324629da363135d43c2e2bd6fc8e1fd569ebcd34ef7120402",
+      "bytes": 56276,
+      "sha256": "0bb8325c41184fad6239614eedd7f4e18ee89e9af6c35cd569552238688131a7",
       "category": "hospital",
       "searchTerms": [
         "patient room",
@@ -1753,12 +1753,12 @@
         "min": {
           "x": -0.335,
           "y": 0.0,
-          "z": -0.375
+          "z": -0.352
         },
         "max": {
           "x": 0.335,
-          "y": 1.059,
-          "z": 0.33
+          "y": 1.057,
+          "z": 0.352
         }
       },
       "metadata": {
@@ -1773,8 +1773,8 @@
       "id": "hos-010",
       "name": "Privacy Curtain",
       "file": "hos-010.glb",
-      "bytes": 64540,
-      "sha256": "4a2e817bcc0722067c64ab3d8b5060113fea0e8cab42c85c4cc6d0fcf64b0d0c",
+      "bytes": 38768,
+      "sha256": "0a36aa1941e04797dffeb156dd908e9048cd1fb33cc1af13f6288fb150b02829",
       "category": "hospital",
       "searchTerms": [
         "patient room",
@@ -1783,14 +1783,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -2.3,
+          "x": -1.175,
           "y": 0.35,
-          "z": 0.0
+          "z": -1.317
         },
         "max": {
-          "x": 0.05,
+          "x": 1.175,
           "y": 2.802,
-          "z": 2.635
+          "z": 1.317
         }
       },
       "metadata": {
@@ -1805,8 +1805,8 @@
       "id": "hos-011",
       "name": "Wheelchair",
       "file": "hos-011.glb",
-      "bytes": 348088,
-      "sha256": "3efc367d50ca6b3acc3606814f089598ccb77641b9b02acb181c983cad01ac4e",
+      "bytes": 225640,
+      "sha256": "1749418500765783d1f17df285b7395b4e2bcacf3a2ba9e73add62fd74e3d7c0",
       "category": "hospital",
       "searchTerms": [
         "patient room",
@@ -1819,12 +1819,12 @@
         "min": {
           "x": -0.342,
           "y": 0.0,
-          "z": -0.428
+          "z": -0.471
         },
         "max": {
           "x": 0.342,
           "y": 0.966,
-          "z": 0.515
+          "z": 0.471
         }
       },
       "metadata": {
@@ -1839,8 +1839,8 @@
       "id": "hos-012",
       "name": "Hand-Wash Station",
       "file": "hos-012.glb",
-      "bytes": 149940,
-      "sha256": "680716b805406aa001042e77a0217510c51977db9dcf27b83b748c38fea8a054",
+      "bytes": 102364,
+      "sha256": "abbdfcdba4172dbc776e1813fba6ce2ee618aebbf81335bd4de9d35ebb84a46b",
       "category": "hospital",
       "searchTerms": [
         "patient room",
@@ -1851,14 +1851,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -0.443,
+          "x": -0.525,
           "y": 0.01,
-          "z": 0.0
+          "z": -0.2
         },
         "max": {
-          "x": 0.608,
+          "x": 0.525,
           "y": 1.528,
-          "z": 0.4
+          "z": 0.2
         }
       },
       "metadata": {
@@ -1873,8 +1873,8 @@
       "id": "hos-013",
       "name": "Reception",
       "file": "hos-013.glb",
-      "bytes": 2156552,
-      "sha256": "d4ff65c5534281a06271fdf54043c1d0458220e224c7d7a16da999f5bf34a76d",
+      "bytes": 1294580,
+      "sha256": "3cddb3fdcc61b6a941629ab2888593ca26fff2ee95553fb1b04b2b3a5f9da6dc",
       "category": "hospital",
       "searchTerms": [
         "reception room",
@@ -1885,14 +1885,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -5.1,
+          "x": -5.05,
           "y": -0.06,
-          "z": -4.1
+          "z": -4.05
         },
         "max": {
-          "x": 5,
+          "x": 5.05,
           "y": 2.8,
-          "z": 4
+          "z": 4.05
         }
       },
       "metadata": {
@@ -1907,8 +1907,8 @@
       "id": "hos-014",
       "name": "Reception Desk",
       "file": "hos-014.glb",
-      "bytes": 221496,
-      "sha256": "4d8d64e42131a857d0c8adcf567760335f24f160b19ccff72432e87b3fc68075",
+      "bytes": 148152,
+      "sha256": "e27aae4a219241732bf4e3e56d1e657381def29f98e5333d3f236cb5521eed45",
       "category": "hospital",
       "searchTerms": [
         "reception",
@@ -1918,14 +1918,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -1.628,
+          "x": -1.624,
           "y": 0.0,
-          "z": -0.458
+          "z": -0.483
         },
         "max": {
-          "x": 1.62,
+          "x": 1.624,
           "y": 1.58,
-          "z": 0.508
+          "z": 0.483
         }
       },
       "metadata": {
@@ -1940,8 +1940,8 @@
       "id": "hos-015",
       "name": "Task Chair",
       "file": "hos-015.glb",
-      "bytes": 147684,
-      "sha256": "90e256884caab40a79b04906c380a7b622b53e8d67dd47382571ff1029ff8f53",
+      "bytes": 90768,
+      "sha256": "27021ba951a0bcc064f4024ea7f4efe06ec5962f997c89fac514088f9368181f",
       "category": "hospital",
       "searchTerms": [
         "reception",
@@ -1953,11 +1953,11 @@
         "min": {
           "x": -0.31,
           "y": 0.0,
-          "z": -0.331
+          "z": -0.33
         },
         "max": {
           "x": 0.31,
-          "y": 1.14,
+          "y": 1.139,
           "z": 0.33
         }
       },
@@ -1973,8 +1973,8 @@
       "id": "hos-016",
       "name": "Beam Seating",
       "file": "hos-016.glb",
-      "bytes": 223716,
-      "sha256": "036ce8000b0b2137a9fc25d1409f5498d83064d81a41eb8d072da9b716846cec",
+      "bytes": 150752,
+      "sha256": "65b19ec3bc1b78c98d8d240c9756a6bf1137f138c9224aa4c5e6d0e8255ede7e",
       "category": "hospital",
       "searchTerms": [
         "reception",
@@ -1986,12 +1986,12 @@
         "min": {
           "x": -0.95,
           "y": 0.0,
-          "z": -0.311
+          "z": -0.284
         },
         "max": {
           "x": 0.95,
-          "y": 0.979,
-          "z": 0.258
+          "y": 0.978,
+          "z": 0.284
         }
       },
       "metadata": {
@@ -2006,8 +2006,8 @@
       "id": "hos-017",
       "name": "Check-In Kiosk",
       "file": "hos-017.glb",
-      "bytes": 111388,
-      "sha256": "c43cad7220465b27102a4e5f13ed24a2218736da99a77be8564bb3c7d99c6436",
+      "bytes": 82880,
+      "sha256": "911d9b9e18d2322a20afce3987d15524c37c16afd5213f55207defd6ff2b8603",
       "category": "hospital",
       "searchTerms": [
         "reception",
@@ -2024,7 +2024,7 @@
         },
         "max": {
           "x": 0.258,
-          "y": 1.35,
+          "y": 1.347,
           "z": 0.208
         }
       },
@@ -2040,8 +2040,8 @@
       "id": "hos-018",
       "name": "Queue Display",
       "file": "hos-018.glb",
-      "bytes": 91856,
-      "sha256": "357a53094da5c3ad5f805bbf1ac21b852e323e22e5ab113c1ba35d4ab3928645",
+      "bytes": 51888,
+      "sha256": "32fd5e7da479a6df8c06bc1556aa74bf1f963f462db79dee24f3ec557fa3b3e1",
       "category": "hospital",
       "searchTerms": [
         "reception",
@@ -2055,12 +2055,12 @@
         "min": {
           "x": -0.508,
           "y": 1.702,
-          "z": 0.0
+          "z": -0.034
         },
         "max": {
           "x": 0.508,
           "y": 2.298,
-          "z": 0.068
+          "z": 0.034
         }
       },
       "metadata": {
@@ -2075,8 +2075,8 @@
       "id": "hos-019",
       "name": "Queue Barrier",
       "file": "hos-019.glb",
-      "bytes": 107312,
-      "sha256": "207b38635bda4d28c0b97d9bf1450e10c5d46ad09465fa6cbaa5b4561744c16c",
+      "bytes": 70216,
+      "sha256": "4e34eca100072b3bf9159ac31fcb213ec5821dd2a788715bd5742d6ecd1cb9f0",
       "category": "hospital",
       "searchTerms": [
         "reception",
@@ -2108,8 +2108,8 @@
       "id": "hos-020",
       "name": "Wayfinding Totem",
       "file": "hos-020.glb",
-      "bytes": 85536,
-      "sha256": "9926d134a31acbb564f601c76c16cbda13c6a900c85986fa25a29c53f7847504",
+      "bytes": 54592,
+      "sha256": "5d8f5a8c4c2f31323c3640b5cc8f17c051aa6d9f1b90500c334fe3dbb988f546",
       "category": "hospital",
       "searchTerms": [
         "reception",
@@ -2141,8 +2141,8 @@
       "id": "hos-021",
       "name": "Potted Plant",
       "file": "hos-021.glb",
-      "bytes": 130864,
-      "sha256": "d1261ddbfec1fd3d3424c5ab348d2f0d550e581c8123ff6ab4618e91fcac2225",
+      "bytes": 44696,
+      "sha256": "5fb3a01375dfde31c0b2a244b3e9de449ccb20798e3f9c9738525e8c87d60c6b",
       "category": "hospital",
       "searchTerms": [
         "reception",
@@ -2153,14 +2153,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -0.35,
+          "x": -0.402,
           "y": 0.0,
-          "z": -0.428
+          "z": -0.392
         },
         "max": {
-          "x": 0.454,
+          "x": 0.402,
           "y": 1.562,
-          "z": 0.357
+          "z": 0.392
         }
       },
       "metadata": {
@@ -2175,8 +2175,8 @@
       "id": "hos-022",
       "name": "Sanitizer Stand",
       "file": "hos-022.glb",
-      "bytes": 72652,
-      "sha256": "dbb152059590214292f173d9f8ed0ad50ba7e198f11642c0e2a05436d23abcfe",
+      "bytes": 52028,
+      "sha256": "97f840968ac42194e8dfdfabe868b8c08441f9aaca4407cdf8747baa46a0f683",
       "category": "hospital",
       "searchTerms": [
         "reception",
@@ -2209,8 +2209,8 @@
       "id": "hos-023",
       "name": "Pharmacy",
       "file": "hos-023.glb",
-      "bytes": 1524452,
-      "sha256": "3806e4149abd7deb20afbeaf6b3fb12581aa82176845d2d7e070f123ef4b97ba",
+      "bytes": 777184,
+      "sha256": "63d42625772c243a1a7d50ab7cdc57949032287bed43ea5077b63c802a955346",
       "category": "hospital",
       "searchTerms": [
         "pharmacy room",
@@ -2221,14 +2221,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -3.6,
+          "x": -3.55,
           "y": -0.06,
-          "z": -3.1
+          "z": -3.05
         },
         "max": {
-          "x": 3.5,
+          "x": 3.55,
           "y": 2.8,
-          "z": 3.0
+          "z": 3.05
         }
       },
       "metadata": {
@@ -2243,8 +2243,8 @@
       "id": "hos-024",
       "name": "Medicine Shelving",
       "file": "hos-024.glb",
-      "bytes": 127376,
-      "sha256": "7025cb145abe0020e05e36241b8f9aef9a4e95689bc43120bc6f4747c0070aae",
+      "bytes": 64772,
+      "sha256": "f20bbe876e0a6fd81e64297e7ae1dacbc61f26abe093487dd60f6970c3b002a4",
       "category": "hospital",
       "searchTerms": [
         "pharmacy",
@@ -2256,12 +2256,12 @@
         "min": {
           "x": -0.6,
           "y": 0.0,
-          "z": -0.2
+          "z": -0.202
         },
         "max": {
           "x": 0.6,
           "y": 2,
-          "z": 0.204
+          "z": 0.202
         }
       },
       "metadata": {
@@ -2276,8 +2276,8 @@
       "id": "hos-025",
       "name": "Drawer Cabinet",
       "file": "hos-025.glb",
-      "bytes": 243432,
-      "sha256": "74ca049497c63cf331b44f92e5a4651274db5524b0de5f457bcf08db8f865f6b",
+      "bytes": 124504,
+      "sha256": "239ee9e6866c069fcd46d03468f4cdb9e2a0ad573b1306d36d0ba55fe1cdc23b",
       "category": "hospital",
       "searchTerms": [
         "pharmacy",
@@ -2289,12 +2289,12 @@
         "min": {
           "x": -0.465,
           "y": 0.0,
-          "z": -0.265
+          "z": -0.271
         },
         "max": {
           "x": 0.465,
           "y": 1.03,
-          "z": 0.277
+          "z": 0.271
         }
       },
       "metadata": {
@@ -2309,8 +2309,8 @@
       "id": "hos-026",
       "name": "Medication Fridge",
       "file": "hos-026.glb",
-      "bytes": 73876,
-      "sha256": "0aedd34269aefdec1dddb380850b7e09116b6fbe956f3a2cc99d96284ec5973f",
+      "bytes": 39772,
+      "sha256": "29207fbeab515f8c5589ba24c2fad831fd4ba5646e4517d761cb3d500a29333a",
       "category": "hospital",
       "searchTerms": [
         "pharmacy",
@@ -2322,12 +2322,12 @@
         "min": {
           "x": -0.3,
           "y": 0.0,
-          "z": -0.31
+          "z": -0.347
         },
         "max": {
           "x": 0.3,
           "y": 1.85,
-          "z": 0.385
+          "z": 0.347
         }
       },
       "metadata": {
@@ -2342,8 +2342,8 @@
       "id": "hos-027",
       "name": "Dispensing Counter",
       "file": "hos-027.glb",
-      "bytes": 79012,
-      "sha256": "c00620b3791427418db47790b5c0439c63269578f5b894dfb3fdcdf771ea9a8a",
+      "bytes": 53520,
+      "sha256": "e30792c4c17de3ea8737059237fcbb5994d4a32e75ba20b54ad1854669db92d5",
       "category": "hospital",
       "searchTerms": [
         "pharmacy",
@@ -2375,8 +2375,8 @@
       "id": "hos-028",
       "name": "Controlled Drugs Cabinet",
       "file": "hos-028.glb",
-      "bytes": 31656,
-      "sha256": "e8e42bffca10ad0f488dcb7c1fa5b468dfe5014100c7f9ea28c1cf2802f3e7f1",
+      "bytes": 19264,
+      "sha256": "6749a3c326627ecc0893a8736281f57d7c8005eb438c655474d0480937171e34",
       "category": "hospital",
       "searchTerms": [
         "pharmacy",
@@ -2389,12 +2389,12 @@
         "min": {
           "x": -0.3,
           "y": 1.2,
-          "z": 0.0
+          "z": -0.168
         },
         "max": {
           "x": 0.3,
-          "y": 2.0,
-          "z": 0.335
+          "y": 2,
+          "z": 0.168
         }
       },
       "metadata": {
@@ -2409,8 +2409,8 @@
       "id": "hos-029",
       "name": "Medication Cart",
       "file": "hos-029.glb",
-      "bytes": 129424,
-      "sha256": "4e77346fcc37544f3ebe52765dec6b19cbd3cb7aff116927ad5307be23dc1540",
+      "bytes": 79336,
+      "sha256": "c019e59673e6c722cf95f15522563a6997f4dc0748161f5d7e65f558c6a7bc15",
       "category": "hospital",
       "searchTerms": [
         "pharmacy",
@@ -2420,14 +2420,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -0.413,
+          "x": -0.461,
           "y": 0.0,
-          "z": -0.326
+          "z": -0.307
         },
         "max": {
-          "x": 0.508,
+          "x": 0.461,
           "y": 1.22,
-          "z": 0.288
+          "z": 0.307
         }
       },
       "metadata": {
@@ -2442,8 +2442,8 @@
       "id": "hos-030",
       "name": "Dispensing Set",
       "file": "hos-030.glb",
-      "bytes": 165016,
-      "sha256": "7dc5e8de0a3b31a6082bfadbbf0d612844ccf4621cca55d749c1d27c3afcd263",
+      "bytes": 109204,
+      "sha256": "4bfb3db4c402cff13af570079bd1c9259fbfd428a0c786635bf735d1d80cdb19",
       "category": "hospital",
       "searchTerms": [
         "pharmacy",
@@ -2452,14 +2452,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -0.26,
+          "x": -0.261,
           "y": 0.0,
-          "z": -0.07
+          "z": -0.129
         },
         "max": {
-          "x": 0.262,
+          "x": 0.261,
           "y": 0.093,
-          "z": 0.188
+          "z": 0.129
         }
       },
       "metadata": {
@@ -2474,8 +2474,8 @@
       "id": "hos-031",
       "name": "Operating Room",
       "file": "hos-031.glb",
-      "bytes": 1695204,
-      "sha256": "c39ea44c40216529eb10d556f77a54190f541fe04c7d9a8fbe6ca5a604f2ebd3",
+      "bytes": 1013640,
+      "sha256": "e32b37f3b1c0af0ef242251dc85863366bc9d430480cb672a263dc6121083020",
       "category": "hospital",
       "searchTerms": [
         "operating room",
@@ -2485,14 +2485,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -3.6,
+          "x": -3.55,
           "y": -0.06,
-          "z": -3.6
+          "z": -3.55
         },
         "max": {
-          "x": 3.5,
-          "y": 3.0,
-          "z": 3.5
+          "x": 3.55,
+          "y": 3,
+          "z": 3.55
         }
       },
       "metadata": {
@@ -2507,8 +2507,8 @@
       "id": "hos-032",
       "name": "Operating Table",
       "file": "hos-032.glb",
-      "bytes": 241704,
-      "sha256": "5e346f89682330d9cffea5b832f1ebce6a9e1d38bd33dcdd0e8fc06243eb096a",
+      "bytes": 170456,
+      "sha256": "0686288b6e9ffe6fdd550d7b81cb78e7a40d7511314938a215cc6f8de960f519",
       "category": "hospital",
       "searchTerms": [
         "operating room",
@@ -2540,8 +2540,8 @@
       "id": "hos-033",
       "name": "Surgical Light",
       "file": "hos-033.glb",
-      "bytes": 260260,
-      "sha256": "37a6f1759001152f2e2c44f6f65f407f50bd3466c4b7d16fa235a341124b81e0",
+      "bytes": 163224,
+      "sha256": "9fd7b972f68e6931d07e22d1230b85c69b1d04b386e4522b2af2ae3541dcf9ed",
       "category": "hospital",
       "searchTerms": [
         "operating room",
@@ -2551,14 +2551,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -0.792,
-          "y": 1.817,
-          "z": -0.487
+          "x": -0.866,
+          "y": 1.823,
+          "z": -0.574
         },
         "max": {
-          "x": 1.006,
-          "y": 3.0,
-          "z": 0.701
+          "x": 0.866,
+          "y": 3,
+          "z": 0.574
         }
       },
       "metadata": {
@@ -2573,8 +2573,8 @@
       "id": "hos-034",
       "name": "Anesthesia Machine",
       "file": "hos-034.glb",
-      "bytes": 559112,
-      "sha256": "60d3299b1683ebe2388f3ccb0d91ffbcce77dff1ba3ffdd55b128ba8001b3dbf",
+      "bytes": 332668,
+      "sha256": "c4c57bc49ae6c43ccf301ce713ee0053a7244b0345bbdbb17fec0f79dd1ef804",
       "category": "hospital",
       "searchTerms": [
         "operating room",
@@ -2583,14 +2583,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -0.455,
+          "x": -0.493,
           "y": 0.0,
-          "z": -0.41
+          "z": -0.683
         },
         "max": {
-          "x": 0.53,
+          "x": 0.493,
           "y": 1.878,
-          "z": 0.957
+          "z": 0.683
         }
       },
       "metadata": {
@@ -2605,8 +2605,8 @@
       "id": "hos-035",
       "name": "Equipment Boom",
       "file": "hos-035.glb",
-      "bytes": 90300,
-      "sha256": "3d1290582eaa7e92c92293e2d19e6b1d2f0fa330175f97f4f040bd27447a6f8f",
+      "bytes": 56924,
+      "sha256": "dbd8a524004c330bfe976fb66d17079b5ca3ec2cd12442bba7e1052bbb3274fa",
       "category": "hospital",
       "searchTerms": [
         "operating room",
@@ -2615,14 +2615,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -0.18,
+          "x": -0.665,
           "y": 1.35,
-          "z": -0.18
+          "z": -0.368
         },
         "max": {
-          "x": 1.15,
-          "y": 3.0,
-          "z": 0.556
+          "x": 0.665,
+          "y": 3,
+          "z": 0.368
         }
       },
       "metadata": {
@@ -2637,8 +2637,8 @@
       "id": "hos-036",
       "name": "Instrument Table",
       "file": "hos-036.glb",
-      "bytes": 157032,
-      "sha256": "85ed46d2544e634793f98877b3054c7f797046666dcbb0bdc87c9f999ff433dc",
+      "bytes": 89812,
+      "sha256": "126549f532c4b112be3c79213b0a0a822bd5eb502aea5f929be4170ddf32feaa",
       "category": "hospital",
       "searchTerms": [
         "operating room",
@@ -2670,8 +2670,8 @@
       "id": "hos-037",
       "name": "Mayo Stand",
       "file": "hos-037.glb",
-      "bytes": 137436,
-      "sha256": "4d256767227f1050989eb39a83765c11c5494085e29d86db41918dc8ddae56b0",
+      "bytes": 77208,
+      "sha256": "4dfcc2f825425a7921ac7ff649847b3380d92604aff1b48aa5d007d5b3576841",
       "category": "hospital",
       "searchTerms": [
         "operating room",
@@ -2682,12 +2682,12 @@
         "min": {
           "x": -0.275,
           "y": 0.0,
-          "z": -0.28
+          "z": -0.267
         },
         "max": {
           "x": 0.275,
           "y": 1.067,
-          "z": 0.255
+          "z": 0.267
         }
       },
       "metadata": {
@@ -2702,8 +2702,8 @@
       "id": "hos-038",
       "name": "Scrub Sink",
       "file": "hos-038.glb",
-      "bytes": 121904,
-      "sha256": "65328f9b6155bb6f8ab4ba84afed4211ed8e00d1554ace42d667b93ab0b56bf2",
+      "bytes": 75764,
+      "sha256": "9648cfcb9e0d103f048804c55e8267547a2be324ed3d5dd7839eb0954dabc024",
       "category": "hospital",
       "searchTerms": [
         "operating room",
@@ -2716,12 +2716,12 @@
         "min": {
           "x": -0.8,
           "y": 0.0,
-          "z": 0.0
+          "z": -0.275
         },
         "max": {
           "x": 0.8,
           "y": 1.59,
-          "z": 0.55
+          "z": 0.275
         }
       },
       "metadata": {
@@ -2736,8 +2736,8 @@
       "id": "hos-039",
       "name": "Surgeon Stool",
       "file": "hos-039.glb",
-      "bytes": 108696,
-      "sha256": "32018cdd1e548bc2102814b89f38c9bdde80924ccc519f67b3f7e9e8be18027d",
+      "bytes": 66744,
+      "sha256": "25e527c516f864cef255c25102bb9b30498ba53145a6fc0286b244033b9ce2ab",
       "category": "hospital",
       "searchTerms": [
         "operating room",
@@ -2749,12 +2749,12 @@
         "min": {
           "x": -0.272,
           "y": 0.0,
-          "z": -0.24
+          "z": -0.265
         },
         "max": {
           "x": 0.272,
           "y": 0.625,
-          "z": 0.29
+          "z": 0.265
         }
       },
       "metadata": {
@@ -2769,8 +2769,8 @@
       "id": "air-001",
       "name": "Airport Terminal",
       "file": "air-001.glb",
-      "bytes": 14165520,
-      "sha256": "de339d5b376f730d551d175185a49d4c268b53016126db3af449d0b57531166e",
+      "bytes": 8623544,
+      "sha256": "bd4a53bd5333fa24ba896888507e8123a87c782573179a0da30bff794a7ea312",
       "category": "airport",
       "searchTerms": [
         "building",
@@ -2779,14 +2779,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -36,
-          "y": -2.715,
-          "z": -54.0
+          "x": -45.8,
+          "y": -0.08,
+          "z": -29.25
         },
         "max": {
-          "x": 55.6,
-          "y": 42.108,
-          "z": 4.5
+          "x": 45.8,
+          "y": 42.037,
+          "z": 29.25
         }
       },
       "metadata": {
@@ -2800,8 +2800,8 @@
       "id": "air-002",
       "name": "Apron + Hangars",
       "file": "air-002.glb",
-      "bytes": 2979360,
-      "sha256": "14b2bfacacce2c11a4973c27be07585eb408740846b001957c9ad27330c56e32",
+      "bytes": 1691512,
+      "sha256": "059b90577618f9ffccd073e7dd20c2c89b3b3bb5fc2d55da1894f131061f4f53",
       "category": "airport",
       "searchTerms": [
         "airside",
@@ -2811,14 +2811,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -36,
-          "y": -2.715,
-          "z": -54.0
+          "x": -45.8,
+          "y": -0.08,
+          "z": -24.69
         },
         "max": {
-          "x": 55.6,
-          "y": 42.108,
-          "z": -4.62
+          "x": 45.8,
+          "y": 42.037,
+          "z": 24.69
         }
       },
       "metadata": {
@@ -2833,8 +2833,8 @@
       "id": "air-003",
       "name": "Maintenance Hangar",
       "file": "air-003.glb",
-      "bytes": 696348,
-      "sha256": "740cbaed56aa3fe280b12f69f10036641fc2fb7025665287474b7f713479eb31",
+      "bytes": 434520,
+      "sha256": "fc8de4fbcd96994869af541f008132778e06036d9ad68796a5d320a387d59471",
       "category": "airport",
       "searchTerms": [
         "airside",
@@ -2845,13 +2845,13 @@
       "boundingBox": {
         "min": {
           "x": -11.2,
-          "y": -2.715,
-          "z": -9.2
+          "y": -0.06,
+          "z": -11.335
         },
         "max": {
           "x": 11.2,
-          "y": 16.597,
-          "z": 13.47
+          "y": 10,
+          "z": 11.335
         }
       },
       "metadata": {
@@ -2866,8 +2866,8 @@
       "id": "air-004",
       "name": "Cargo Hangar",
       "file": "air-004.glb",
-      "bytes": 1276020,
-      "sha256": "f404733ec5353bdb6a0046e89e5d378079181a190131c6b8fbd4efcd2c9b6cd5",
+      "bytes": 637752,
+      "sha256": "180a5a45d498d960744e2538a5cbb45efbc2398d9584b47aaa4093fd7cd0cccc",
       "category": "airport",
       "searchTerms": [
         "airside",
@@ -2878,13 +2878,13 @@
       "boundingBox": {
         "min": {
           "x": -11.2,
-          "y": -2.715,
-          "z": -9.2
+          "y": -0.06,
+          "z": -9.25
         },
         "max": {
           "x": 11.2,
-          "y": 16.597,
-          "z": 9.3
+          "y": 10,
+          "z": 9.25
         }
       },
       "metadata": {
@@ -2899,8 +2899,8 @@
       "id": "air-005",
       "name": "Fighter Jet",
       "file": "air-005.glb",
-      "bytes": 157196,
-      "sha256": "3ade0886fa2c5aae21c60f68489b3046c65d2d23b885940e591fafdd4371b378",
+      "bytes": 102396,
+      "sha256": "5db776f628c50157d905b7fe37a8e8584f309c931112f00349ae256b4d7db4bc",
       "category": "airport",
       "searchTerms": [
         "airside",
@@ -2911,12 +2911,12 @@
         "min": {
           "x": -4.752,
           "y": -0.006,
-          "z": -7.65
+          "z": -7.56
         },
         "max": {
           "x": 4.752,
           "y": 4.68,
-          "z": 7.47
+          "z": 7.56
         }
       },
       "metadata": {
@@ -2931,8 +2931,8 @@
       "id": "air-006",
       "name": "Forklift",
       "file": "air-006.glb",
-      "bytes": 113316,
-      "sha256": "3c75caf7d7332e68e3a2ef55288d369b0dd6e26c9e9a282e8e8e09ba0f1fa474",
+      "bytes": 69052,
+      "sha256": "7011d28e97da9997b563fbfd4139a56b5802fee2cf22ad2995396a001194daf3",
       "category": "airport",
       "searchTerms": [
         "airside",
@@ -2944,12 +2944,12 @@
         "min": {
           "x": -0.725,
           "y": 0.0,
-          "z": -1.25
+          "z": -1.65
         },
         "max": {
           "x": 0.725,
           "y": 2.28,
-          "z": 2.05
+          "z": 1.65
         }
       },
       "metadata": {
@@ -2964,8 +2964,8 @@
       "id": "air-007",
       "name": "Pallet Load",
       "file": "air-007.glb",
-      "bytes": 40788,
-      "sha256": "17dceb8453e25e2e4c3ed992f604e80040aae56a008960a058c125d0cfa43dfa",
+      "bytes": 18104,
+      "sha256": "501c717f1b23cde388de4556f8835d0297dab7e656e296ea7641676b64811ee1",
       "category": "airport",
       "searchTerms": [
         "airside",
@@ -2997,8 +2997,8 @@
       "id": "air-008",
       "name": "Pallet Rack",
       "file": "air-008.glb",
-      "bytes": 358788,
-      "sha256": "9237d5bc26b46953c05c859b2e52e90182308febdb131032d7f2cfd310bcd3ed",
+      "bytes": 147004,
+      "sha256": "645c9601b31963368b8b251ece40935e5fe5963fe6e504cc665f2a6df189a513",
       "category": "airport",
       "searchTerms": [
         "airside",
@@ -3031,8 +3031,8 @@
       "id": "air-009",
       "name": "Tool Cabinet",
       "file": "air-009.glb",
-      "bytes": 61420,
-      "sha256": "8a4f460e1808dab0db743244bc089f5692081cf703d4f1a288419750440f38ee",
+      "bytes": 32596,
+      "sha256": "a90a47f637e7a978fffeec52d308a810f390548dea802e1d95c29af2b15c8e5f",
       "category": "airport",
       "searchTerms": [
         "airside",
@@ -3044,12 +3044,12 @@
         "min": {
           "x": -0.72,
           "y": 0.0,
-          "z": -0.26
+          "z": -0.27
         },
         "max": {
           "x": 0.72,
           "y": 1.52,
-          "z": 0.28
+          "z": 0.27
         }
       },
       "metadata": {
@@ -3064,8 +3064,8 @@
       "id": "air-010",
       "name": "Drum Station",
       "file": "air-010.glb",
-      "bytes": 143940,
-      "sha256": "1f53dfb8f5376e24811fc0fc681e91e5eae44475995b392e77ded5ba38e7badf",
+      "bytes": 109896,
+      "sha256": "02cc5e38096c55959f439bbcac01b9180684b34a2cfce95627adbfeed4343337",
       "category": "airport",
       "searchTerms": [
         "airside",
@@ -3096,8 +3096,8 @@
       "id": "air-011",
       "name": "Baggage Tug",
       "file": "air-011.glb",
-      "bytes": 92664,
-      "sha256": "e18e39ba7fd71dc351fbe8c0354541ff5016dd8c4306f79c60ecf4eaea03b4ee",
+      "bytes": 61344,
+      "sha256": "0abda68a1f284e43a6ae6033ddd4527c34a5884204b827ef524d729e2067d58c",
       "category": "airport",
       "searchTerms": [
         "airside",
@@ -3110,12 +3110,12 @@
         "min": {
           "x": -0.875,
           "y": 0.0,
-          "z": -1.425
+          "z": -1.322
         },
         "max": {
           "x": 0.875,
           "y": 2.09,
-          "z": 1.22
+          "z": 1.322
         }
       },
       "metadata": {
@@ -3130,8 +3130,8 @@
       "id": "air-012",
       "name": "Baggage Cart",
       "file": "air-012.glb",
-      "bytes": 299772,
-      "sha256": "a5739c8c926d58ab33879892ece24c58c8570ca07f72a90f9dce454bd65e62f0",
+      "bytes": 201092,
+      "sha256": "624d950b53034ffc249c716f59d5fe5cef5b25d2198e98db4fe5b47cda284992",
       "category": "airport",
       "searchTerms": [
         "airside",
@@ -3142,14 +3142,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -0.75,
+          "x": -0.759,
           "y": 0.0,
-          "z": -1.4
+          "z": -1.838
         },
         "max": {
-          "x": 0.768,
+          "x": 0.759,
           "y": 1.94,
-          "z": 2.275
+          "z": 1.838
         }
       },
       "metadata": {
@@ -3164,8 +3164,8 @@
       "id": "air-013",
       "name": "Baggage Train",
       "file": "air-013.glb",
-      "bytes": 689848,
-      "sha256": "96a188ded0577e552979b4128f200918cde8c8a456f0c2d203d6b397dffb70af",
+      "bytes": 448472,
+      "sha256": "5153651d6c54a479dcf7a56addb01c3619b9dc09564cc589280f8d6b77b2761f",
       "category": "airport",
       "searchTerms": [
         "airside",
@@ -3178,12 +3178,12 @@
         "min": {
           "x": -0.875,
           "y": 0.0,
-          "z": -8.8
+          "z": -5.01
         },
         "max": {
           "x": 0.875,
           "y": 2.09,
-          "z": 1.22
+          "z": 5.01
         }
       },
       "metadata": {
@@ -3198,8 +3198,8 @@
       "id": "air-014",
       "name": "Pushback Tug",
       "file": "air-014.glb",
-      "bytes": 64232,
-      "sha256": "f8aa390f36ec2b73a3ad38227e1cf09a325571163b9e51f993e24355609a5024",
+      "bytes": 42360,
+      "sha256": "704c3905d8714e5bb0ff9beffb1dc7a12d67b6bcd158fbc1f1cdec390ea4e5e8",
       "category": "airport",
       "searchTerms": [
         "airside",
@@ -3210,12 +3210,12 @@
         "min": {
           "x": -1.655,
           "y": 0.0,
-          "z": -2.6
+          "z": -2.75
         },
         "max": {
           "x": 1.655,
           "y": 2.08,
-          "z": 2.9
+          "z": 2.75
         }
       },
       "metadata": {
@@ -3230,8 +3230,8 @@
       "id": "air-015",
       "name": "Fuel Truck",
       "file": "air-015.glb",
-      "bytes": 161376,
-      "sha256": "11110d05f8636dbb9cce76a6e74c5d5f5774faf3bed0a20978bebe65d847d15d",
+      "bytes": 107264,
+      "sha256": "7b3a516be3841aad8320443e6d393fea2cfc9efc1556b10d81cdb0d9d792b1ab",
       "category": "airport",
       "searchTerms": [
         "airside",
@@ -3242,12 +3242,12 @@
         "min": {
           "x": -1.23,
           "y": 0.0,
-          "z": -5.05
+          "z": -4.75
         },
         "max": {
           "x": 1.23,
           "y": 3.67,
-          "z": 4.45
+          "z": 4.75
         }
       },
       "metadata": {
@@ -3262,8 +3262,8 @@
       "id": "air-016",
       "name": "Baggage Claim",
       "file": "air-016.glb",
-      "bytes": 1732208,
-      "sha256": "52efb79f807eb9d5549c1d9416d5ad672f824063d92d5519d1df303406841cb2",
+      "bytes": 1028768,
+      "sha256": "59240e01065bfc7e63eaf4235f682b25c2d8088de8939bae1413a8d7f7220d22",
       "category": "airport",
       "searchTerms": [
         "baggage claim",
@@ -3274,14 +3274,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -6.1,
+          "x": -6.05,
           "y": -0.06,
-          "z": -4.6
+          "z": -4.55
         },
         "max": {
-          "x": 6.0,
-          "y": 4.0,
-          "z": 4.5
+          "x": 6.05,
+          "y": 4,
+          "z": 4.55
         }
       },
       "metadata": {
@@ -3296,8 +3296,8 @@
       "id": "air-017",
       "name": "Baggage Carousel",
       "file": "air-017.glb",
-      "bytes": 660776,
-      "sha256": "e8aa4db8730386f1babb53189585a7d6f159ab62a3204d8612bc340c21ba8975",
+      "bytes": 391860,
+      "sha256": "b989e6dd702fcc7238e26146cc8384fb6d8f4c3c3d812f87f6e798e48e4c0dbf",
       "category": "airport",
       "searchTerms": [
         "baggage claim",
@@ -3329,8 +3329,8 @@
       "id": "air-018",
       "name": "Carousel Display",
       "file": "air-018.glb",
-      "bytes": 99980,
-      "sha256": "19a48e04826750571baac488828f2282b82bf99f783850664b974535ec5752b0",
+      "bytes": 61952,
+      "sha256": "fce48d5ff6a9a102db653506ca8c48ee39fb31762ffc7afe6ee9eb8beb030606",
       "category": "airport",
       "searchTerms": [
         "carousel sign",
@@ -3364,8 +3364,8 @@
       "id": "air-019",
       "name": "Luggage Trolley",
       "file": "air-019.glb",
-      "bytes": 200960,
-      "sha256": "fb9bc1b4f1fd6651381fc811089ca8988cf35158ed74d6d0d82185bb7da5dc60",
+      "bytes": 120244,
+      "sha256": "0a29321014b4a4841cbee60115feedd434ab945e007d0456bd6079f1f0e72a09",
       "category": "airport",
       "searchTerms": [
         "baggage claim",
@@ -3378,12 +3378,12 @@
         "min": {
           "x": -0.3,
           "y": 0.0,
-          "z": -0.544
+          "z": -0.497
         },
         "max": {
           "x": 0.3,
           "y": 1.378,
-          "z": 0.45
+          "z": 0.497
         }
       },
       "metadata": {
@@ -3398,8 +3398,8 @@
       "id": "air-020",
       "name": "Luggage Set",
       "file": "air-020.glb",
-      "bytes": 188948,
-      "sha256": "97aee8af23b69ae74978a430955592125ce6b3c7b488bbdcc8331ee22cc1c207",
+      "bytes": 127668,
+      "sha256": "cddf5bf7f1c44f5ce51a6910a55565c47276526e5972d38af04e50b350ac1bfd",
       "category": "airport",
       "searchTerms": [
         "baggage claim",
@@ -3409,14 +3409,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -0.69,
+          "x": -0.725,
           "y": 0.0,
-          "z": -0.31
+          "z": -0.585
         },
         "max": {
-          "x": 0.76,
+          "x": 0.725,
           "y": 1.088,
-          "z": 0.86
+          "z": 0.585
         }
       },
       "metadata": {
@@ -3431,8 +3431,8 @@
       "id": "air-021",
       "name": "Check-In Hall",
       "file": "air-021.glb",
-      "bytes": 3076524,
-      "sha256": "3f2fd6110492f0b5444c9f4ceeb2364b3f1fca18f8d1139a34e97c5baf1dbe81",
+      "bytes": 1734392,
+      "sha256": "f1c020b1a689d21d2580fb8745695c89e92d77e3a6eb1f73d7a3791f8b0aa77c",
       "category": "airport",
       "searchTerms": [
         "check in hall",
@@ -3442,14 +3442,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -6.1,
+          "x": -6.05,
           "y": -0.06,
-          "z": -4.6
+          "z": -4.55
         },
         "max": {
-          "x": 6,
+          "x": 6.05,
           "y": 4,
-          "z": 4.5
+          "z": 4.55
         }
       },
       "metadata": {
@@ -3464,8 +3464,8 @@
       "id": "air-022",
       "name": "Check-In Counter",
       "file": "air-022.glb",
-      "bytes": 222060,
-      "sha256": "5a08142666c6534b70d4d086af83f2a5e41f7c1dc99bb9f92f9887115ff0cafe",
+      "bytes": 143996,
+      "sha256": "8be92fb984cd0bb38cdd86c0823ad6cb38719068e529ee90b2ad3c1fa1954634",
       "category": "airport",
       "searchTerms": [
         "check in hall",
@@ -3475,14 +3475,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -1.208,
+          "x": -1.184,
           "y": 0.0,
-          "z": -0.56
+          "z": -0.505
         },
         "max": {
-          "x": 1.16,
+          "x": 1.184,
           "y": 2.638,
-          "z": 0.45
+          "z": 0.505
         }
       },
       "metadata": {
@@ -3497,8 +3497,8 @@
       "id": "air-023",
       "name": "Baggage Conveyor",
       "file": "air-023.glb",
-      "bytes": 23844,
-      "sha256": "7b3788d00c3aedd532568d6c9b73d5c5a192a554f12ffb29974a93f5a7ea2a94",
+      "bytes": 14176,
+      "sha256": "5db2d35a7cb94d294e6e344a8846ab22e987f96dbbfc6e9bdfdb8ac3a778a1b1",
       "category": "airport",
       "searchTerms": [
         "check in hall",
@@ -3531,8 +3531,8 @@
       "id": "air-024",
       "name": "Self-Service Kiosk",
       "file": "air-024.glb",
-      "bytes": 153364,
-      "sha256": "a25d760121451890f3abdd352ed15badfda4373c63206392c7a6b994967193b6",
+      "bytes": 108856,
+      "sha256": "bceb01991d02004733f483efeef5209be8c4a85243721c4f5c5d824daeeb3bb0",
       "category": "airport",
       "searchTerms": [
         "check in hall",
@@ -3544,12 +3544,12 @@
         "min": {
           "x": -0.288,
           "y": 0.0,
-          "z": -0.228
+          "z": -0.254
         },
         "max": {
           "x": 0.288,
           "y": 1.988,
-          "z": 0.28
+          "z": 0.254
         }
       },
       "metadata": {
@@ -3564,8 +3564,8 @@
       "id": "air-025",
       "name": "Departures Board",
       "file": "air-025.glb",
-      "bytes": 699076,
-      "sha256": "a2ce4c1681c94c397f501ac902e5b2eb09b63e3c1503dd740ad59796eb1193cc",
+      "bytes": 297816,
+      "sha256": "9668490cc88e26c95a00f01afa4ccf2d43a8e18144a4d48ea64f9e85926b3401",
       "category": "airport",
       "searchTerms": [
         "check in hall",
@@ -3578,12 +3578,12 @@
         "min": {
           "x": -1.32,
           "y": 1.87,
-          "z": 0.0
+          "z": -0.044
         },
         "max": {
           "x": 1.32,
           "y": 2.73,
-          "z": 0.088
+          "z": 0.044
         }
       },
       "metadata": {
@@ -3598,8 +3598,8 @@
       "id": "air-026",
       "name": "Overhead Wayfinding Sign",
       "file": "air-026.glb",
-      "bytes": 54832,
-      "sha256": "7333cb159e3cb300677654919be4147bef00662f0549eaf685bbd4b4ff806f83",
+      "bytes": 28024,
+      "sha256": "c20743812e5a5d408eb33341cee70ba9b802935f891fe0d8a097b83853449a67",
       "category": "airport",
       "searchTerms": [
         "overhead sign",
@@ -3615,7 +3615,7 @@
         },
         "max": {
           "x": 1.5,
-          "y": 4.0,
+          "y": 4,
           "z": 0.073
         }
       },
@@ -3631,8 +3631,8 @@
       "id": "air-027",
       "name": "Security Checkpoint",
       "file": "air-027.glb",
-      "bytes": 1495412,
-      "sha256": "9cb7cb23a42300f3683c0224700486385400d4ba59de184424e612c4bc1c2c03",
+      "bytes": 815096,
+      "sha256": "021bdf6243e10e453c773607fe9491ae13710f33c8eefa275c4807da85e3da75",
       "category": "airport",
       "searchTerms": [
         "security",
@@ -3641,14 +3641,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -5.1,
+          "x": -5.05,
           "y": -0.06,
-          "z": -4.6
+          "z": -4.55
         },
         "max": {
-          "x": 5,
+          "x": 5.05,
           "y": 4,
-          "z": 4.5
+          "z": 4.55
         }
       },
       "metadata": {
@@ -3663,8 +3663,8 @@
       "id": "air-028",
       "name": "X-Ray Scanner",
       "file": "air-028.glb",
-      "bytes": 322292,
-      "sha256": "9d9d93b1679b06a2fc1b65d43ed04f40746e477dd02ee159ddfed365c27534b4",
+      "bytes": 194952,
+      "sha256": "b38baf61c990387cbe57bb0dedac8da143838b20ca7c0ccd0aa27bc540b0fb49",
       "category": "airport",
       "searchTerms": [
         "xray scanner",
@@ -3673,14 +3673,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -2.9,
+          "x": -3,
           "y": 0.0,
-          "z": -1.075
+          "z": -0.789
         },
         "max": {
-          "x": 3.1,
+          "x": 3,
           "y": 1.768,
-          "z": 0.504
+          "z": 0.789
         }
       },
       "metadata": {
@@ -3695,8 +3695,8 @@
       "id": "air-029",
       "name": "Walk-Through Detector",
       "file": "air-029.glb",
-      "bytes": 56900,
-      "sha256": "d0f4bd088e6a609a97b4303422b157f86e87c114fee6f1b37d878cf167a5baf5",
+      "bytes": 30712,
+      "sha256": "07c7da4c2a882a42dd073c1c1902056f43d4eb59c928c0f8fedb501fbed857c4",
       "category": "airport",
       "searchTerms": [
         "security",
@@ -3726,8 +3726,8 @@
       "id": "air-030",
       "name": "Security Tray",
       "file": "air-030.glb",
-      "bytes": 10660,
-      "sha256": "322da9a37e21742976cbf5290ed451db4d1d81da67745f089e68ffe917c47744",
+      "bytes": 6056,
+      "sha256": "b01d554f899d99a98ae9d47363806781f26738a6f4440ebc0e16b6fd141e7dba",
       "category": "airport",
       "searchTerms": [
         "security",
@@ -3757,8 +3757,8 @@
       "id": "air-031",
       "name": "Tray Stack",
       "file": "air-031.glb",
-      "bytes": 112732,
-      "sha256": "1fdbd1dc7f4c3bbd7f6412edac7a71eb38f28862009e8465097d74605da0effd",
+      "bytes": 52560,
+      "sha256": "dd0f4d982da767326ca84131547555bf9b27eff40657f87b607668432abbb6ff",
       "category": "airport",
       "searchTerms": [
         "security",
@@ -3788,8 +3788,8 @@
       "id": "air-032",
       "name": "Bag Search Table",
       "file": "air-032.glb",
-      "bytes": 29100,
-      "sha256": "f41a237fa2871b48864de64710f332d7788f59373d90ba8e48548aecd2a608c7",
+      "bytes": 18548,
+      "sha256": "b485eacfe614e28952f6cbb2db16705df36e99b13489ab9ae2ceac28f31fc1be",
       "category": "airport",
       "searchTerms": [
         "security",
@@ -3820,8 +3820,8 @@
       "id": "air-033",
       "name": "Departure Gate",
       "file": "air-033.glb",
-      "bytes": 4874120,
-      "sha256": "ba550379711b366ae5a01d256adafdc5b1b74ed21f6cfce67845523bcc1cd38e",
+      "bytes": 3412292,
+      "sha256": "3e39808948df8f4e3ce0e4a18447c1e4e2538df005300ccc024d8558f3348cda",
       "category": "airport",
       "searchTerms": [
         "departure gate",
@@ -3831,14 +3831,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -7.1,
+          "x": -7.05,
           "y": -0.08,
-          "z": -10.66
+          "z": -7.58
         },
         "max": {
-          "x": 7,
-          "y": 4.0,
-          "z": 4.5
+          "x": 7.05,
+          "y": 4,
+          "z": 7.58
         }
       },
       "metadata": {
@@ -3853,8 +3853,8 @@
       "id": "air-034",
       "name": "Gate Desk",
       "file": "air-034.glb",
-      "bytes": 280348,
-      "sha256": "b73d72670e205ac6d0f2ad5a31ecad79ef10b6a3234d366ab484515215ba4b1a",
+      "bytes": 179028,
+      "sha256": "1cbec0737b0e4c5009f15e2d4c34707188e8b1e10eebd88ca6541d7c623e28de",
       "category": "airport",
       "searchTerms": [
         "departure gate",
@@ -3866,12 +3866,12 @@
         "min": {
           "x": -0.908,
           "y": 0.0,
-          "z": -0.72
+          "z": -0.549
         },
         "max": {
           "x": 0.908,
           "y": 2.808,
-          "z": 0.378
+          "z": 0.549
         }
       },
       "metadata": {
@@ -3886,8 +3886,8 @@
       "id": "air-035",
       "name": "Boarding E-Gates",
       "file": "air-035.glb",
-      "bytes": 126556,
-      "sha256": "2b6d6e11914a60f0a060f641a806d7b76b9314c02f3e3dd67e09589a46353968",
+      "bytes": 88936,
+      "sha256": "1692416c415b919bc0d96b0f457bd2aeec884d2023ee3fca7e537bf32afd5b98",
       "category": "airport",
       "searchTerms": [
         "departure gate",
@@ -3920,8 +3920,8 @@
       "id": "air-036",
       "name": "Gate Seating",
       "file": "air-036.glb",
-      "bytes": 744880,
-      "sha256": "f8620d8099110c0d9da027b35466936b51c9c275e518afe93ce99d3bd10df69d",
+      "bytes": 506864,
+      "sha256": "b5811534595df2a72e185085b4732d1cbb515d7f6af41ab0516eda1356512023",
       "category": "airport",
       "searchTerms": [
         "departure gate",
@@ -3937,7 +3937,7 @@
         },
         "max": {
           "x": 1.58,
-          "y": 1.04,
+          "y": 1.039,
           "z": 0.608
         }
       },
@@ -3953,8 +3953,8 @@
       "id": "air-037",
       "name": "Charging Pillar",
       "file": "air-037.glb",
-      "bytes": 146448,
-      "sha256": "d43f63ad0da1ed0fc615665deb3414cac870a011842fa70f95ec3a47701a5fc5",
+      "bytes": 95464,
+      "sha256": "e1b5c645ca1630001487bac6f1aeb8f045aca3a5eb8bad5569472b7b62c1611b",
       "category": "airport",
       "searchTerms": [
         "departure gate",
@@ -3985,8 +3985,8 @@
       "id": "air-038",
       "name": "Curtain Wall",
       "file": "air-038.glb",
-      "bytes": 59860,
-      "sha256": "c71c878f18441767be555ed8bdb95dc3c0060a082b7cf5a0fad7b6edd5608dc7",
+      "bytes": 29708,
+      "sha256": "68a5caf7911fc8410bf085bdbb6796110fbc0a7aebae7efbb0316724d84c6dd4",
       "category": "airport",
       "searchTerms": [
         "departure gate",
@@ -3997,12 +3997,12 @@
         "min": {
           "x": -3.75,
           "y": 0.0,
-          "z": -0.16
+          "z": -0.087
         },
         "max": {
           "x": 3.75,
-          "y": 4.0,
-          "z": 0.015
+          "y": 4,
+          "z": 0.087
         }
       },
       "metadata": {
@@ -4017,8 +4017,8 @@
       "id": "prs-001",
       "name": "Prison Wing",
       "file": "prs-001.glb",
-      "bytes": 3394420,
-      "sha256": "53783d707614dc14d9927746176758f69106c8a2118da06af621ba404fc94f0d",
+      "bytes": 1813920,
+      "sha256": "36d1aa067212063d9bfae0a217be5102ffe4ce374fec6ea7e532c130caeb6c43",
       "category": "prison",
       "searchTerms": [
         "building",
@@ -4028,14 +4028,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -26.05,
+          "x": -21.464,
           "y": -0.06,
-          "z": -4.05
+          "z": -6.748
         },
         "max": {
-          "x": 16.88,
+          "x": 21.464,
           "y": 6.3,
-          "z": 9.45
+          "z": 6.748
         }
       },
       "metadata": {
@@ -4052,8 +4052,8 @@
       "id": "prs-002",
       "name": "Cell Block",
       "file": "prs-002.glb",
-      "bytes": 2591204,
-      "sha256": "2d48cd7ca683171b220fe377f7e99d19a3f1cd4f1611829d738b0743f7c0c637",
+      "bytes": 1299764,
+      "sha256": "f513d0d116ec5cfa932edb5705fd751f638957649b2aeed88e12308b685bae19",
       "category": "prison",
       "searchTerms": [
         "cell block",
@@ -4067,12 +4067,12 @@
         "min": {
           "x": -9.82,
           "y": -0.06,
-          "z": -3.8
+          "z": -6.5
         },
         "max": {
           "x": 9.82,
           "y": 6.3,
-          "z": 9.2
+          "z": 6.5
         }
       },
       "metadata": {
@@ -4090,8 +4090,8 @@
       "id": "prs-003",
       "name": "Cell",
       "file": "prs-003.glb",
-      "bytes": 109440,
-      "sha256": "ef2f3c604f69cf62a5607bd8d6df9f85ad3f345e924f857e0a86504e4494d030",
+      "bytes": 64900,
+      "sha256": "2c4940f0459dc4fbd637a79193b9b47a8f2e428943ea19bcb5c7d73e62374807",
       "category": "prison",
       "searchTerms": [
         "prison cell",
@@ -4105,12 +4105,12 @@
         "min": {
           "x": -1.35,
           "y": -0.06,
-          "z": -3.8
+          "z": -2.319
         },
         "max": {
           "x": 1.35,
           "y": 2.7,
-          "z": 0.838
+          "z": 2.319
         }
       },
       "metadata": {
@@ -4128,8 +4128,8 @@
       "id": "prs-004",
       "name": "Stair Flight",
       "file": "prs-004.glb",
-      "bytes": 53892,
-      "sha256": "d935bea7906bb0e3b7933ce51323d7276e6e8663ab48577be330c29350389335",
+      "bytes": 26752,
+      "sha256": "5dab1c105ff40bc97a77dc771c6972da5a2a403c66afaeb51d16ca22abd01b9d",
       "category": "prison",
       "searchTerms": [
         "cell block",
@@ -4140,12 +4140,12 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -0.062,
+          "x": -2.142,
           "y": 0.049,
           "z": -0.505
         },
         "max": {
-          "x": 4.222,
+          "x": 2.142,
           "y": 3.921,
           "z": 0.505
         }
@@ -4162,8 +4162,8 @@
       "id": "prs-005",
       "name": "Dayroom Table",
       "file": "prs-005.glb",
-      "bytes": 56556,
-      "sha256": "513640a3b2093af28fc30f93b969b9065652bb1e04b67521d8d32e60a5d78fd0",
+      "bytes": 34080,
+      "sha256": "66e4416ed5aa3a4844a68353cd9354bfbc10c7b937145fbb50c41cdb22b79c82",
       "category": "prison",
       "searchTerms": [
         "cell block",
@@ -4173,14 +4173,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -0.784,
+          "x": -0.679,
           "y": 0.0,
-          "z": -0.784
+          "z": -0.679
         },
         "max": {
-          "x": 0.784,
+          "x": 0.679,
           "y": 0.78,
-          "z": 0.784
+          "z": 0.679
         }
       },
       "metadata": {
@@ -4195,8 +4195,8 @@
       "id": "prs-006",
       "name": "Officer Station",
       "file": "prs-006.glb",
-      "bytes": 199752,
-      "sha256": "bf13d1b5392ebeadbc8142df3d3c868ea8d357490ddad272ffeacea528e9529d",
+      "bytes": 117936,
+      "sha256": "bb1a7ae68762ccb90314da2d36fba8364ed8f740b65c38696e5abbaee87e62b1",
       "category": "prison",
       "searchTerms": [
         "cell block",
@@ -4213,7 +4213,7 @@
         "max": {
           "x": 1.51,
           "y": 1.51,
-          "z": 1.0
+          "z": 1
         }
       },
       "metadata": {
@@ -4225,81 +4225,11 @@
       "thumbnail": "prs-006.webp"
     },
     {
-      "id": "prs-007",
-      "name": "CCTV Camera",
-      "file": "prs-007.glb",
-      "bytes": 14040,
-      "sha256": "7f6a7b55315087001074b7fba90922ceba05dddf27c76deb24ea5922d3dc6498",
-      "category": "prison",
-      "searchTerms": [
-        "cell block",
-        "security",
-        "camera",
-        "surveillance",
-        "correctional",
-        "detention"
-      ],
-      "boundingBox": {
-        "min": {
-          "x": -0.065,
-          "y": -0.08,
-          "z": 0.0
-        },
-        "max": {
-          "x": 0.065,
-          "y": 0.136,
-          "z": 0.492
-        }
-      },
-      "metadata": {
-        "sourceTitle": "Facility Props",
-        "sourceCode": "PRS-007",
-        "description": "Wall mount · bullet camera",
-        "group": "Cell Block"
-      },
-      "thumbnail": "prs-007.webp"
-    },
-    {
-      "id": "prs-008",
-      "name": "CCTV Dome",
-      "file": "prs-008.glb",
-      "bytes": 14844,
-      "sha256": "b72b4831e3c164e62cc6736892fff78e92764ae7ec4351307ed5672a5f1e7c83",
-      "category": "prison",
-      "searchTerms": [
-        "cell block",
-        "security",
-        "camera",
-        "surveillance",
-        "correctional",
-        "detention"
-      ],
-      "boundingBox": {
-        "min": {
-          "x": -0.09,
-          "y": -0.1,
-          "z": -0.09
-        },
-        "max": {
-          "x": 0.09,
-          "y": 0.0,
-          "z": 0.09
-        }
-      },
-      "metadata": {
-        "sourceTitle": "Facility Props",
-        "sourceCode": "PRS-008",
-        "description": "Ø 0.18 m · ceiling mount",
-        "group": "Cell Block"
-      },
-      "thumbnail": "prs-008.webp"
-    },
-    {
       "id": "prs-009",
       "name": "Visiting Room",
       "file": "prs-009.glb",
-      "bytes": 178836,
-      "sha256": "47a569bde29f9f0cf4fd074f60524d4cc3303e3c51eb4b822383af1cedd33f23",
+      "bytes": 144048,
+      "sha256": "08880421f31327a51dec1b47262ba5e1cf2783a52e409f9cbd38510472ebe5f7",
       "category": "prison",
       "searchTerms": [
         "visiting room",
@@ -4309,14 +4239,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -4.1,
+          "x": -4.05,
           "y": -0.06,
-          "z": -3.6
+          "z": -3.55
         },
         "max": {
-          "x": 4,
+          "x": 4.05,
           "y": 2.8,
-          "z": 3.5
+          "z": 3.55
         }
       },
       "metadata": {
@@ -4331,8 +4261,8 @@
       "id": "prs-010",
       "name": "Visiting Booths",
       "file": "prs-010.glb",
-      "bytes": 110504,
-      "sha256": "8a2093db32bfca707a6e71c48d30f0555b78af67378852f5020bf9463b0db723",
+      "bytes": 63008,
+      "sha256": "df0e32dfcd3afd6c74758be06996fe29d89015a12eed8b9975022a6f5777c1e8",
       "category": "prison",
       "searchTerms": [
         "visiting room",
@@ -4364,8 +4294,8 @@
       "id": "prs-011",
       "name": "Exercise Yard",
       "file": "prs-011.glb",
-      "bytes": 613016,
-      "sha256": "cb7c9ba44ddf0d9ca23934f9505c22dbf2a2a71005d709f070263e3354013ad6",
+      "bytes": 382420,
+      "sha256": "f9c254e999187a35534940be8f989d97b065e3998ee0c3b1b74fbb54aefb33c0",
       "category": "prison",
       "searchTerms": [
         "exercise yard",
@@ -4376,14 +4306,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -8.25,
+          "x": -8.144,
           "y": -0.06,
-          "z": -6.75
+          "z": -6.748
         },
         "max": {
-          "x": 8.04,
+          "x": 8.144,
           "y": 4.532,
-          "z": 6.75
+          "z": 6.748
         }
       },
       "metadata": {
@@ -4398,8 +4328,8 @@
       "id": "prs-012",
       "name": "Basketball Hoop",
       "file": "prs-012.glb",
-      "bytes": 32464,
-      "sha256": "cc449286d038037580d55ee1178c0e49d228dea12e9df8004366b6bc76a56bc0",
+      "bytes": 26372,
+      "sha256": "edc0c7fddd63db66e9b2e97089564549bc72638a9f5c644c535565d17ab45b6b",
       "category": "prison",
       "searchTerms": [
         "yard hoop",
@@ -4412,12 +4342,12 @@
         "min": {
           "x": -0.9,
           "y": 0.0,
-          "z": -1.3
+          "z": -0.972
         },
         "max": {
           "x": 0.9,
           "y": 3.95,
-          "z": 0.645
+          "z": 0.972
         }
       },
       "metadata": {
@@ -4432,8 +4362,8 @@
       "id": "prs-013",
       "name": "Pull-Up Station",
       "file": "prs-013.glb",
-      "bytes": 27524,
-      "sha256": "a0abf4cbf7fa194c756e7add086fa3518ede6aab082e5985f73e8810f0730c36",
+      "bytes": 15072,
+      "sha256": "342ee5b035d95f4ce7e20c66ac16b0105e333e514c36fdf7b510caaff683052c",
       "category": "prison",
       "searchTerms": [
         "exercise yard",
@@ -4443,12 +4373,12 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -0.744,
+          "x": -1.572,
           "y": 0.0,
           "z": -0.335
         },
         "max": {
-          "x": 2.4,
+          "x": 1.572,
           "y": 2.4,
           "z": 0.335
         }
@@ -4465,8 +4395,8 @@
       "id": "prs-014",
       "name": "Concrete Bench",
       "file": "prs-014.glb",
-      "bytes": 4712,
-      "sha256": "69c34301b139cf361e2ee138b72456cfdead84f181d1b9eff36c69508f8e22ba",
+      "bytes": 3120,
+      "sha256": "cdfd93e8a7be0de7a51fc573e7c18405118f0d92b3be3e5c83599cfc263866ab",
       "category": "prison",
       "searchTerms": [
         "exercise yard",
@@ -4498,8 +4428,8 @@
       "id": "prs-015",
       "name": "Security Fence",
       "file": "prs-015.glb",
-      "bytes": 123076,
-      "sha256": "7b2496863f2bc9cc25ffdc443283692be5764568097b3c181eac708b7c5377f6",
+      "bytes": 78456,
+      "sha256": "eb3c26b5190e7e380ab6e90efec9b85f1009ae98b3daa45851e5788d632aba36",
       "category": "prison",
       "searchTerms": [
         "fence run",
@@ -4511,14 +4441,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -0.04,
+          "x": -5.04,
           "y": 0.0,
-          "z": -0.25
+          "z": -0.248
         },
         "max": {
-          "x": 10.04,
+          "x": 5.04,
           "y": 4.532,
-          "z": 0.25
+          "z": 0.248
         }
       },
       "metadata": {
@@ -4533,8 +4463,8 @@
       "id": "mal-001",
       "name": "Shopping Mall",
       "file": "mal-001.glb",
-      "bytes": 9742224,
-      "sha256": "0666ffd008904e2e274e616a73f2acc61ce114acb78c902b5ce3e912131d0f19",
+      "bytes": 6825508,
+      "sha256": "6e0b2cfc28326fe80a2a23209527d042347958d7d071c953a21dc916b7385f64",
       "category": "mall",
       "searchTerms": [
         "building",
@@ -4544,14 +4474,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -25.2,
+          "x": -29.6,
           "y": -0.275,
-          "z": -11.0
+          "z": -11.125
         },
         "max": {
-          "x": 34.0,
+          "x": 29.6,
           "y": 9.1,
-          "z": 11.25
+          "z": 11.125
         }
       },
       "metadata": {
@@ -4570,8 +4500,8 @@
       "id": "mal-002",
       "name": "Grocery Store",
       "file": "mal-002.glb",
-      "bytes": 1651720,
-      "sha256": "55fa40422e29f200706d88832533ce746225809deecce07a15756dd9f22f6594",
+      "bytes": 1559240,
+      "sha256": "29d0316436fc176fcc869ed0b0ccfe65a3cc0c19540545b6b61154a2f0fc5930",
       "category": "mall",
       "searchTerms": [
         "stores",
@@ -4581,14 +4511,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -8.0,
+          "x": -8,
           "y": -0.06,
-          "z": -4.25
+          "z": -4.29
         },
         "max": {
-          "x": 8.0,
+          "x": 8,
           "y": 4.5,
-          "z": 4.33
+          "z": 4.29
         }
       },
       "metadata": {
@@ -4603,8 +4533,8 @@
       "id": "mal-003",
       "name": "Fashion Store",
       "file": "mal-003.glb",
-      "bytes": 481968,
-      "sha256": "2e2432dd6c85c4ceebf6ee89906c7149c1cbefc65fc995e4d5b98f23519bf453",
+      "bytes": 277888,
+      "sha256": "5c481affa38c3557832528b09ce050cbd35e85e89d72dfee80f7cc4921f40555",
       "category": "mall",
       "searchTerms": [
         "stores",
@@ -4616,12 +4546,12 @@
         "min": {
           "x": -4.5,
           "y": -0.06,
-          "z": -4.25
+          "z": -4.275
         },
         "max": {
           "x": 4.5,
           "y": 4.5,
-          "z": 4.3
+          "z": 4.275
         }
       },
       "metadata": {
@@ -4636,8 +4566,8 @@
       "id": "mal-004",
       "name": "Electronics Store",
       "file": "mal-004.glb",
-      "bytes": 280756,
-      "sha256": "4fbcb91f9baed3a1405fea12275cb605f7de93a156f11fe265cc67ef197a750d",
+      "bytes": 145944,
+      "sha256": "c100af5115346ca261a981edf04696ad8f8609a2117ea9a9c01026d1400cb137",
       "category": "mall",
       "searchTerms": [
         "stores",
@@ -4649,12 +4579,12 @@
         "min": {
           "x": -4.5,
           "y": -0.06,
-          "z": -4.25
+          "z": -4.275
         },
         "max": {
           "x": 4.5,
           "y": 4.5,
-          "z": 4.3
+          "z": 4.275
         }
       },
       "metadata": {
@@ -4669,8 +4599,8 @@
       "id": "mal-005",
       "name": "Shoe Store",
       "file": "mal-005.glb",
-      "bytes": 658672,
-      "sha256": "6fa6b83400e4646e773427ad70a5063d21642530a009e3566e7cf5ac0877d741",
+      "bytes": 306916,
+      "sha256": "1c61bff48bc612e499ef1d66de2651828fae980fe66fb1be2d3f990456847e81",
       "category": "mall",
       "searchTerms": [
         "stores",
@@ -4680,14 +4610,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -6.0,
+          "x": -6,
           "y": -0.06,
-          "z": -4.5
+          "z": -4.4
         },
         "max": {
-          "x": 6.0,
+          "x": 6,
           "y": 4,
-          "z": 4.3
+          "z": 4.4
         }
       },
       "metadata": {
@@ -4702,8 +4632,8 @@
       "id": "mal-006",
       "name": "Home Store",
       "file": "mal-006.glb",
-      "bytes": 628444,
-      "sha256": "d634f63182953f9816ef8f4b297725a59711f99269b41a74fc6455f1048cb791",
+      "bytes": 293140,
+      "sha256": "dda84c70bb3d0444bbc4c2c3ba63575168d7a19249902e77ec4083935588d560",
       "category": "mall",
       "searchTerms": [
         "stores",
@@ -4713,14 +4643,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -6.0,
+          "x": -6,
           "y": -0.06,
-          "z": -4.25
+          "z": -4.275
         },
         "max": {
-          "x": 6.0,
+          "x": 6,
           "y": 4,
-          "z": 4.3
+          "z": 4.275
         }
       },
       "metadata": {
@@ -4735,8 +4665,8 @@
       "id": "mal-007",
       "name": "Shopfront",
       "file": "mal-007.glb",
-      "bytes": 31080,
-      "sha256": "5cbde32917971bdd51f0fa40f3d2616273fa2affd2b8161c7f2c9710546543b2",
+      "bytes": 19884,
+      "sha256": "3581948715edfb7b7de352003a2ed4f452b7f60cf8d0548c7208f8830aa65270",
       "category": "mall",
       "searchTerms": [
         "stores",
@@ -4748,12 +4678,12 @@
         "min": {
           "x": -4.5,
           "y": 0.0,
-          "z": -0.2
+          "z": -0.125
         },
         "max": {
           "x": 4.5,
           "y": 4.5,
-          "z": 0.05
+          "z": 0.125
         }
       },
       "metadata": {
@@ -4768,8 +4698,8 @@
       "id": "mal-008",
       "name": "Clothing Rack",
       "file": "mal-008.glb",
-      "bytes": 52636,
-      "sha256": "147c41a69e879cc6779c0badbbe77a404af99f3d9d2886de94c75c0e472fbd25",
+      "bytes": 36036,
+      "sha256": "8b5b007cd13402e72b36b11b47fdee4bbfdc4b326c3f5cea57c6a5f6bce2084d",
       "category": "mall",
       "searchTerms": [
         "stores",
@@ -4801,8 +4731,8 @@
       "id": "mal-009",
       "name": "Mannequin",
       "file": "mal-009.glb",
-      "bytes": 35032,
-      "sha256": "a671ec340fa33edec3fdaadf77e4c1da7f46d23a7615ca32f5ba921655a8f627",
+      "bytes": 29048,
+      "sha256": "28a584f70563c57bf85c8bb424846a90e5982b594e10cd0d1015b03f7e76e976",
       "category": "mall",
       "searchTerms": [
         "stores",
@@ -4833,8 +4763,8 @@
       "id": "mal-010",
       "name": "Display Table",
       "file": "mal-010.glb",
-      "bytes": 30064,
-      "sha256": "6c9599d43c16879adc33f2ae7032bb7144c72ed6bac8659950d35905572f66a2",
+      "bytes": 17188,
+      "sha256": "48cf2d7cc15d0930217f8ad5ea5907862bf786d064672e063ecca0e8a269dadd",
       "category": "mall",
       "searchTerms": [
         "stores",
@@ -4866,8 +4796,8 @@
       "id": "mal-011",
       "name": "Wall Shelving",
       "file": "mal-011.glb",
-      "bytes": 61824,
-      "sha256": "169c3692165d5c4941bd580b3a38d4840b06c26588c2e74591fa1825539b487c",
+      "bytes": 36436,
+      "sha256": "eb4e2deeebccf9e8201d91419b315a0dbfc2400a9780bfc001606dfcb525b21c",
       "category": "mall",
       "searchTerms": [
         "stores",
@@ -4879,12 +4809,12 @@
         "min": {
           "x": -1.2,
           "y": 0.0,
-          "z": 0.0
+          "z": -0.2
         },
         "max": {
           "x": 1.2,
           "y": 2.2,
-          "z": 0.4
+          "z": 0.2
         }
       },
       "metadata": {
@@ -4899,8 +4829,8 @@
       "id": "mal-012",
       "name": "TV Wall",
       "file": "mal-012.glb",
-      "bytes": 33788,
-      "sha256": "64c56a5bd2e5f935627c96586e73910b6141fdabce39d6fc823f5a2054875cb7",
+      "bytes": 23216,
+      "sha256": "6abdde634e5fefc75ce287f992e543fbe8a742148f21bb3f89f588d6288873ab",
       "category": "mall",
       "searchTerms": [
         "stores",
@@ -4912,12 +4842,12 @@
         "min": {
           "x": -1.8,
           "y": 0.0,
-          "z": 0.0
+          "z": -0.225
         },
         "max": {
           "x": 1.8,
           "y": 2.7,
-          "z": 0.45
+          "z": 0.225
         }
       },
       "metadata": {
@@ -4932,8 +4862,8 @@
       "id": "mal-013",
       "name": "Cash Desk",
       "file": "mal-013.glb",
-      "bytes": 14240,
-      "sha256": "7b366d83ecbf2dd68d50343063fcd29fdd02b148b47e09adc4e664495f6100e3",
+      "bytes": 11504,
+      "sha256": "e7758c588bee878405b21b12ee40c82e48dc18d9692a4f9637cc272b9d3ee0e8",
       "category": "mall",
       "searchTerms": [
         "stores",
@@ -4965,8 +4895,8 @@
       "id": "mal-014",
       "name": "Gondola Shelf",
       "file": "mal-014.glb",
-      "bytes": 186020,
-      "sha256": "53c8691431c64cc1b501f78e897ff5a5fc449ec259e8a4ab191a41356df6d99a",
+      "bytes": 93528,
+      "sha256": "dfe40ee0adf79fe0e6c03186a0f3a4c3d2ef944db1415e13d69cdd33fee6a435",
       "category": "mall",
       "searchTerms": [
         "grocery",
@@ -4998,8 +4928,8 @@
       "id": "mal-015",
       "name": "Fridge Case",
       "file": "mal-015.glb",
-      "bytes": 122400,
-      "sha256": "923dd8e46392311b23818b7fb41efbd53a25687ce3cae49c65c9648f3ed949d5",
+      "bytes": 66696,
+      "sha256": "52e1f2eecf3a8f77dc221e72e3d803f795d43e7c41f9d7eb62874227e15130c9",
       "category": "mall",
       "searchTerms": [
         "grocery",
@@ -5011,12 +4941,12 @@
         "min": {
           "x": -1.25,
           "y": 0.0,
-          "z": 0.0
+          "z": -0.428
         },
         "max": {
           "x": 1.25,
           "y": 2.1,
-          "z": 0.855
+          "z": 0.428
         }
       },
       "metadata": {
@@ -5031,8 +4961,8 @@
       "id": "mal-016",
       "name": "Produce Table",
       "file": "mal-016.glb",
-      "bytes": 58144,
-      "sha256": "12cc455413a02ccdf2e6b020d5bcfec50622bdb1d03920c6f524b9fb0bf57b74",
+      "bytes": 431532,
+      "sha256": "2fdee950a519808bdb05db8b93d7c37cd012445ba6c89bb6764f8a40de60f12d",
       "category": "mall",
       "searchTerms": [
         "grocery",
@@ -5064,8 +4994,8 @@
       "id": "mal-017",
       "name": "Checkout Counter",
       "file": "mal-017.glb",
-      "bytes": 37944,
-      "sha256": "10b25a1ee41288d91dcda71790114c2128fea564f8242a60801b2addd4a1b39f",
+      "bytes": 26888,
+      "sha256": "4cb2a0ac74bc35393c04666e6a660a362a7d45e0a7b0ffd7f521cf3300d5edf5",
       "category": "mall",
       "searchTerms": [
         "grocery",
@@ -5075,14 +5005,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -1.2,
+          "x": -1.237,
           "y": 0.0,
-          "z": -0.93
+          "z": -0.658
         },
         "max": {
-          "x": 1.275,
+          "x": 1.237,
           "y": 2.245,
-          "z": 0.385
+          "z": 0.658
         }
       },
       "metadata": {
@@ -5097,8 +5027,8 @@
       "id": "mal-018",
       "name": "Shopping Cart",
       "file": "mal-018.glb",
-      "bytes": 88416,
-      "sha256": "0d0fbb00e8e4a5dc2ae1b2510452f9d721c4e94afc245bab1fd4c7c2c6e7fe27",
+      "bytes": 46792,
+      "sha256": "a1a7548c8e348eab6766ba9049f1839d62c56cfa03ce968b14460847d2a7305f",
       "category": "mall",
       "searchTerms": [
         "grocery",
@@ -5110,12 +5040,12 @@
         "min": {
           "x": -0.282,
           "y": 0.0,
-          "z": -0.47
+          "z": -0.464
         },
         "max": {
           "x": 0.282,
           "y": 1.02,
-          "z": 0.458
+          "z": 0.464
         }
       },
       "metadata": {
@@ -5130,8 +5060,8 @@
       "id": "mal-019",
       "name": "Food Court",
       "file": "mal-019.glb",
-      "bytes": 1598432,
-      "sha256": "aa3cea1cd7f9d89c2ab38968c5af8880ac679d85c068e9a79a9a468218b0be0e",
+      "bytes": 735484,
+      "sha256": "8e1e00de95b89e13771575da5310703a043bbbe282e17da662fce50910da3e3c",
       "category": "mall",
       "searchTerms": [
         "food court",
@@ -5143,12 +5073,12 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -12.0,
+          "x": -12,
           "y": -0.06,
           "z": -4.25
         },
         "max": {
-          "x": 12.0,
+          "x": 12,
           "y": 4,
           "z": 4.25
         }
@@ -5165,8 +5095,8 @@
       "id": "mal-020",
       "name": "Food Stall",
       "file": "mal-020.glb",
-      "bytes": 53252,
-      "sha256": "911a3d8ded3752a70fc6126b71e7bbe4c39446797a885636f8fbee936ed2b4d0",
+      "bytes": 36844,
+      "sha256": "21ad4f96f5b8b6a38774f595efcb51815b02fea875f4a33b112513a2736efe8e",
       "category": "mall",
       "searchTerms": [
         "food court",
@@ -5179,12 +5109,12 @@
         "min": {
           "x": -2.3,
           "y": 0.0,
-          "z": -1.5
+          "z": -1.525
         },
         "max": {
           "x": 2.3,
           "y": 3.4,
-          "z": 1.55
+          "z": 1.525
         }
       },
       "metadata": {
@@ -5199,8 +5129,8 @@
       "id": "mal-021",
       "name": "Food Court Table",
       "file": "mal-021.glb",
-      "bytes": 77192,
-      "sha256": "9b7f2372e2f0a37a97fdd3049dce8c6cb6bad57a46d3631a5db5c632ae6634e4",
+      "bytes": 38980,
+      "sha256": "802c53e2975324547a8248fe26ad768831957a077382713a768067f8a06aad33",
       "category": "mall",
       "searchTerms": [
         "food court",
@@ -5234,8 +5164,8 @@
       "id": "mal-022",
       "name": "Storage Room",
       "file": "mal-022.glb",
-      "bytes": 579056,
-      "sha256": "a8f16539fb9f1bb144525c240384ff719ac9c052a469735904d59f6568ffdda1",
+      "bytes": 242524,
+      "sha256": "8182d98055e899f7b5066006b23174bef5e68cef21261443a6243febb8946471",
       "category": "mall",
       "searchTerms": [
         "back of house",
@@ -5245,14 +5175,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -4.0,
+          "x": -4,
           "y": -0.06,
-          "z": -4.25
+          "z": -4.802
         },
         "max": {
-          "x": 4.0,
+          "x": 4,
           "y": 4.5,
-          "z": 5.354
+          "z": 4.802
         }
       },
       "metadata": {
@@ -5270,8 +5200,8 @@
       "id": "mal-023",
       "name": "Storage Shelving",
       "file": "mal-023.glb",
-      "bytes": 38400,
-      "sha256": "62ea5fd868d711fd6403890fcb08993fd2fe8a1ade7e0b07d87215580e7d3c53",
+      "bytes": 19820,
+      "sha256": "9391ee051f9016c5240dd1faf36179e7a55052a8975c36840cf1d396b4b61bf9",
       "category": "mall",
       "searchTerms": [
         "back of house",
@@ -5303,8 +5233,8 @@
       "id": "mal-024",
       "name": "Security Room",
       "file": "mal-024.glb",
-      "bytes": 427316,
-      "sha256": "8749c51994d905aa897ec5cb8785fc9e81ca8a490503fc8411c20c3c659fdf1c",
+      "bytes": 285008,
+      "sha256": "6e5f8d61c0ca7ddafde129f8f95d88d35ec91d485bf1159d6ec284f5c871e497",
       "category": "mall",
       "searchTerms": [
         "back of house",
@@ -5315,14 +5245,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -3.0,
+          "x": -3,
           "y": -0.06,
-          "z": -4.25
+          "z": -4.706
         },
         "max": {
-          "x": 3.0,
+          "x": 3,
           "y": 4.5,
-          "z": 5.162
+          "z": 4.706
         }
       },
       "metadata": {
@@ -5340,8 +5270,8 @@
       "id": "mal-025",
       "name": "Security Desk",
       "file": "mal-025.glb",
-      "bytes": 50748,
-      "sha256": "94eb618838968c471c941c3da9f4c79fd74ee32b85291dff725c23f0f574fa62",
+      "bytes": 28056,
+      "sha256": "ca3e5a4100ea6d5633f79cb25e4da042c86dd5270078e48c14e5e587e25f8713",
       "category": "mall",
       "searchTerms": [
         "back of house",
@@ -5374,8 +5304,8 @@
       "id": "mal-026",
       "name": "Monitor Wall",
       "file": "mal-026.glb",
-      "bytes": 45940,
-      "sha256": "54bb163715609af1d9928a19e2e6643783221a22adaf20e068a1256a938983a9",
+      "bytes": 24312,
+      "sha256": "bc504a02d9471a97a7825f9fa65a813ffaa906f93d8e2a65da5169432b8a801a",
       "category": "mall",
       "searchTerms": [
         "back of house",
@@ -5388,12 +5318,12 @@
         "min": {
           "x": -1.45,
           "y": 1.28,
-          "z": 0.0
+          "z": -0.042
         },
         "max": {
           "x": 1.45,
           "y": 2.42,
-          "z": 0.085
+          "z": 0.042
         }
       },
       "metadata": {
@@ -5408,8 +5338,8 @@
       "id": "mal-027",
       "name": "Escalator",
       "file": "mal-027.glb",
-      "bytes": 633828,
-      "sha256": "112cc851ea57b99d38d42abed871d66abfecefb6bf2f4c58522a08bbb6d85d0c",
+      "bytes": 1172648,
+      "sha256": "efa27fd258fb78db56d28680b65e0655bb7bf4d10635751a31f665d40fdb7657",
       "category": "mall",
       "searchTerms": [
         "circulation",
@@ -5420,12 +5350,12 @@
       ],
       "boundingBox": {
         "min": {
-          "x": 0.0,
+          "x": -5.25,
           "y": -0.275,
           "z": -0.85
         },
         "max": {
-          "x": 10.5,
+          "x": 5.25,
           "y": 5.87,
           "z": 0.85
         }
@@ -5442,8 +5372,8 @@
       "id": "mal-028",
       "name": "Glass Elevator",
       "file": "mal-028.glb",
-      "bytes": 82812,
-      "sha256": "edb4e7a9a44f66128b9672ce78a11cbe0bc945bc206c79c126b69786d508351e",
+      "bytes": 40744,
+      "sha256": "5bb598cb8d3f3e6c40e9c7a6156611be4e436023bdda728761d46eeb60056018",
       "category": "mall",
       "searchTerms": [
         "circulation",
@@ -5480,8 +5410,8 @@
       "id": "mal-029",
       "name": "Mall Bench",
       "file": "mal-029.glb",
-      "bytes": 4844,
-      "sha256": "26461adff07ac2bb48624436b65d8cc614b1c0d0a6bc6c1a38a41eeb6b0a3754",
+      "bytes": 3972,
+      "sha256": "75ebbf5ed3eb2cdefbf9d05f3843cea90ee27c8220e569eb257221d8f2383d35",
       "category": "mall",
       "searchTerms": [
         "circulation",
@@ -5513,8 +5443,8 @@
       "id": "mal-030",
       "name": "Trash Bin",
       "file": "mal-030.glb",
-      "bytes": 13336,
-      "sha256": "0d3d58e7348d6aebf1d14c4124db51ff17e6f1ace826f1c68f4ff0e1928a2884",
+      "bytes": 10408,
+      "sha256": "44600bd354605a23c406805c4fdef6ea7b26ac9c75d0d7e072cae14717beda31",
       "category": "mall",
       "searchTerms": [
         "circulation",
@@ -5547,8 +5477,8 @@
       "id": "mal-031",
       "name": "Mall Directory",
       "file": "mal-031.glb",
-      "bytes": 30912,
-      "sha256": "9ae4429a88d0eea663dd293063c2d10eac2d4dc22754a11b24ba342de6d302f6",
+      "bytes": 22336,
+      "sha256": "9d846140b7ceb96ef19e8f0acc76436412b8f7cb79260fc3a0c3244a955e9e51",
       "category": "mall",
       "searchTerms": [
         "circulation",
@@ -5580,8 +5510,8 @@
       "id": "off-001",
       "name": "Office Floor",
       "file": "off-001.glb",
-      "bytes": 10127764,
-      "sha256": "bd1296f998e707c19597ec3595d0158ac0d8ce6225718e3364f6ebe258cb9ae2",
+      "bytes": 5370700,
+      "sha256": "8858822707cbe0536c8150ffd8191ef8d6d8e09232a6b46d3fff91f4ee892807",
       "category": "office",
       "searchTerms": [
         "building",
@@ -5591,14 +5521,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": 0.0,
+          "x": -18.5,
           "y": -0.06,
-          "z": -10.5
+          "z": -9
         },
         "max": {
-          "x": 37,
+          "x": 18.5,
           "y": 2.8,
-          "z": 7.5
+          "z": 9
         }
       },
       "metadata": {
@@ -5615,8 +5545,8 @@
       "id": "off-002",
       "name": "Reception",
       "file": "off-002.glb",
-      "bytes": 472572,
-      "sha256": "e6c7db4df17c9ad0fc5bfc4cfa14af7685a611ee947467ea63fc755036e88f90",
+      "bytes": 210272,
+      "sha256": "26956d2becc23bb7477a7a3014c92fab07dedebc2b7054e1401e657cef3a592f",
       "category": "office",
       "searchTerms": [
         "rooms",
@@ -5648,8 +5578,8 @@
       "id": "off-003",
       "name": "Open Workspace",
       "file": "off-003.glb",
-      "bytes": 3176788,
-      "sha256": "b509505b7304c3db25f7cb5b4e751bbc0d852bc359bf953fad8b129d7378a212",
+      "bytes": 1725332,
+      "sha256": "51bf72db8aa94d7185efdb3d1ea2c81139c805eb28ec8509cbc7ba11bedf4007",
       "category": "office",
       "searchTerms": [
         "rooms",
@@ -5681,8 +5611,8 @@
       "id": "off-004",
       "name": "Cubicle Office",
       "file": "off-004.glb",
-      "bytes": 1557296,
-      "sha256": "96eb45903474469bbe2fbae3861ab0eb420d4ca7daa82d24d39d3b3f4ad144da",
+      "bytes": 853312,
+      "sha256": "1d06aeaef531bc5a6673bafba8d4483dda667c87feb9d3e68ba7b421340d9912",
       "category": "office",
       "searchTerms": [
         "rooms",
@@ -5694,12 +5624,12 @@
         "min": {
           "x": -5,
           "y": -0.06,
-          "z": -4.5
+          "z": -4.956
         },
         "max": {
           "x": 5,
           "y": 2.8,
-          "z": 5.412
+          "z": 4.956
         }
       },
       "metadata": {
@@ -5717,8 +5647,8 @@
       "id": "off-005",
       "name": "Conference Room",
       "file": "off-005.glb",
-      "bytes": 1810912,
-      "sha256": "0eb8cda6da3d6e5c8c808664e1e749148d01e35465d9613aba9b438e22739195",
+      "bytes": 992448,
+      "sha256": "cbb1dbedb7e7c179d9ab05306489deeea0475856b8ee7110429747c6e8b4f8a7",
       "category": "office",
       "searchTerms": [
         "rooms",
@@ -5728,14 +5658,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -4.0,
+          "x": -4,
           "y": -0.06,
-          "z": -3.5
+          "z": -3.906
         },
         "max": {
           "x": 4,
           "y": 2.8,
-          "z": 4.313
+          "z": 3.906
         }
       },
       "metadata": {
@@ -5753,8 +5683,8 @@
       "id": "off-006",
       "name": "Meeting Room",
       "file": "off-006.glb",
-      "bytes": 781976,
-      "sha256": "3ce9f412bc95090e3202da1e85c9c8bc8b1a2793651827c41440b5248724db70",
+      "bytes": 427228,
+      "sha256": "9942b48bb000f5b6ee5c02329117e0ec299a64737f24837f3149c307f43ae5fe",
       "category": "office",
       "searchTerms": [
         "rooms",
@@ -5766,12 +5696,12 @@
         "min": {
           "x": -2.5,
           "y": -0.06,
-          "z": -2.5
+          "z": -2.906
         },
         "max": {
           "x": 2.5,
           "y": 2.8,
-          "z": 3.313
+          "z": 2.906
         }
       },
       "metadata": {
@@ -5789,8 +5719,8 @@
       "id": "off-007",
       "name": "Personal Office",
       "file": "off-007.glb",
-      "bytes": 515616,
-      "sha256": "948ac16ac9cd6cef04596fd5af4362580d97a3a03dfe6564fe13904942ae14f1",
+      "bytes": 253720,
+      "sha256": "27c03322fef47424ce36d35d008138228cbf539614c5535912f4aa9b0f8fc688",
       "category": "office",
       "searchTerms": [
         "rooms",
@@ -5800,14 +5730,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -2.0,
+          "x": -2,
           "y": -0.06,
-          "z": -2.5
+          "z": -2.906
         },
         "max": {
-          "x": 2.0,
+          "x": 2,
           "y": 2.8,
-          "z": 3.313
+          "z": 2.906
         }
       },
       "metadata": {
@@ -5825,8 +5755,8 @@
       "id": "off-008",
       "name": "Printer Room",
       "file": "off-008.glb",
-      "bytes": 111808,
-      "sha256": "bd4f3dc9456d18ff8ba71243f71aa27e5ff8049a962bda3c1cfdb5b602557dee",
+      "bytes": 57552,
+      "sha256": "a2554a03196fe052825d890bd0d1bdd33121f808aacebd79d8190d2eba721f6a",
       "category": "office",
       "searchTerms": [
         "rooms",
@@ -5838,12 +5768,12 @@
         "min": {
           "x": -1.75,
           "y": -0.06,
-          "z": -2.5
+          "z": -2.956
         },
         "max": {
           "x": 1.75,
           "y": 2.8,
-          "z": 3.412
+          "z": 2.956
         }
       },
       "metadata": {
@@ -5861,8 +5791,8 @@
       "id": "off-009",
       "name": "Coffee Room",
       "file": "off-009.glb",
-      "bytes": 241420,
-      "sha256": "f8be123786af5360d20fcf722641b6f5a3b46ba21f365f3c49bd5844e09d4432",
+      "bytes": 109904,
+      "sha256": "572e045ebc128d9dbdc2e8bcf8fa2ab29af6237e9fb58c9f6bb074fd3e2f7340",
       "category": "office",
       "searchTerms": [
         "rooms",
@@ -5876,12 +5806,12 @@
         "min": {
           "x": -2.25,
           "y": -0.06,
-          "z": -2.5
+          "z": -2.956
         },
         "max": {
           "x": 2.25,
           "y": 2.8,
-          "z": 3.412
+          "z": 2.956
         }
       },
       "metadata": {
@@ -5899,8 +5829,8 @@
       "id": "off-010",
       "name": "Lunch Room",
       "file": "off-010.glb",
-      "bytes": 545512,
-      "sha256": "1e4afe8ea86b293698dc75d120df0e24f5ee5b15eda73b15c91f35f1f06d623f",
+      "bytes": 264916,
+      "sha256": "949a1a4a5a198feb5aa83d94e36aa8b35e4392ce03e0a0375bb9ffa02c3add40",
       "category": "office",
       "searchTerms": [
         "rooms",
@@ -5934,8 +5864,8 @@
       "id": "off-011",
       "name": "Phone Booths",
       "file": "off-011.glb",
-      "bytes": 55884,
-      "sha256": "9b51e709885275c4079f78c934a1ba8d95e4f050288e071f8be4c4b723ab73c4",
+      "bytes": 34124,
+      "sha256": "7033e0fd7baf6a463980c78ecb8175f8ef3b337f6433069bc58a45c1399526be",
       "category": "office",
       "searchTerms": [
         "rooms",
@@ -5967,8 +5897,8 @@
       "id": "off-012",
       "name": "Server Room",
       "file": "off-012.glb",
-      "bytes": 221896,
-      "sha256": "2a13106c950962e75fabdafd69bf9f08e3288eea2dde6d3e8cb6ef4c1afdfdf0",
+      "bytes": 108952,
+      "sha256": "28b438ac031102ce9cf736215099a7ba2ae86b6698c3d087f2d2d330188aca6e",
       "category": "office",
       "searchTerms": [
         "rooms",
@@ -5981,12 +5911,12 @@
         "min": {
           "x": -2.5,
           "y": -0.06,
-          "z": -2.5
+          "z": -2.956
         },
         "max": {
           "x": 2.5,
           "y": 2.8,
-          "z": 3.412
+          "z": 2.956
         }
       },
       "metadata": {
@@ -6004,8 +5934,8 @@
       "id": "off-013",
       "name": "Desk",
       "file": "off-013.glb",
-      "bytes": 174672,
-      "sha256": "13f13da1a022bf7986b426ce6f0a7db1b16a6020e8ee71d7a898e48f654de863",
+      "bytes": 108392,
+      "sha256": "97726c549c3fcc3cb51c4f10c5a305b326530c857b6de6acba7f708d0f6d7320",
       "category": "office",
       "searchTerms": [
         "workstations",
@@ -6017,12 +5947,12 @@
         "min": {
           "x": -0.8,
           "y": 0.0,
-          "z": -0.4
+          "z": -0.715
         },
         "max": {
           "x": 0.8,
           "y": 1.265,
-          "z": 1.031
+          "z": 0.715
         }
       },
       "metadata": {
@@ -6037,8 +5967,8 @@
       "id": "off-014",
       "name": "Desk Pod",
       "file": "off-014.glb",
-      "bytes": 717716,
-      "sha256": "17dcbf6df6c1288166cb19875d140fbf8eb806f643b8f60e3618c549025ccac3",
+      "bytes": 412536,
+      "sha256": "855f3c7103f1b6e75ff7a6eb355e3be868cb87eacd385fa4877f4d95874b28ca",
       "category": "office",
       "searchTerms": [
         "workstations",
@@ -6050,12 +5980,12 @@
         "min": {
           "x": -1.6,
           "y": 0.0,
-          "z": -1.431
+          "z": -1.43
         },
         "max": {
           "x": 1.6,
           "y": 1.265,
-          "z": 1.431
+          "z": 1.43
         }
       },
       "metadata": {
@@ -6070,8 +6000,8 @@
       "id": "off-015",
       "name": "Cubicle",
       "file": "off-015.glb",
-      "bytes": 175544,
-      "sha256": "0a9318066b3122cfb4043fb60a0b2a021c052464c9f82927efd05afd198b661b",
+      "bytes": 108896,
+      "sha256": "16d122a0e37f08c5869ab176a3d4a2d75ff8bc0388e2286aabf66d313fa5cad6",
       "category": "office",
       "searchTerms": [
         "workstations",
@@ -6102,8 +6032,8 @@
       "id": "off-016",
       "name": "Cubicle Cluster",
       "file": "off-016.glb",
-      "bytes": 687080,
-      "sha256": "6e9ac5708e4f86404b2e2e322f2ba1a11a37b69cbaff0d0b09a690d438ec81a4",
+      "bytes": 396980,
+      "sha256": "0144a496bb23d2121f5d3600e9dd0ee8110fc448ee1a69ed44cc1e0aa3bf6efe",
       "category": "office",
       "searchTerms": [
         "workstations",
@@ -6134,8 +6064,8 @@
       "id": "off-017",
       "name": "Executive Desk",
       "file": "off-017.glb",
-      "bytes": 197360,
-      "sha256": "f675756ce8521b328cf379d1150c6034aea47fbf73fcdcd381e9ef84f83b771e",
+      "bytes": 119508,
+      "sha256": "c2cbbca9124aec9cd3d4ea47d9514c93161456b5b3b02d17ecf99ac819841e48",
       "category": "office",
       "searchTerms": [
         "workstations",
@@ -6147,12 +6077,12 @@
         "min": {
           "x": -0.9,
           "y": 0.0,
-          "z": -0.45
+          "z": -0.765
         },
         "max": {
           "x": 0.9,
           "y": 1.265,
-          "z": 1.081
+          "z": 0.765
         }
       },
       "metadata": {
@@ -6167,8 +6097,8 @@
       "id": "off-018",
       "name": "Filing Cabinet",
       "file": "off-018.glb",
-      "bytes": 13636,
-      "sha256": "4f07dbdc1cd8a2684f678097a650df31438aa205ffa968718b405139164a34a5",
+      "bytes": 8804,
+      "sha256": "614f6377a30496094c70886f5709af4cc282d159f3d623a911a41f1a9b8a2045",
       "category": "office",
       "searchTerms": [
         "workstations",
@@ -6180,12 +6110,12 @@
         "min": {
           "x": -0.225,
           "y": 0.0,
-          "z": -0.31
+          "z": -0.325
         },
         "max": {
           "x": 0.225,
           "y": 1.3,
-          "z": 0.34
+          "z": 0.325
         }
       },
       "metadata": {
@@ -6200,8 +6130,8 @@
       "id": "off-019",
       "name": "Bookshelf",
       "file": "off-019.glb",
-      "bytes": 127560,
-      "sha256": "982dc534205674af881236a2b45050530fcadaeecd16bfa22f10d04865942dcf",
+      "bytes": 62816,
+      "sha256": "6bfb167f8d37ea4ce3878a66cad9e5627f8056f193cfcb7b47906af92d25b43f",
       "category": "office",
       "searchTerms": [
         "workstations",
@@ -6233,8 +6163,8 @@
       "id": "off-020",
       "name": "Visitor Chair",
       "file": "off-020.glb",
-      "bytes": 15136,
-      "sha256": "53e441c91f2ff00481b9747a0a81c3ed24db3792f9b0486592d6cd7b213cf07b",
+      "bytes": 8636,
+      "sha256": "3207d3f068b036ef922d45152de6ed59176dc27b979d645e22d4783659fb037b",
       "category": "office",
       "searchTerms": [
         "workstations",
@@ -6266,8 +6196,8 @@
       "id": "off-021",
       "name": "Conference Table",
       "file": "off-021.glb",
-      "bytes": 1479220,
-      "sha256": "d17cb4d0ab2549c5894d067ebb4e8344a8af28e0c69dfd04999ba4804d33d1ff",
+      "bytes": 869072,
+      "sha256": "07771dede31033b2a5dfd2d478509e418ab027f30a251891c01c1c4a91278ee4",
       "category": "office",
       "searchTerms": [
         "meeting",
@@ -6277,14 +6207,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -2.681,
+          "x": -2.68,
           "y": 0.0,
-          "z": -1.281
+          "z": -1.28
         },
         "max": {
-          "x": 2.681,
-          "y": 1.14,
-          "z": 1.281
+          "x": 2.68,
+          "y": 1.139,
+          "z": 1.28
         }
       },
       "metadata": {
@@ -6299,8 +6229,8 @@
       "id": "off-022",
       "name": "Meeting Table",
       "file": "off-022.glb",
-      "bytes": 601120,
-      "sha256": "79f79bf4bc680179961fc88b3979193e7565f9cb99e3b8005d28ed4ac806638b",
+      "bytes": 356072,
+      "sha256": "e6e3cc8855e7581b6daf3e338f8a0215a4ca442cb53166d1dec43acdd01543ae",
       "category": "office",
       "searchTerms": [
         "meeting",
@@ -6312,12 +6242,12 @@
         "min": {
           "x": -0.9,
           "y": 0.0,
-          "z": -1.081
+          "z": -1.08
         },
         "max": {
           "x": 0.9,
-          "y": 1.14,
-          "z": 1.081
+          "y": 1.139,
+          "z": 1.08
         }
       },
       "metadata": {
@@ -6332,8 +6262,8 @@
       "id": "off-023",
       "name": "Whiteboard",
       "file": "off-023.glb",
-      "bytes": 17584,
-      "sha256": "b534683946b298f5e815329aa868c6fced4d88f9add9f1077b2a9cc26c5a9275",
+      "bytes": 12476,
+      "sha256": "1e995ad74f6a6dfd869e6bf39498fbe7238a29bc167a3ddf4399f0f8fc9ce5af",
       "category": "office",
       "searchTerms": [
         "meeting",
@@ -6345,12 +6275,12 @@
         "min": {
           "x": -0.9,
           "y": 0.87,
-          "z": 0.0
+          "z": -0.045
         },
         "max": {
           "x": 0.9,
           "y": 2.1,
-          "z": 0.09
+          "z": 0.045
         }
       },
       "metadata": {
@@ -6365,8 +6295,8 @@
       "id": "off-024",
       "name": "Wall TV + Credenza",
       "file": "off-024.glb",
-      "bytes": 14696,
-      "sha256": "aeca873d550c155c33a7a3d61db6a27a4f4ab10c7d83426fedae7c4ad580442d",
+      "bytes": 12024,
+      "sha256": "93726fb3ddbf65d580087e5a53067461fd316b10343edec013d3298da83b9f0d",
       "category": "office",
       "searchTerms": [
         "wall tv",
@@ -6379,12 +6309,12 @@
         "min": {
           "x": -0.95,
           "y": 0.0,
-          "z": 0.0
+          "z": -0.225
         },
         "max": {
           "x": 0.95,
           "y": 2.09,
-          "z": 0.45
+          "z": 0.225
         }
       },
       "metadata": {
@@ -6399,8 +6329,8 @@
       "id": "off-025",
       "name": "Phone Booth",
       "file": "off-025.glb",
-      "bytes": 23396,
-      "sha256": "df2538530c5b3cbd39dbe5fd1dbc0be40ae7abc849db62dec648dce55f1e26da",
+      "bytes": 17488,
+      "sha256": "6ee87a1239619eb5dffb0be65fd5aa1e706f319ab6de0d31381a8b2e24cff73c",
       "category": "office",
       "searchTerms": [
         "meeting",
@@ -6411,12 +6341,12 @@
         "min": {
           "x": -0.5,
           "y": 0.0,
-          "z": -0.5
+          "z": -0.507
         },
         "max": {
           "x": 0.5,
           "y": 2.25,
-          "z": 0.515
+          "z": 0.507
         }
       },
       "metadata": {
@@ -6431,8 +6361,8 @@
       "id": "off-026",
       "name": "Copier",
       "file": "off-026.glb",
-      "bytes": 18508,
-      "sha256": "d5d9612374d75b3fde0806d00d4c0d6337d56358dcd04ec74109ba71e3f8c2a6",
+      "bytes": 12720,
+      "sha256": "99a893ec92bac297aa10af97242157b49fca84f86e5705b4c110debbfe20a8a0",
       "category": "office",
       "searchTerms": [
         "support",
@@ -6443,14 +6373,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -0.575,
+          "x": -0.45,
           "y": 0.0,
-          "z": -0.31
+          "z": -0.379
         },
         "max": {
-          "x": 0.325,
+          "x": 0.45,
           "y": 1.072,
-          "z": 0.447
+          "z": 0.379
         }
       },
       "metadata": {
@@ -6465,8 +6395,8 @@
       "id": "off-027",
       "name": "Paper Shelf",
       "file": "off-027.glb",
-      "bytes": 64088,
-      "sha256": "6ec8f6706fd9739e0d5785bed0bc8a8bb2ceb0b47abdd23ef7f0a0bcdbc19b78",
+      "bytes": 26860,
+      "sha256": "b2b58fc7ff0108db0211403b59ca2e9c3e4efba75720edfe23e361ff7d3334cb",
       "category": "office",
       "searchTerms": [
         "support",
@@ -6498,8 +6428,8 @@
       "id": "off-028",
       "name": "Shredder",
       "file": "off-028.glb",
-      "bytes": 6700,
-      "sha256": "d0a286fc3a03b2901d9f73724f685597459ee7365392b1cf811ae677ee85b7d6",
+      "bytes": 6500,
+      "sha256": "cba410212cf6f82942cb4bd47cc3f997baccbde05530eca204af7ad7e3d5b1af",
       "category": "office",
       "searchTerms": [
         "support",
@@ -6531,8 +6461,8 @@
       "id": "off-029",
       "name": "Recycling Bins",
       "file": "off-029.glb",
-      "bytes": 9512,
-      "sha256": "ef74a23415b77bd23137613d1f40a0a3fbee06834e616e2c0e7a1d39a6f2db39",
+      "bytes": 7760,
+      "sha256": "93ba26fc9c2912f2b4ffff3952cc0dc4cd59cfefc05a855ed5b6befd2ab75fa1",
       "category": "office",
       "searchTerms": [
         "support",
@@ -6565,8 +6495,8 @@
       "id": "off-030",
       "name": "Kitchenette",
       "file": "off-030.glb",
-      "bytes": 49900,
-      "sha256": "93029bfc15698a751a4ec52e70291c7e5f6bad816cc8f2b668464cd1560c675e",
+      "bytes": 29500,
+      "sha256": "3a8d3d8115d5ed0034774a6fc20c637edd76bdb2cc16a5927f68b11dcde924b7",
       "category": "office",
       "searchTerms": [
         "support",
@@ -6580,12 +6510,12 @@
         "min": {
           "x": -1.51,
           "y": 0.0,
-          "z": -0.3
+          "z": -0.315
         },
         "max": {
           "x": 1.51,
           "y": 2.15,
-          "z": 0.33
+          "z": 0.315
         }
       },
       "metadata": {
@@ -6600,8 +6530,8 @@
       "id": "off-031",
       "name": "Fridge",
       "file": "off-031.glb",
-      "bytes": 6504,
-      "sha256": "91be397660d64b907da41bdc7d62e9aeb3b0a169fd6eba5ec49ee3b6f44103b0",
+      "bytes": 5544,
+      "sha256": "52c2f9ce05dc37bf0d318f734156d36ea32a89828ab96d3547e3ad329357e365",
       "category": "office",
       "searchTerms": [
         "office fridge",
@@ -6614,12 +6544,12 @@
         "min": {
           "x": -0.3,
           "y": 0.0,
-          "z": -0.327
+          "z": -0.341
         },
         "max": {
           "x": 0.3,
           "y": 1.85,
-          "z": 0.355
+          "z": 0.341
         }
       },
       "metadata": {
@@ -6634,8 +6564,8 @@
       "id": "off-032",
       "name": "Bar Table",
       "file": "off-032.glb",
-      "bytes": 41304,
-      "sha256": "b8ff51a457ad248f107c5549350d80e99a870a8ef2ad7320c2735c42951a9864",
+      "bytes": 26620,
+      "sha256": "f7bf2f47b4c7dabe582580640b57e03f2ee1098081ee71dfe5004448715bd931",
       "category": "office",
       "searchTerms": [
         "support",
@@ -6667,8 +6597,8 @@
       "id": "off-033",
       "name": "Sofa",
       "file": "off-033.glb",
-      "bytes": 8968,
-      "sha256": "9e43e2afeab8f6feab1b9a85c4180197d97188991006b44943f1ee324c2b5498",
+      "bytes": 4784,
+      "sha256": "da1320edd67723b0358b7ec6e2118ad57737965a0d029851950a6f3ae9d38c47",
       "category": "office",
       "searchTerms": [
         "support",
@@ -6700,8 +6630,8 @@
       "id": "off-034",
       "name": "Coffee Table",
       "file": "off-034.glb",
-      "bytes": 9316,
-      "sha256": "a703af9e81e0c1bfd4b860169b10e4e68f0d2df9f7ee11656b144b46f177893b",
+      "bytes": 6800,
+      "sha256": "3c6ff8c350996b7e1fc8418fc7292b505acfe0a7877029c3a241d397370b1e5b",
       "category": "office",
       "searchTerms": [
         "support",
@@ -6733,8 +6663,8 @@
       "id": "off-035",
       "name": "Reception Desk",
       "file": "off-035.glb",
-      "bytes": 165816,
-      "sha256": "8438a65679bd4df7449599686ec3c837e065c239a485d18fab552d5a66c8c684",
+      "bytes": 101976,
+      "sha256": "e4c3d203da079391dae8ff5ea9c3663366334f3068ffc3fd7acf5c8b85a19307",
       "category": "office",
       "searchTerms": [
         "support",
@@ -6746,12 +6676,12 @@
         "min": {
           "x": -1.35,
           "y": 0.0,
-          "z": -1.081
+          "z": -0.73
         },
         "max": {
           "x": 1.35,
           "y": 1.265,
-          "z": 0.38
+          "z": 0.73
         }
       },
       "metadata": {
@@ -6766,8 +6696,8 @@
       "id": "off-036",
       "name": "Server Rack",
       "file": "off-036.glb",
-      "bytes": 49752,
-      "sha256": "f47c9d818eba809a0bffa79bc8de3a734b1d6be005b56e636a2e26c0d303712c",
+      "bytes": 26976,
+      "sha256": "d2f22f7a41c06a2e38215386ee90cdd1a8dac3ce8c30b75a13be5dac03d382b2",
       "category": "office",
       "searchTerms": [
         "support",
@@ -6780,12 +6710,12 @@
         "min": {
           "x": -0.3,
           "y": 0.0,
-          "z": -0.55
+          "z": -0.561
         },
         "max": {
           "x": 0.3,
           "y": 2,
-          "z": 0.571
+          "z": 0.561
         }
       },
       "metadata": {
@@ -6800,8 +6730,8 @@
       "id": "off-037",
       "name": "Cooling Unit",
       "file": "off-037.glb",
-      "bytes": 7980,
-      "sha256": "4d19595e01e33574889e8526776e0af119b6fdd31c4414efd648facac49dbe9c",
+      "bytes": 6360,
+      "sha256": "e5718ac194086145a2ca48ef155d52817734a2a04933b3c4d593035f798cec03",
       "category": "office",
       "searchTerms": [
         "support",
@@ -6813,12 +6743,12 @@
         "min": {
           "x": -0.45,
           "y": 0.0,
-          "z": -0.4
+          "z": -0.405
         },
         "max": {
           "x": 0.45,
           "y": 1.9,
-          "z": 0.41
+          "z": 0.405
         }
       },
       "metadata": {
@@ -6833,8 +6763,8 @@
       "id": "ind-001",
       "name": "Industrial Facility",
       "file": "ind-001.glb",
-      "bytes": 16619404,
-      "sha256": "f47d44898ab3e50c63746e25e60ee06f32a1944140f9ca48275ee2fd6e505ef1",
+      "bytes": 7584488,
+      "sha256": "da31820504433ba2ede67b4937d28372ddf14a137c3bf0b2d2b62c474e8fcdc5",
       "category": "industry",
       "searchTerms": [
         "building",
@@ -6844,14 +6774,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -0.2,
+          "x": -47.2,
           "y": -1.4,
-          "z": -24.0
+          "z": -18
         },
         "max": {
-          "x": 94.2,
-          "y": 10.0,
-          "z": 12.0
+          "x": 47.2,
+          "y": 10,
+          "z": 18
         }
       },
       "metadata": {
@@ -6868,8 +6798,8 @@
       "id": "ind-002",
       "name": "Production Hall",
       "file": "ind-002.glb",
-      "bytes": 1023812,
-      "sha256": "ea2b0ece033eeeff3e5d7f205eadb22878e9c98ddaa3042846297ba7b463c140",
+      "bytes": 547376,
+      "sha256": "9fbdd1e117fa78408bd4e2fcd1d2520a3cc56cc4165cbbdd774c94fa963a76e9",
       "category": "industry",
       "searchTerms": [
         "halls",
@@ -6882,12 +6812,12 @@
         "min": {
           "x": -20.2,
           "y": -0.06,
-          "z": -12.2
+          "z": -12.1
         },
         "max": {
           "x": 20.2,
           "y": 10,
-          "z": 12
+          "z": 12.1
         }
       },
       "metadata": {
@@ -6902,8 +6832,8 @@
       "id": "ind-003",
       "name": "Warehouse",
       "file": "ind-003.glb",
-      "bytes": 14077108,
-      "sha256": "df5e2e2fba7f81c0fbf26aa6f7537d695ded6eeeed6ca684ccdd7df75700f485",
+      "bytes": 6066640,
+      "sha256": "14c0d490df70d5bd610bfc0274f2f6202cf8a45e8f4fc76a61d107f8731ab6d7",
       "category": "industry",
       "searchTerms": [
         "halls",
@@ -6915,14 +6845,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -15.2,
+          "x": -27.2,
           "y": -1.4,
-          "z": -12.2
+          "z": -12.1
         },
         "max": {
-          "x": 39.2,
-          "y": 10.0,
-          "z": 12.0
+          "x": 27.2,
+          "y": 10,
+          "z": 12.1
         }
       },
       "metadata": {
@@ -6940,8 +6870,8 @@
       "id": "ind-004",
       "name": "Maintenance Workshop",
       "file": "ind-004.glb",
-      "bytes": 464392,
-      "sha256": "a7df007dcebd143419d6e44089440a03abbe467c67616dbf5f190123b5756b04",
+      "bytes": 267488,
+      "sha256": "708846bd9fec8246ccc9e0da94ad999c8120d3d636e1c509e5d6bf546c6887f8",
       "category": "industry",
       "searchTerms": [
         "workshop",
@@ -6952,14 +6882,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -7.0,
+          "x": -7,
           "y": -0.06,
-          "z": -5.9
+          "z": -6
         },
         "max": {
-          "x": 7.0,
+          "x": 7,
           "y": 4.5,
-          "z": 6.1
+          "z": 6
         }
       },
       "metadata": {
@@ -6974,8 +6904,8 @@
       "id": "ind-005",
       "name": "Control Room",
       "file": "ind-005.glb",
-      "bytes": 606980,
-      "sha256": "158fa320890368beee9808d6272cc391c6fc1823501acd14a6dca703f99ec7ee",
+      "bytes": 342740,
+      "sha256": "66116d61936c716cfc79cf96e24e84d899a0a23268d25d4a4258a52963c43052",
       "category": "industry",
       "searchTerms": [
         "rooms",
@@ -6985,14 +6915,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -5.0,
+          "x": -5,
           "y": -0.06,
-          "z": -5.9
+          "z": -6.456
         },
         "max": {
-          "x": 5.0,
+          "x": 5,
           "y": 4.5,
-          "z": 7.012
+          "z": 6.456
         }
       },
       "metadata": {
@@ -7007,8 +6937,8 @@
       "id": "ind-006",
       "name": "Locker Room",
       "file": "ind-006.glb",
-      "bytes": 279368,
-      "sha256": "c6acca825d777160835b74139cab92dfb76888b90d3ff24924c53028d89f9a9c",
+      "bytes": 321228,
+      "sha256": "d19baca19fc65ed82cac56a5fe8e3899f2485bab107322188226c4b10dc3569b",
       "category": "industry",
       "searchTerms": [
         "rooms",
@@ -7019,14 +6949,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -5.0,
+          "x": -5,
           "y": -0.06,
-          "z": -5.9
+          "z": -6.456
         },
         "max": {
-          "x": 5.0,
+          "x": 5,
           "y": 4.5,
-          "z": 7.012
+          "z": 6.456
         }
       },
       "metadata": {
@@ -7041,8 +6971,8 @@
       "id": "ind-007",
       "name": "Utility Room",
       "file": "ind-007.glb",
-      "bytes": 157712,
-      "sha256": "29d4eb50d9749023169a7a0a36115c7cabd2394beb541fd22700e593613319c3",
+      "bytes": 100436,
+      "sha256": "d9479cd9b67c2b1f2ef1dbdcf5097f2a40f435305ced6293c8642f5489386d0a",
       "category": "industry",
       "searchTerms": [
         "rooms",
@@ -7052,14 +6982,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -6.0,
+          "x": -6,
           "y": -0.06,
-          "z": -5.9
+          "z": -6.841
         },
         "max": {
-          "x": 6.0,
+          "x": 6,
           "y": 4.5,
-          "z": 7.783
+          "z": 6.841
         }
       },
       "metadata": {
@@ -7074,8 +7004,8 @@
       "id": "ind-008",
       "name": "CNC Machine",
       "file": "ind-008.glb",
-      "bytes": 30976,
-      "sha256": "e1fb01600b419b5b30421952dbc4c0200e9ff304070846eba8d2fd47d146b557",
+      "bytes": 24544,
+      "sha256": "9f294de165e73d7315ef1bed0620d20b07fb70e8e1797b457f5e24348d8b11df",
       "category": "industry",
       "searchTerms": [
         "production",
@@ -7085,14 +7015,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -2.1,
+          "x": -1.8,
           "y": 0.0,
-          "z": -1
+          "z": -1.08
         },
         "max": {
-          "x": 1.5,
+          "x": 1.8,
           "y": 2.595,
-          "z": 1.16
+          "z": 1.08
         }
       },
       "metadata": {
@@ -7107,8 +7037,8 @@
       "id": "ind-009",
       "name": "Hydraulic Press",
       "file": "ind-009.glb",
-      "bytes": 24652,
-      "sha256": "5c9b6cd777b5b4b622ec61ea4a942b4cf8106acd972d9966989640596e27a45d",
+      "bytes": 18256,
+      "sha256": "fb7c00814810be706254c6bda0e11f3d4a9feedfe0c43cd11f2c31999c4089af",
       "category": "industry",
       "searchTerms": [
         "production",
@@ -7118,12 +7048,12 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -1.025,
+          "x": -1.362,
           "y": 0.0,
           "z": -0.8
         },
         "max": {
-          "x": 1.7,
+          "x": 1.362,
           "y": 5.1,
           "z": 0.8
         }
@@ -7140,8 +7070,8 @@
       "id": "ind-010",
       "name": "Robot Arm",
       "file": "ind-010.glb",
-      "bytes": 34300,
-      "sha256": "347a8ca9903d2e38b6f8bac62a3e0e114568cff30a2f552e79101b8a120ca930",
+      "bytes": 21900,
+      "sha256": "c9cd75c6087b724335705ef8d2f0ef07bcfeee78187015c800957d00c073dd31",
       "category": "industry",
       "searchTerms": [
         "production",
@@ -7151,12 +7081,12 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -0.674,
+          "x": -0.704,
           "y": 0.0,
           "z": -0.5
         },
         "max": {
-          "x": 0.788,
+          "x": 0.704,
           "y": 2.989,
           "z": 0.5
         }
@@ -7173,8 +7103,8 @@
       "id": "ind-011",
       "name": "Belt Conveyor",
       "file": "ind-011.glb",
-      "bytes": 29476,
-      "sha256": "39a6f56d000310d746d6e8d6e333a99da73d704c59bacdb70143eb961c8834b6",
+      "bytes": 16764,
+      "sha256": "f94ef8095588712bc18aaa5338272513ebb2267d2babb9200c3a8a978368665b",
       "category": "industry",
       "searchTerms": [
         "production",
@@ -7186,12 +7116,12 @@
         "min": {
           "x": -5,
           "y": 0.0,
-          "z": -0.43
+          "z": -0.64
         },
         "max": {
           "x": 5,
           "y": 1.27,
-          "z": 0.85
+          "z": 0.64
         }
       },
       "metadata": {
@@ -7206,8 +7136,8 @@
       "id": "ind-012",
       "name": "Overhead Crane",
       "file": "ind-012.glb",
-      "bytes": 16056,
-      "sha256": "c0d7497197d8c18e84491e630cee515a8e5af3ba39c126213b7bfb754331e6f9",
+      "bytes": 11932,
+      "sha256": "7cde968befd652b0a553c861f9ef5f0511b72be4943039ba63018876c8f1e201",
       "category": "industry",
       "searchTerms": [
         "production",
@@ -7239,8 +7169,8 @@
       "id": "ind-013",
       "name": "Safety Bollard",
       "file": "ind-013.glb",
-      "bytes": 13276,
-      "sha256": "4c2af21ffeafcd2a136b5c69e4dc8296eb07851dbf978868c563046acc455824",
+      "bytes": 9384,
+      "sha256": "e21b35e1eb2bd12ffef9a481a728bb78ba8b79822dc86d8f99fb72c0608b2b78",
       "category": "industry",
       "searchTerms": [
         "bollard",
@@ -7273,8 +7203,8 @@
       "id": "ind-014",
       "name": "High-Bay Rack",
       "file": "ind-014.glb",
-      "bytes": 1150664,
-      "sha256": "12a139dbefeebdb134f8b99404f1d05dadf1f877e980dcb967fe6fad421c0ed3",
+      "bytes": 460860,
+      "sha256": "8e9dd9e8e900526654fe9cc17c2b55db93e1260f1f703ed705343d0c61e2b9bc",
       "category": "industry",
       "searchTerms": [
         "warehouse",
@@ -7307,8 +7237,8 @@
       "id": "ind-015",
       "name": "Semi Truck",
       "file": "ind-015.glb",
-      "bytes": 214688,
-      "sha256": "e32f2e2bb7bb812a7383ad43e3a42136db63617f315f1b46c70c726bedeb28df",
+      "bytes": 106984,
+      "sha256": "07c2f01c4c02c1b4ee2698dcd780a03eea4723a6446b638e69fbf0ecec09503b",
       "category": "industry",
       "searchTerms": [
         "warehouse",
@@ -7319,12 +7249,12 @@
       ],
       "boundingBox": {
         "min": {
-          "x": 0.0,
+          "x": -9.335,
           "y": 0.0,
           "z": -1.305
         },
         "max": {
-          "x": 18.67,
+          "x": 9.335,
           "y": 3.9,
           "z": 1.305
         }
@@ -7341,8 +7271,8 @@
       "id": "ind-016",
       "name": "Forklift",
       "file": "ind-016.glb",
-      "bytes": 113316,
-      "sha256": "1eea65b8ac93583f6b1efd8b63dc8c0cc4e79946f873a5536c804382d50b74e9",
+      "bytes": 69052,
+      "sha256": "ab67fc294615e51979ff24f2e188ae62a06c12e4a8f5dbadaa06174167d34c45",
       "category": "industry",
       "searchTerms": [
         "warehouse",
@@ -7355,12 +7285,12 @@
         "min": {
           "x": -0.725,
           "y": 0.0,
-          "z": -1.25
+          "z": -1.65
         },
         "max": {
           "x": 0.725,
           "y": 2.28,
-          "z": 2.05
+          "z": 1.65
         }
       },
       "metadata": {
@@ -7375,8 +7305,8 @@
       "id": "ind-017",
       "name": "Workbench",
       "file": "ind-017.glb",
-      "bytes": 25788,
-      "sha256": "960e2ee4ed06712276e68b6b9961f12d97600303b72155311b29307f89b7692a",
+      "bytes": 17408,
+      "sha256": "612fbbd10fa91d2bba1a694c5e26b9dcb958465184b33ab6a2e70a744cf12bc6",
       "category": "industry",
       "searchTerms": [
         "workshop",
@@ -7389,12 +7319,12 @@
         "min": {
           "x": -1,
           "y": 0.0,
-          "z": -0.4
+          "z": -0.405
         },
         "max": {
           "x": 1,
           "y": 2,
-          "z": 0.41
+          "z": 0.405
         }
       },
       "metadata": {
@@ -7409,8 +7339,8 @@
       "id": "ind-018",
       "name": "Welding Station",
       "file": "ind-018.glb",
-      "bytes": 64580,
-      "sha256": "4d66136914f39c08523a3bfde93d52336f5286e0f94922027fea9c7cf42b42e9",
+      "bytes": 36936,
+      "sha256": "4e020f3319ba220dc2ac8414384335527b587b38dc94ec0472e68943d84a4c92",
       "category": "industry",
       "searchTerms": [
         "workshop",
@@ -7420,12 +7350,12 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -0.81,
+          "x": -1.24,
           "y": 0.0,
           "z": -0.8
         },
         "max": {
-          "x": 1.67,
+          "x": 1.24,
           "y": 1.8,
           "z": 0.8
         }
@@ -7442,8 +7372,8 @@
       "id": "ind-019",
       "name": "Pillar Drill",
       "file": "ind-019.glb",
-      "bytes": 11548,
-      "sha256": "46f8b36ab79fbbf99a288e62c074ccff2f75e7131f6110875a5dd13b28b8f314",
+      "bytes": 8348,
+      "sha256": "b89eb01c3da2884410eeea6572c4693ea3f8063a167bdd2f5b080d6c7b030ebd",
       "category": "industry",
       "searchTerms": [
         "workshop",
@@ -7455,12 +7385,12 @@
         "min": {
           "x": -0.25,
           "y": 0.0,
-          "z": -0.255
+          "z": -0.275
         },
         "max": {
           "x": 0.25,
           "y": 1.795,
-          "z": 0.295
+          "z": 0.275
         }
       },
       "metadata": {
@@ -7475,8 +7405,8 @@
       "id": "ind-020",
       "name": "Air Compressor",
       "file": "ind-020.glb",
-      "bytes": 9416,
-      "sha256": "1b408fc2c969db0d55ffe998d41e13e950a9d25091525cf5a9678cedfc9b51ab",
+      "bytes": 6944,
+      "sha256": "bc8964f4506d265b58a169a532f54fede44ecd163611288aed5b7da57f04975d",
       "category": "industry",
       "searchTerms": [
         "utility",
@@ -7508,8 +7438,8 @@
       "id": "ind-021",
       "name": "Air Receiver Tank",
       "file": "ind-021.glb",
-      "bytes": 48712,
-      "sha256": "6e2f1286486e7b20f809ff7e3d4b322c0a8218d8789b2d673e6b917ef0918b35",
+      "bytes": 38000,
+      "sha256": "0adc2ad70405d6b3f2c5334c50fa4f2ae0d84c91ccb3a9d9e9da7d7b046f9d51",
       "category": "industry",
       "searchTerms": [
         "air receiver",
@@ -7520,12 +7450,12 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -0.5,
-          "y": -0.005,
+          "x": -0.52,
+          "y": -0.003,
           "z": -0.5
         },
         "max": {
-          "x": 0.54,
+          "x": 0.52,
           "y": 2.575,
           "z": 0.5
         }
@@ -7542,8 +7472,8 @@
       "id": "ind-022",
       "name": "MCC Panels",
       "file": "ind-022.glb",
-      "bytes": 67284,
-      "sha256": "6a1477df78d6d141e525403425885c637bd1264d803a0e972174ad84d2c8c36e",
+      "bytes": 37896,
+      "sha256": "7418db3dc7ae674914a7914d3c68926a98850383f444a440130dbff6b46f25f9",
       "category": "industry",
       "searchTerms": [
         "utility",
@@ -7555,12 +7485,12 @@
         "min": {
           "x": -1.99,
           "y": 0.0,
-          "z": -0.3
+          "z": -0.312
         },
         "max": {
           "x": 1.99,
           "y": 2.2,
-          "z": 0.325
+          "z": 0.312
         }
       },
       "metadata": {
@@ -7575,8 +7505,8 @@
       "id": "str-001",
       "name": "Wall",
       "file": "str-001.glb",
-      "bytes": 4808,
-      "sha256": "14d801ef050820ed33f170fc3cca287972e67cd45d30985b3e0fd3d92ab30ed6",
+      "bytes": 3928,
+      "sha256": "3073362d91a3f7fa9db54dfd252a526aba8adee8b50419c4528d7df7aa0f56c1",
       "category": "structural",
       "searchTerms": [
         "wall solid",
@@ -7609,8 +7539,8 @@
       "id": "str-002",
       "name": "Wall with Windows",
       "file": "str-002.glb",
-      "bytes": 19284,
-      "sha256": "22fa92c0ba1a9e920d8d6f1767deddf751da8241d8b653a9d8c00cabfddb4261",
+      "bytes": 10528,
+      "sha256": "eba87bde25265d0c563510f690537e332e5de4fd1ac0e4efea7e6dfe0d48e9e1",
       "category": "structural",
       "searchTerms": [
         "wall window",
@@ -7623,12 +7553,12 @@
         "min": {
           "x": -2.5,
           "y": 0.0,
-          "z": -0.09
+          "z": -0.11
         },
         "max": {
           "x": 2.5,
           "y": 2.9,
-          "z": 0.13
+          "z": 0.11
         }
       },
       "metadata": {
@@ -7643,8 +7573,8 @@
       "id": "str-003",
       "name": "Curtain Wall",
       "file": "str-003.glb",
-      "bytes": 59860,
-      "sha256": "52a75826cb5cd7bcb2a089c3f75100f32e695db1ca47de5199b7a7bf9bb07028",
+      "bytes": 29708,
+      "sha256": "88999c92e89b38b90a69f92292c78e58be22a56051a1107b3e6214f9398d212a",
       "category": "structural",
       "searchTerms": [
         "walls",
@@ -7656,12 +7586,12 @@
         "min": {
           "x": -3.75,
           "y": 0.0,
-          "z": -0.16
+          "z": -0.087
         },
         "max": {
           "x": 3.75,
-          "y": 4.0,
-          "z": 0.015
+          "y": 4,
+          "z": 0.087
         }
       },
       "metadata": {
@@ -7676,8 +7606,8 @@
       "id": "str-004",
       "name": "Shopfront",
       "file": "str-004.glb",
-      "bytes": 31080,
-      "sha256": "76f1d6f8f92fea25aa1c7572446a254c1ab9cf6578e97756cb0bd531ae77c781",
+      "bytes": 19884,
+      "sha256": "fdbc849406f01c73c1900b8891ba5c6a8421882fd18099be976a5710b0360452",
       "category": "structural",
       "searchTerms": [
         "walls",
@@ -7690,12 +7620,12 @@
         "min": {
           "x": -4.5,
           "y": 0.0,
-          "z": -0.2
+          "z": -0.125
         },
         "max": {
           "x": 4.5,
           "y": 4.5,
-          "z": 0.05
+          "z": 0.125
         }
       },
       "metadata": {
@@ -7710,8 +7640,8 @@
       "id": "str-005",
       "name": "Column, Round",
       "file": "str-005.glb",
-      "bytes": 9676,
-      "sha256": "86e51f72b4c0cf03ff960c6f04190faecd8f81d55879d93ad56e20acaca789e3",
+      "bytes": 7216,
+      "sha256": "8047fd74fa1f014634458e0b320e34b83f3b989cb0d7d9d0436d298c88577170",
       "category": "structural",
       "searchTerms": [
         "walls",
@@ -7743,8 +7673,8 @@
       "id": "str-006",
       "name": "Column, Square",
       "file": "str-006.glb",
-      "bytes": 4844,
-      "sha256": "cb32871cd3fe8f022b8100ce041101dcc1a28ded8ffad2cb041b8021a6849f88",
+      "bytes": 3968,
+      "sha256": "fbd8276a5b3968cbe4e17364dd6e5b8d993007756b09da590e0c785119708ea6",
       "category": "structural",
       "searchTerms": [
         "walls",
@@ -7776,8 +7706,8 @@
       "id": "str-007",
       "name": "Floor Slab",
       "file": "str-007.glb",
-      "bytes": 3344,
-      "sha256": "198496489261a9470bfe1ddb04e2c077773eea65085a1d39c1384bdad1aecbb6",
+      "bytes": 3280,
+      "sha256": "aa05220e8b971762511ad8ca4e7bb655140e0028aa85ea58f2d21724d26833b7",
       "category": "structural",
       "searchTerms": [
         "walls",
@@ -7789,12 +7719,12 @@
         "min": {
           "x": -3,
           "y": 0.0,
-          "z": -2
+          "z": -2.01
         },
         "max": {
           "x": 3,
           "y": 0.3,
-          "z": 2.02
+          "z": 2.01
         }
       },
       "metadata": {
@@ -7809,8 +7739,8 @@
       "id": "str-008",
       "name": "Door, Single",
       "file": "str-008.glb",
-      "bytes": 30036,
-      "sha256": "02cd2d78b0841aaa1b944a819ee55cf5a032bd9b799b50fb3be623d98bcc083f",
+      "bytes": 19320,
+      "sha256": "2a77e1618228c1c6e67e98d2a161b12e5769abc7dff8e749786b1234c6e9e357",
       "category": "structural",
       "searchTerms": [
         "doors",
@@ -7823,12 +7753,12 @@
         "min": {
           "x": -2,
           "y": 0.0,
-          "z": -0.08
+          "z": -0.53
         },
         "max": {
           "x": 2,
           "y": 2.9,
-          "z": 0.98
+          "z": 0.53
         }
       },
       "metadata": {
@@ -7846,8 +7776,8 @@
       "id": "str-009",
       "name": "Double Opening",
       "file": "str-009.glb",
-      "bytes": 15144,
-      "sha256": "2dd81d6b1f82920f460edc31d3771562aa66f5621f37a6a11510f67bf69a25e0",
+      "bytes": 8988,
+      "sha256": "4fe4597c3df272c3205ab48159c7d10201aa856759821993c14eee4e42300b71",
       "category": "structural",
       "searchTerms": [
         "door double opening",
@@ -7859,12 +7789,12 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -2.0,
+          "x": -2,
           "y": 0.0,
           "z": -0.08
         },
         "max": {
-          "x": 2.0,
+          "x": 2,
           "y": 2.9,
           "z": 0.08
         }
@@ -7881,8 +7811,8 @@
       "id": "str-010",
       "name": "Sliding Glass Doors",
       "file": "str-010.glb",
-      "bytes": 12224,
-      "sha256": "3a2d3aec9f52e4016a4025338fd48d5ba9bf9b37536429b53ece8420899c1a09",
+      "bytes": 7956,
+      "sha256": "c30c2e6de093e7e22b18a1446e2a7e727fab6bd5a00d643a7e9bff568b2c389a",
       "category": "structural",
       "searchTerms": [
         "sliding doors",
@@ -7896,12 +7826,12 @@
         "min": {
           "x": -2.5,
           "y": 0.0,
-          "z": -0.075
+          "z": -0.138
         },
         "max": {
           "x": 2.5,
           "y": 3.2,
-          "z": 0.2
+          "z": 0.138
         }
       },
       "metadata": {
@@ -7919,8 +7849,8 @@
       "id": "str-011",
       "name": "Cell Door",
       "file": "str-011.glb",
-      "bytes": 42208,
-      "sha256": "b83ad2a9ed7f2adc10d30a1560d129fbb1fe9490951f6cf410541b314540a67e",
+      "bytes": 23620,
+      "sha256": "9abf95b5f416b2ebe40e7ef344daad8d3b3c1db59763138d2b8678563743683c",
       "category": "structural",
       "searchTerms": [
         "doors",
@@ -7934,12 +7864,12 @@
         "min": {
           "x": -1.125,
           "y": 0.0,
-          "z": -0.165
+          "z": -0.501
         },
         "max": {
           "x": 1.125,
           "y": 2.7,
-          "z": 0.838
+          "z": 0.501
         }
       },
       "metadata": {
@@ -7957,8 +7887,8 @@
       "id": "str-012",
       "name": "Stair Flight",
       "file": "str-012.glb",
-      "bytes": 53892,
-      "sha256": "fba7de5d6e0aa9798e090feb2e0d27c44da6c688356f7aa5c96b58e3bdb21b2a",
+      "bytes": 26752,
+      "sha256": "1c74a212a221de6e990307a0c1d7aad564537c9730dad3672e143cd6fb537a53",
       "category": "structural",
       "searchTerms": [
         "circulation",
@@ -7970,12 +7900,12 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -0.062,
+          "x": -2.142,
           "y": 0.049,
           "z": -0.505
         },
         "max": {
-          "x": 4.222,
+          "x": 2.142,
           "y": 3.921,
           "z": 0.505
         }
@@ -7992,8 +7922,8 @@
       "id": "str-013",
       "name": "Stair, Two Flights",
       "file": "str-013.glb",
-      "bytes": 85660,
-      "sha256": "5b5336d2b413135eecbd6244a401f6c5b19652b247dbd771fb5eec9dae68006f",
+      "bytes": 41664,
+      "sha256": "546125e5e3e1791e7885dd160868bf5e4a7e5157a4acca4f60266977e6dda361",
       "category": "structural",
       "searchTerms": [
         "stair two flight",
@@ -8006,14 +7936,14 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -0.059,
+          "x": -1.67,
           "y": 0.047,
-          "z": -0.55
+          "z": -1.1
         },
         "max": {
-          "x": 3.28,
+          "x": 1.67,
           "y": 3.921,
-          "z": 1.65
+          "z": 1.1
         }
       },
       "metadata": {
@@ -8028,8 +7958,8 @@
       "id": "str-014",
       "name": "Ramp",
       "file": "str-014.glb",
-      "bytes": 36084,
-      "sha256": "1594a9242c9a92c578808fe666ccab280fccde2189ca2c546ac9c343e3318e8e",
+      "bytes": 19172,
+      "sha256": "ee6cf43949c8356722f1833016c6f21fc6d5615b0e73c96f1db178daa35435e3",
       "category": "structural",
       "searchTerms": [
         "circulation",
@@ -8041,12 +7971,12 @@
       ],
       "boundingBox": {
         "min": {
-          "x": -0.019,
+          "x": -3.769,
           "y": -0.1,
           "z": -0.805
         },
         "max": {
-          "x": 7.519,
+          "x": 3.769,
           "y": 1.425,
           "z": 0.805
         }
@@ -8063,8 +7993,8 @@
       "id": "str-015",
       "name": "Escalator",
       "file": "str-015.glb",
-      "bytes": 1219964,
-      "sha256": "5fedbf292de6f60c4b6d21c3bf646668a85eefe1f6e07caea67270331ef4a0f6",
+      "bytes": 2339288,
+      "sha256": "47be5114d90865511d759daad9fd967c19b5e7fad15b20ff926fbe660b2ad5f7",
       "category": "structural",
       "searchTerms": [
         "circulation",
@@ -8076,12 +8006,12 @@
       ],
       "boundingBox": {
         "min": {
-          "x": 0.0,
+          "x": -5.25,
           "y": -0.275,
           "z": -1.75
         },
         "max": {
-          "x": 10.5,
+          "x": 5.25,
           "y": 5.87,
           "z": 1.75
         }
@@ -8098,8 +8028,8 @@
       "id": "str-016",
       "name": "Glass Elevator",
       "file": "str-016.glb",
-      "bytes": 82812,
-      "sha256": "7b2956a976b989458f0356d2e4da8036443913c9963d9c8ea9a9911528dfa3ed",
+      "bytes": 40744,
+      "sha256": "3ede2783aeca2b46cf810c442ffa94111cfe7303ea1135bf369621719dd63e9e",
       "category": "structural",
       "searchTerms": [
         "circulation",
@@ -8137,8 +8067,8 @@
       "id": "str-017",
       "name": "Glass Railing",
       "file": "str-017.glb",
-      "bytes": 10828,
-      "sha256": "ee2495044619914214f260cfce569abff339d9fb46212332c9b3135b204a36d9",
+      "bytes": 7636,
+      "sha256": "4ca7788c119f1e48a0576d636bc3dbb3f5282255283178af16917196065ef057",
       "category": "structural",
       "searchTerms": [
         "railing glass",
@@ -8151,12 +8081,12 @@
         "min": {
           "x": -1.5,
           "y": -0.2,
-          "z": -1
+          "z": -0.5
         },
         "max": {
           "x": 1.5,
           "y": 1.125,
-          "z": 0.0
+          "z": 0.5
         }
       },
       "metadata": {
@@ -8171,8 +8101,8 @@
       "id": "str-018",
       "name": "Steel Railing",
       "file": "str-018.glb",
-      "bytes": 13424,
-      "sha256": "a195c0682c146b898240d899d010a00e30092929744f86579853e1890db907f1",
+      "bytes": 7808,
+      "sha256": "89f72aeff7e2c4f2c295689a502a5ae7e0293cccc45e3b69e143286aaca8c0ac",
       "category": "structural",
       "searchTerms": [
         "railing steel",
@@ -8185,12 +8115,12 @@
         "min": {
           "x": -1.5,
           "y": -0.2,
-          "z": -1
+          "z": -0.5
         },
         "max": {
           "x": 1.5,
           "y": 1.125,
-          "z": 0.0
+          "z": 0.5
         }
       },
       "metadata": {
@@ -8218,6 +8148,78 @@
         "surveillance"
       ],
       "thumbnail": "cctv-ptz-camera.webp"
+    },
+    {
+      "id": "prs-007",
+      "name": "CCTV Camera",
+      "file": "prs-007.glb",
+      "bytes": 9824,
+      "sha256": "851ea1df899312ef0d258b0cf156c2f1144be4c4813f6c53895b76f10a2979ea",
+      "category": "cameras",
+      "searchTerms": [
+        "cell block",
+        "security",
+        "camera",
+        "surveillance",
+        "correctional",
+        "detention",
+        "prison"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.065,
+          "y": -0.08,
+          "z": -0.246
+        },
+        "max": {
+          "x": 0.065,
+          "y": 0.136,
+          "z": 0.246
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Facility Props",
+        "sourceCode": "PRS-007",
+        "description": "Wall mount · bullet camera",
+        "group": "Cell Block"
+      },
+      "thumbnail": "prs-007.webp"
+    },
+    {
+      "id": "prs-008",
+      "name": "CCTV Dome",
+      "file": "prs-008.glb",
+      "bytes": 12648,
+      "sha256": "2acc83d30d22705594d62ac901da783270d772718cb780142ce9495280111f55",
+      "category": "cameras",
+      "searchTerms": [
+        "cell block",
+        "security",
+        "camera",
+        "surveillance",
+        "correctional",
+        "detention",
+        "prison"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.09,
+          "y": -0.1,
+          "z": -0.09
+        },
+        "max": {
+          "x": 0.09,
+          "y": 0.0,
+          "z": 0.09
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Facility Props",
+        "sourceCode": "PRS-008",
+        "description": "Ø 0.18 m · ceiling mount",
+        "group": "Cell Block"
+      },
+      "thumbnail": "prs-008.webp"
     }
   ],
   "categories": [
