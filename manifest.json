@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "2.0.1",
-  "assetCount": 246,
+  "version": "2.1.0",
+  "assetCount": 258,
   "assets": [
     {
       "id": "sch-001",
@@ -8132,6 +8132,607 @@
       "thumbnail": "str-018.webp"
     },
     {
+      "id": "evt-001",
+      "name": "Shell Scheme Booth",
+      "file": "evt-001.glb",
+      "bytes": 34912,
+      "sha256": "83279d43a10da97abdb61fb4f3d8bbb1ae740cf44e155b4fe83cbf490d7cd3b1",
+      "category": "events",
+      "searchTerms": [
+        "booths",
+        "booth",
+        "stand",
+        "exhibition",
+        "trade show",
+        "fascia",
+        "signage"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -1.505,
+          "y": 0,
+          "z": -1.505
+        },
+        "max": {
+          "x": 1.505,
+          "y": 2.825,
+          "z": 1.505
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Event Kit",
+        "sourceCode": "EVT-001",
+        "description": "3.00 × 3.00 m · panels, aluminium frame, fascia name board",
+        "group": "Booths",
+        "signFaces": [
+          {
+            "center": {
+              "x": 0,
+              "y": 2.64,
+              "z": 1.499
+            },
+            "normal": {
+              "x": 0,
+              "y": 0,
+              "z": 1
+            },
+            "width": 2.8,
+            "height": 0.28
+          }
+        ]
+      },
+      "thumbnail": "evt-001.webp"
+    },
+    {
+      "id": "evt-002",
+      "name": "Backdrop Wall",
+      "file": "evt-002.glb",
+      "bytes": 8108,
+      "sha256": "aecc5e64818a8afaf75ab17e0f9e33c78f8179fe91d5e3c7e7edabc9c81ddd68",
+      "category": "events",
+      "searchTerms": [
+        "booths",
+        "booth",
+        "backwall",
+        "exhibition",
+        "trade show",
+        "signage"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -2,
+          "y": 0,
+          "z": -0.25
+        },
+        "max": {
+          "x": 2,
+          "y": 3.05,
+          "z": 0.25
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Event Kit",
+        "sourceCode": "EVT-002",
+        "description": "4.00 × 3.00 m · graphic wall with a name band",
+        "group": "Booths",
+        "signFaces": [
+          {
+            "center": {
+              "x": 0,
+              "y": 2.8,
+              "z": 0.054
+            },
+            "normal": {
+              "x": 0,
+              "y": 0,
+              "z": 1
+            },
+            "width": 3.8,
+            "height": 0.44
+          }
+        ]
+      },
+      "thumbnail": "evt-002.webp"
+    },
+    {
+      "id": "evt-003",
+      "name": "Hanging Banner",
+      "file": "evt-003.glb",
+      "bytes": 17348,
+      "sha256": "7625a5fb34d8a6eca1e8ca4c01d095ddd2721fc73c90d9d0bda51aa48d1f36ba",
+      "category": "events",
+      "searchTerms": [
+        "signage",
+        "hanging sign",
+        "overhead sign",
+        "booth",
+        "exhibition",
+        "trade show"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -1.515,
+          "y": 2.98,
+          "z": -1.515
+        },
+        "max": {
+          "x": 1.515,
+          "y": 4.603,
+          "z": 1.515
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Event Kit",
+        "sourceCode": "EVT-003",
+        "description": "3.00 × 3.00 × 1.00 m · four-sided, hung 3–4 m up",
+        "group": "Signage",
+        "signFaces": [
+          {
+            "center": {
+              "x": 0,
+              "y": 3.5,
+              "z": 1.504
+            },
+            "normal": {
+              "x": 0,
+              "y": 0,
+              "z": 1
+            },
+            "width": 2.8,
+            "height": 0.8
+          },
+          {
+            "center": {
+              "x": 0,
+              "y": 3.5,
+              "z": -1.504
+            },
+            "normal": {
+              "x": 0,
+              "y": 0,
+              "z": -1
+            },
+            "width": 2.8,
+            "height": 0.8
+          },
+          {
+            "center": {
+              "x": 1.504,
+              "y": 3.5,
+              "z": 0
+            },
+            "normal": {
+              "x": 1,
+              "y": 0,
+              "z": 0
+            },
+            "width": 2.8,
+            "height": 0.8
+          },
+          {
+            "center": {
+              "x": -1.504,
+              "y": 3.5,
+              "z": 0
+            },
+            "normal": {
+              "x": -1,
+              "y": 0,
+              "z": 0
+            },
+            "width": 2.8,
+            "height": 0.8
+          }
+        ]
+      },
+      "thumbnail": "evt-003.webp"
+    },
+    {
+      "id": "evt-004",
+      "name": "Blade Banner",
+      "file": "evt-004.glb",
+      "bytes": 7304,
+      "sha256": "84a0d1bbfa6bc446f9b14c7114dc42c287503ca89746bb8b85415a3c23392f05",
+      "category": "events",
+      "searchTerms": [
+        "signage",
+        "hanging sign",
+        "overhead sign",
+        "exhibition"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -1.22,
+          "y": 2.96,
+          "z": -0.02
+        },
+        "max": {
+          "x": 1.22,
+          "y": 4.402,
+          "z": 0.02
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Event Kit",
+        "sourceCode": "EVT-004",
+        "description": "2.40 × 0.80 m · double sided, hung 3–3.8 m up",
+        "group": "Signage",
+        "signFaces": [
+          {
+            "center": {
+              "x": 0,
+              "y": 3.4,
+              "z": 0.019
+            },
+            "normal": {
+              "x": 0,
+              "y": 0,
+              "z": 1
+            },
+            "width": 2.3,
+            "height": 0.7
+          },
+          {
+            "center": {
+              "x": 0,
+              "y": 3.4,
+              "z": -0.019
+            },
+            "normal": {
+              "x": 0,
+              "y": 0,
+              "z": -1
+            },
+            "width": 2.3,
+            "height": 0.7
+          }
+        ]
+      },
+      "thumbnail": "evt-004.webp"
+    },
+    {
+      "id": "evt-005",
+      "name": "Roll-Up Banner",
+      "file": "evt-005.glb",
+      "bytes": 10836,
+      "sha256": "22b7981a532bb5c993b756a8cbca46c55ae4a305ff943ff9fc831ff0aea09e41",
+      "category": "events",
+      "searchTerms": [
+        "signage",
+        "pull up banner",
+        "exhibition",
+        "trade show"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.43,
+          "y": 0,
+          "z": -0.18
+        },
+        "max": {
+          "x": 0.43,
+          "y": 2.092,
+          "z": 0.18
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Event Kit",
+        "sourceCode": "EVT-005",
+        "description": "0.85 × 2.00 m · name strip at the top",
+        "group": "Signage",
+        "signFaces": [
+          {
+            "center": {
+              "x": 0,
+              "y": 1.88,
+              "z": 0.009
+            },
+            "normal": {
+              "x": 0,
+              "y": 0,
+              "z": 1
+            },
+            "width": 0.78,
+            "height": 0.26
+          }
+        ]
+      },
+      "thumbnail": "evt-005.webp"
+    },
+    {
+      "id": "evt-006",
+      "name": "Teardrop Flag",
+      "file": "evt-006.glb",
+      "bytes": 11660,
+      "sha256": "6d5be59db4ad45406a1c5fed6cbb48e9a6211b00fba9cc733fe4d859ee8027b5",
+      "category": "events",
+      "searchTerms": [
+        "signage",
+        "flag",
+        "feather flag",
+        "exhibition",
+        "outdoor"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.544,
+          "y": 0,
+          "z": -0.4
+        },
+        "max": {
+          "x": 0.544,
+          "y": 3.2,
+          "z": 0.4
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Event Kit",
+        "sourceCode": "EVT-006",
+        "description": "3.20 m · cross base",
+        "group": "Signage"
+      },
+      "thumbnail": "evt-006.webp"
+    },
+    {
+      "id": "evt-007",
+      "name": "Exhibition Counter",
+      "file": "evt-007.glb",
+      "bytes": 7212,
+      "sha256": "c784ed3e5c3d7eb22fc4ed500d6f347fea5c9d833123124b18d807026283b847",
+      "category": "events",
+      "searchTerms": [
+        "booths",
+        "counter",
+        "reception",
+        "booth",
+        "exhibition",
+        "trade show",
+        "signage"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -1.03,
+          "y": 0,
+          "z": -0.32
+        },
+        "max": {
+          "x": 1.03,
+          "y": 1.04,
+          "z": 0.32
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Event Kit",
+        "sourceCode": "EVT-007",
+        "description": "2.00 × 0.60 m · 1.04 m high, name panel in front",
+        "group": "Booths",
+        "signFaces": [
+          {
+            "center": {
+              "x": 0,
+              "y": 0.66,
+              "z": 0.304
+            },
+            "normal": {
+              "x": 0,
+              "y": 0,
+              "z": 1
+            },
+            "width": 1.76,
+            "height": 0.4
+          }
+        ]
+      },
+      "thumbnail": "evt-007.webp"
+    },
+    {
+      "id": "evt-008",
+      "name": "LED Video Wall",
+      "file": "evt-008.glb",
+      "bytes": 144608,
+      "sha256": "e62577a540b29125ad78c53c64e428dc7d2389518c26104887b4b13d83187e76",
+      "category": "events",
+      "searchTerms": [
+        "stage",
+        "screen",
+        "display",
+        "led wall",
+        "exhibition",
+        "electronics"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -2.55,
+          "y": 0,
+          "z": -0.3
+        },
+        "max": {
+          "x": 2.55,
+          "y": 3.642,
+          "z": 0.3
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Event Kit",
+        "sourceCode": "EVT-008",
+        "description": "4.00 × 2.25 m screen · box truss frame, 3.65 m high",
+        "group": "Stage"
+      },
+      "thumbnail": "evt-008.webp"
+    },
+    {
+      "id": "evt-009",
+      "name": "Cocktail Table Set",
+      "file": "evt-009.glb",
+      "bytes": 45676,
+      "sha256": "be2892dd5023d8650d8ee643fd02dc0506641732a21c2bd79aa7e6da165f4553",
+      "category": "events",
+      "searchTerms": [
+        "hospitality",
+        "high table",
+        "bar table",
+        "stool",
+        "seating",
+        "networking",
+        "exhibition"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.82,
+          "y": 0,
+          "z": -0.35
+        },
+        "max": {
+          "x": 0.82,
+          "y": 1.1,
+          "z": 0.35
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Event Kit",
+        "sourceCode": "EVT-009",
+        "description": "Ø 0.70 m high table · 2 bar stools",
+        "group": "Hospitality"
+      },
+      "thumbnail": "evt-009.webp"
+    },
+    {
+      "id": "evt-010",
+      "name": "Lectern",
+      "file": "evt-010.glb",
+      "bytes": 11364,
+      "sha256": "76b3f6b239374128071736fb99830c8eb01fc5b2d7b25d5fb156c6b8f4c2902f",
+      "category": "events",
+      "searchTerms": [
+        "stage",
+        "podium",
+        "speaker",
+        "conference",
+        "signage"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.33,
+          "y": 0,
+          "z": -0.246
+        },
+        "max": {
+          "x": 0.33,
+          "y": 1.37,
+          "z": 0.246
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Event Kit",
+        "sourceCode": "EVT-010",
+        "description": "0.60 × 0.42 m · 1.1 m high, name panel, microphone",
+        "group": "Stage",
+        "signFaces": [
+          {
+            "center": {
+              "x": 0,
+              "y": 0.72,
+              "z": 0.246
+            },
+            "normal": {
+              "x": 0,
+              "y": 0,
+              "z": 1
+            },
+            "width": 0.48,
+            "height": 0.24
+          }
+        ]
+      },
+      "thumbnail": "evt-010.webp"
+    },
+    {
+      "id": "evt-011",
+      "name": "Stage with Truss",
+      "file": "evt-011.glb",
+      "bytes": 165640,
+      "sha256": "99fd8c37060fe72b7703459c355c18dfa33089f9e1d22bf8eaca5ef34bcdc878",
+      "category": "events",
+      "searchTerms": [
+        "stage",
+        "riser",
+        "truss",
+        "conference",
+        "theatre",
+        "signage"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -3.4,
+          "y": 0,
+          "z": -1.8
+        },
+        "max": {
+          "x": 3.4,
+          "y": 4.442,
+          "z": 1.8
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Event Kit",
+        "sourceCode": "EVT-011",
+        "description": "6.00 × 3.00 × 0.40 m · steps, curtain, truss name banner",
+        "group": "Stage",
+        "signFaces": [
+          {
+            "center": {
+              "x": 0,
+              "y": 3.75,
+              "z": -1.311
+            },
+            "normal": {
+              "x": 0,
+              "y": 0,
+              "z": 1
+            },
+            "width": 5.4,
+            "height": 0.54
+          }
+        ]
+      },
+      "thumbnail": "evt-011.webp"
+    },
+    {
+      "id": "evt-012",
+      "name": "Brochure Rack",
+      "file": "evt-012.glb",
+      "bytes": 22676,
+      "sha256": "acb47936720bbd342cbc41e1affb08f303447abcc3f4ce26974d0ce47bbffa2c",
+      "category": "events",
+      "searchTerms": [
+        "booths",
+        "literature stand",
+        "leaflets",
+        "booth",
+        "exhibition",
+        "storage"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.225,
+          "y": 0,
+          "z": -0.175
+        },
+        "max": {
+          "x": 0.225,
+          "y": 1.55,
+          "z": 0.175
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Event Kit",
+        "sourceCode": "EVT-012",
+        "description": "0.45 × 0.35 m · 4 clear pockets",
+        "group": "Booths"
+      },
+      "thumbnail": "evt-012.webp"
+    },
+    {
       "id": "cctv-ptz-camera",
       "name": "CCTV PTZ camera",
       "file": "cctv_ptz_camera.glb",
@@ -8231,6 +8832,7 @@
     "office",
     "industry",
     "structural",
+    "events",
     "cameras"
   ]
 }
