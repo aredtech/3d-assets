@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "2.1.0",
-  "assetCount": 258,
+  "version": "2.2.0",
+  "assetCount": 329,
   "assets": [
     {
       "id": "sch-001",
@@ -7502,6 +7502,289 @@
       "thumbnail": "ind-022.webp"
     },
     {
+      "id": "lgx-001",
+      "name": "Roll Cage",
+      "file": "lgx-001.glb",
+      "bytes": 42168,
+      "sha256": "7d2b0ed1357de4c4b43ac42e456c55d2cec7e84d412438dd92c4320066f50b6c",
+      "category": "industry",
+      "searchTerms": [
+        "logistics",
+        "roll container",
+        "cage trolley",
+        "warehouse",
+        "distribution",
+        "retail",
+        "storage"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.428,
+          "y": 0.02,
+          "z": -0.38
+        },
+        "max": {
+          "x": 0.428,
+          "y": 1.704,
+          "z": 0.38
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Logistics Kit",
+        "sourceCode": "LGX-001",
+        "description": "0.80 × 0.70 × 1.70 m · wire mesh, castors, cartons",
+        "group": "Logistics"
+      },
+      "thumbnail": "lgx-001.webp"
+    },
+    {
+      "id": "lgx-002",
+      "name": "Loading Dock Bay",
+      "file": "lgx-002.glb",
+      "bytes": 22624,
+      "sha256": "175dbc961b8234705e099425a409f25cef4cc24e585196a3684f9eaaa88eaa02",
+      "category": "industry",
+      "searchTerms": [
+        "logistics",
+        "dock",
+        "loading bay",
+        "dock door",
+        "leveller",
+        "warehouse",
+        "truck"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -2,
+          "y": 0,
+          "z": -1.725
+        },
+        "max": {
+          "x": 2,
+          "y": 3.9,
+          "z": 1.725
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Logistics Kit",
+        "sourceCode": "LGX-002",
+        "description": "3.40 m wide · sectional door, leveller, shelter, traffic lights",
+        "group": "Logistics"
+      },
+      "thumbnail": "lgx-002.webp"
+    },
+    {
+      "id": "lgx-003",
+      "name": "Parcel Sorter",
+      "file": "lgx-003.glb",
+      "bytes": 28932,
+      "sha256": "b3c968aa14ec82dedc048a75418b48f201e318a78b6df70d57d3569389f2d70f",
+      "category": "industry",
+      "searchTerms": [
+        "logistics",
+        "sorter",
+        "conveyor",
+        "parcel",
+        "distribution",
+        "warehouse",
+        "machinery"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -3.16,
+          "y": 0,
+          "z": -1.23
+        },
+        "max": {
+          "x": 3.16,
+          "y": 1.45,
+          "z": 1.23
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Logistics Kit",
+        "sourceCode": "LGX-003",
+        "description": "6.00 × 1.80 m · belt, 8 chutes into bins",
+        "group": "Logistics"
+      },
+      "thumbnail": "lgx-003.webp"
+    },
+    {
+      "id": "lgx-004",
+      "name": "Pallet Wrapper",
+      "file": "lgx-004.glb",
+      "bytes": 30580,
+      "sha256": "f472cf06e51793a544e801be0a14c3d7ca7e52a1c0856bb3b294ad94292a17d8",
+      "category": "industry",
+      "searchTerms": [
+        "logistics",
+        "stretch wrapper",
+        "pallet",
+        "packaging",
+        "warehouse",
+        "machinery"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -1.062,
+          "y": 0,
+          "z": -0.8
+        },
+        "max": {
+          "x": 1.063,
+          "y": 2.4,
+          "z": 0.8
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Logistics Kit",
+        "sourceCode": "LGX-004",
+        "description": "2.40 × 1.60 m · turntable, mast, wrapped pallet",
+        "group": "Logistics"
+      },
+      "thumbnail": "lgx-004.webp"
+    },
+    {
+      "id": "lgx-005",
+      "name": "Shelving Bay",
+      "file": "lgx-005.glb",
+      "bytes": 28688,
+      "sha256": "504e996596e6c244e37f8e22dbc8e70815cb8771c54ce0c7c525bd4928e3075b",
+      "category": "industry",
+      "searchTerms": [
+        "logistics",
+        "shelving",
+        "racking",
+        "storage",
+        "warehouse",
+        "stockroom"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.52,
+          "y": 0,
+          "z": -0.27
+        },
+        "max": {
+          "x": 0.52,
+          "y": 2,
+          "z": 0.27
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Logistics Kit",
+        "sourceCode": "LGX-005",
+        "description": "1.00 × 0.50 × 2.00 m · 5 levels, boxes",
+        "group": "Logistics"
+      },
+      "thumbnail": "lgx-005.webp"
+    },
+    {
+      "id": "lgx-006",
+      "name": "Long-Span Shelving",
+      "file": "lgx-006.glb",
+      "bytes": 29732,
+      "sha256": "d1389f1a49aee6908eab0c21dc7209b857fa2f5c37e7daed44ff25e3ca71dd97",
+      "category": "industry",
+      "searchTerms": [
+        "logistics",
+        "shelving",
+        "racking",
+        "storage",
+        "warehouse",
+        "stockroom"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -1.22,
+          "y": 0,
+          "z": -0.32
+        },
+        "max": {
+          "x": 1.22,
+          "y": 2,
+          "z": 0.32
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Logistics Kit",
+        "sourceCode": "LGX-006",
+        "description": "2.40 × 0.60 × 2.00 m · 4 levels, cartons",
+        "group": "Logistics"
+      },
+      "thumbnail": "lgx-006.webp"
+    },
+    {
+      "id": "lgx-007",
+      "name": "Pallet Stack",
+      "file": "lgx-007.glb",
+      "bytes": 119224,
+      "sha256": "a9ad60ae2339ccd603bc06ccfb8fb562714198946a9cf3c29f02078b816e0e39",
+      "category": "industry",
+      "searchTerms": [
+        "logistics",
+        "pallet",
+        "euro pallet",
+        "warehouse",
+        "storage"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.6,
+          "y": 0,
+          "z": -0.4
+        },
+        "max": {
+          "x": 0.6,
+          "y": 1.44,
+          "z": 0.4
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Logistics Kit",
+        "sourceCode": "LGX-007",
+        "description": "1.20 × 0.80 m · 10 empty pallets",
+        "group": "Logistics"
+      },
+      "thumbnail": "lgx-007.webp"
+    },
+    {
+      "id": "lgx-008",
+      "name": "Packing Station",
+      "file": "lgx-008.glb",
+      "bytes": 27432,
+      "sha256": "cce13a5b6ca8fd8b4840fa778fb5cc0413b8520607a06e7a08e5bc634b5817fa",
+      "category": "industry",
+      "searchTerms": [
+        "logistics",
+        "packing",
+        "workbench",
+        "shipping",
+        "dispatch",
+        "warehouse",
+        "e-commerce"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.9,
+          "y": 0,
+          "z": -0.4
+        },
+        "max": {
+          "x": 0.9,
+          "y": 1.869,
+          "z": 0.4
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Logistics Kit",
+        "sourceCode": "LGX-008",
+        "description": "1.80 × 0.80 m · bench, monitor, scale, tape, cartons",
+        "group": "Logistics"
+      },
+      "thumbnail": "lgx-008.webp"
+    },
+    {
       "id": "str-001",
       "name": "Wall",
       "file": "str-001.glb",
@@ -8733,6 +9016,2304 @@
       "thumbnail": "evt-012.webp"
     },
     {
+      "id": "ame-001",
+      "name": "WC Cubicle Row",
+      "file": "ame-001.glb",
+      "bytes": 81524,
+      "sha256": "0976bfdf588b4904987baf551ba87dc374dbbbf66a29924c0355f0f2df542654",
+      "category": "amenities",
+      "searchTerms": [
+        "restrooms",
+        "toilet",
+        "wc",
+        "restroom",
+        "bathroom",
+        "cubicle",
+        "partition"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -1.42,
+          "y": 0,
+          "z": -0.873
+        },
+        "max": {
+          "x": 1.42,
+          "y": 2.04,
+          "z": 0.873
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Building Essentials",
+        "sourceCode": "AME-001",
+        "description": "2.80 × 1.70 m · 3 cubicles, one door open, wall-hung WCs",
+        "group": "Restrooms"
+      },
+      "thumbnail": "ame-001.webp"
+    },
+    {
+      "id": "ame-002",
+      "name": "WC",
+      "file": "ame-002.glb",
+      "bytes": 24476,
+      "sha256": "cad4630104077f184d7e6f53748595464aaacf0b75fc7c32543bf09613b5bf0d",
+      "category": "amenities",
+      "searchTerms": [
+        "restrooms",
+        "toilet",
+        "wc",
+        "restroom",
+        "bathroom",
+        "sanitary"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.3,
+          "y": 0,
+          "z": -0.383
+        },
+        "max": {
+          "x": 0.3,
+          "y": 1.13,
+          "z": 0.383
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Building Essentials",
+        "sourceCode": "AME-002",
+        "description": "0.60 × 0.75 m · wall-hung on a duct panel, flush plate",
+        "group": "Restrooms"
+      },
+      "thumbnail": "ame-002.webp"
+    },
+    {
+      "id": "ame-003",
+      "name": "Urinal Row",
+      "file": "ame-003.glb",
+      "bytes": 68396,
+      "sha256": "334f9384e8ced7bbdb0fcf0b47f671a923be7028628399a819bbfdcc8fb226db",
+      "category": "amenities",
+      "searchTerms": [
+        "restrooms",
+        "urinal",
+        "toilet",
+        "restroom",
+        "bathroom",
+        "sanitary"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -1.05,
+          "y": 0,
+          "z": -0.26
+        },
+        "max": {
+          "x": 1.05,
+          "y": 1.425,
+          "z": 0.26
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Building Essentials",
+        "sourceCode": "AME-003",
+        "description": "2.10 × 0.55 m · 3 urinals, privacy screens",
+        "group": "Restrooms"
+      },
+      "thumbnail": "ame-003.webp"
+    },
+    {
+      "id": "ame-004",
+      "name": "Washbasin Counter",
+      "file": "ame-004.glb",
+      "bytes": 31056,
+      "sha256": "0cbd03a3c3d60a17b0dacbe75c91104eb377e367a2baa5c10143e9af8bbb8720",
+      "category": "amenities",
+      "searchTerms": [
+        "restrooms",
+        "sink",
+        "basin",
+        "vanity",
+        "mirror",
+        "restroom",
+        "bathroom"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -1.2,
+          "y": 0.65,
+          "z": -0.275
+        },
+        "max": {
+          "x": 1.2,
+          "y": 2.05,
+          "z": 0.275
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Building Essentials",
+        "sourceCode": "AME-004",
+        "description": "2.40 × 0.55 m · 3 basins, mirror, soap dispensers",
+        "group": "Restrooms"
+      },
+      "thumbnail": "ame-004.webp"
+    },
+    {
+      "id": "ame-005",
+      "name": "Accessible WC",
+      "file": "ame-005.glb",
+      "bytes": 37128,
+      "sha256": "5954a1bb896ae253f4feb7d35b89912c78fd94a9f9a741b17557e8ce9c4ac25f",
+      "category": "amenities",
+      "searchTerms": [
+        "restrooms",
+        "toilet",
+        "wc",
+        "accessible",
+        "disabled",
+        "accessibility",
+        "restroom"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.84,
+          "y": 0,
+          "z": -0.459
+        },
+        "max": {
+          "x": 0.84,
+          "y": 2,
+          "z": 0.459
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Building Essentials",
+        "sourceCode": "AME-005",
+        "description": "1.60 × 0.80 m · WC, drop-down rails, basin, alarm cord",
+        "group": "Restrooms"
+      },
+      "thumbnail": "ame-005.webp"
+    },
+    {
+      "id": "ame-006",
+      "name": "Baby Changing Unit",
+      "file": "ame-006.glb",
+      "bytes": 22428,
+      "sha256": "0cd1a26eede0ddac52c8a8128e6ac779f1ff633f2e13501768878925565c5fef",
+      "category": "amenities",
+      "searchTerms": [
+        "restrooms",
+        "baby change",
+        "nursing",
+        "family",
+        "restroom",
+        "parent room"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.45,
+          "y": 0.675,
+          "z": -0.275
+        },
+        "max": {
+          "x": 0.45,
+          "y": 1.47,
+          "z": 0.275
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Building Essentials",
+        "sourceCode": "AME-006",
+        "description": "0.90 × 0.55 m · fold-down table, 0.85 m high",
+        "group": "Restrooms"
+      },
+      "thumbnail": "ame-006.webp"
+    },
+    {
+      "id": "ame-007",
+      "name": "Hand Dryer",
+      "file": "ame-007.glb",
+      "bytes": 14784,
+      "sha256": "ce7adce46e90ccb6184bca314bd46a4675501071100d6f277d41bb9d70b14f5b",
+      "category": "amenities",
+      "searchTerms": [
+        "restrooms",
+        "dryer",
+        "restroom",
+        "bathroom",
+        "appliance"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.15,
+          "y": 1.1,
+          "z": -0.092
+        },
+        "max": {
+          "x": 0.15,
+          "y": 1.37,
+          "z": 0.092
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Building Essentials",
+        "sourceCode": "AME-007",
+        "description": "0.30 × 0.20 m · wall mount, 1.1 m up",
+        "group": "Restrooms"
+      },
+      "thumbnail": "ame-007.webp"
+    },
+    {
+      "id": "ame-008",
+      "name": "Fire Extinguisher Stand",
+      "file": "ame-008.glb",
+      "bytes": 14588,
+      "sha256": "14ae24104aea3300b946e785ea82ba594001f739dbea74eb103912e03f9068aa",
+      "category": "amenities",
+      "searchTerms": [
+        "safety",
+        "fire",
+        "extinguisher",
+        "fire safety",
+        "emergency",
+        "signage"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.175,
+          "y": 0,
+          "z": -0.175
+        },
+        "max": {
+          "x": 0.175,
+          "y": 1.62,
+          "z": 0.175
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Building Essentials",
+        "sourceCode": "AME-008",
+        "description": "0.35 × 0.35 m · extinguisher in a cradle, 1.6 m sign post",
+        "group": "Safety"
+      },
+      "thumbnail": "ame-008.webp"
+    },
+    {
+      "id": "ame-009",
+      "name": "Fire Hose Cabinet",
+      "file": "ame-009.glb",
+      "bytes": 23120,
+      "sha256": "a5b96ffef9e65caeae5b28664c2cf2d183cde4d1a11534416c704dd0fa22af95",
+      "category": "amenities",
+      "searchTerms": [
+        "safety",
+        "fire",
+        "hose reel",
+        "fire safety",
+        "emergency",
+        "cabinet"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.375,
+          "y": 1,
+          "z": -0.132
+        },
+        "max": {
+          "x": 0.375,
+          "y": 1.75,
+          "z": 0.132
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Building Essentials",
+        "sourceCode": "AME-009",
+        "description": "0.75 × 0.25 m · glazed door, hose reel, 1.0–1.75 m up",
+        "group": "Safety"
+      },
+      "thumbnail": "ame-009.webp"
+    },
+    {
+      "id": "ame-010",
+      "name": "AED Cabinet",
+      "file": "ame-010.glb",
+      "bytes": 18012,
+      "sha256": "024a391130c171a6d70694a86183a84c457e4853bc0d0b1e2096efdbbd9b9e8d",
+      "category": "amenities",
+      "searchTerms": [
+        "safety",
+        "aed",
+        "defibrillator",
+        "first aid",
+        "medical",
+        "emergency",
+        "signage"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.21,
+          "y": 1.1,
+          "z": -0.11
+        },
+        "max": {
+          "x": 0.21,
+          "y": 1.95,
+          "z": 0.11
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Building Essentials",
+        "sourceCode": "AME-010",
+        "description": "0.42 × 0.20 m · defibrillator, sign above",
+        "group": "Safety"
+      },
+      "thumbnail": "ame-010.webp"
+    },
+    {
+      "id": "ame-011",
+      "name": "Emergency Exit Sign",
+      "file": "ame-011.glb",
+      "bytes": 17620,
+      "sha256": "6dd12970fe8dbbea370140419ec81f47dc685a70258958f760fd981f7176fb9e",
+      "category": "amenities",
+      "searchTerms": [
+        "safety",
+        "exit",
+        "escape route",
+        "emergency",
+        "evacuation",
+        "signage",
+        "hanging sign"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.21,
+          "y": 2.3,
+          "z": -0.046
+        },
+        "max": {
+          "x": 0.21,
+          "y": 2.8,
+          "z": 0.046
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Building Essentials",
+        "sourceCode": "AME-011",
+        "description": "0.40 × 0.20 m lightbox · double sided, hung 2.3 m up",
+        "group": "Safety"
+      },
+      "thumbnail": "ame-011.webp"
+    },
+    {
+      "id": "ame-012",
+      "name": "First Aid Station",
+      "file": "ame-012.glb",
+      "bytes": 26624,
+      "sha256": "d3e69aee68ac83a8196d0248f5348056eb818860215fef722f86e696d7f7e958",
+      "category": "amenities",
+      "searchTerms": [
+        "safety",
+        "first aid",
+        "medical",
+        "emergency",
+        "eyewash",
+        "cabinet"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.35,
+          "y": 0.9,
+          "z": -0.117
+        },
+        "max": {
+          "x": 0.35,
+          "y": 2.14,
+          "z": 0.117
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Building Essentials",
+        "sourceCode": "AME-012",
+        "description": "0.70 × 0.25 m · cabinet, eyewash bottles, board",
+        "group": "Safety"
+      },
+      "thumbnail": "ame-012.webp"
+    },
+    {
+      "id": "ame-013",
+      "name": "Eyewash Station",
+      "file": "ame-013.glb",
+      "bytes": 19052,
+      "sha256": "5288a5c279c6fc81033c0c4bb53396234b830ddeaa770cc6bb6de123509668af",
+      "category": "amenities",
+      "searchTerms": [
+        "safety",
+        "eyewash",
+        "emergency",
+        "laboratory",
+        "industrial",
+        "first aid"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.235,
+          "y": 0,
+          "z": -0.208
+        },
+        "max": {
+          "x": 0.235,
+          "y": 2,
+          "z": 0.208
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Building Essentials",
+        "sourceCode": "AME-013",
+        "description": "0.45 × 0.45 m · pedestal bowl, push flag, sign",
+        "group": "Safety"
+      },
+      "thumbnail": "ame-013.webp"
+    },
+    {
+      "id": "ame-014",
+      "name": "Assembly Point Sign",
+      "file": "ame-014.glb",
+      "bytes": 30904,
+      "sha256": "d706971268c9aa68521423036078850b3fd02689acc2828e7e9ce8c522d72846",
+      "category": "amenities",
+      "searchTerms": [
+        "safety",
+        "assembly point",
+        "muster point",
+        "evacuation",
+        "emergency",
+        "outdoor",
+        "signage"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.31,
+          "y": 0,
+          "z": -0.15
+        },
+        "max": {
+          "x": 0.31,
+          "y": 2.4,
+          "z": 0.15
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Building Essentials",
+        "sourceCode": "AME-014",
+        "description": "0.60 × 0.60 m sign · double sided, 2.4 m post",
+        "group": "Safety"
+      },
+      "thumbnail": "ame-014.webp"
+    },
+    {
+      "id": "ame-015",
+      "name": "Tall Potted Plant",
+      "file": "ame-015.glb",
+      "bytes": 23392,
+      "sha256": "2bdd8426da16f374e253bce4ac8eca89b75c113f90e8d2020979fd0c06ce5a33",
+      "category": "amenities",
+      "searchTerms": [
+        "plants",
+        "plant",
+        "tree",
+        "greenery",
+        "decor",
+        "planter"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.39,
+          "y": 0,
+          "z": -0.305
+        },
+        "max": {
+          "x": 0.39,
+          "y": 1.824,
+          "z": 0.305
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Building Essentials",
+        "sourceCode": "AME-015",
+        "description": "Ø 0.45 m planter · 1.8 m tall",
+        "group": "Plants"
+      },
+      "thumbnail": "ame-015.webp"
+    },
+    {
+      "id": "ame-016",
+      "name": "Planter Trough",
+      "file": "ame-016.glb",
+      "bytes": 15308,
+      "sha256": "2d2a1e5a2efa0f1e1f39142d3d2b7e93e1aa7eddc7ca99df41e578e1770e69fd",
+      "category": "amenities",
+      "searchTerms": [
+        "plants",
+        "plant",
+        "planter",
+        "greenery",
+        "decor",
+        "divider"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.83,
+          "y": 0,
+          "z": -0.229
+        },
+        "max": {
+          "x": 0.83,
+          "y": 0.758,
+          "z": 0.229
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Building Essentials",
+        "sourceCode": "AME-016",
+        "description": "1.60 × 0.45 m · low shrubs",
+        "group": "Plants"
+      },
+      "thumbnail": "ame-016.webp"
+    },
+    {
+      "id": "ame-017",
+      "name": "Water Cooler",
+      "file": "ame-017.glb",
+      "bytes": 16780,
+      "sha256": "d30618033e12fac4a43c35c2c9d025a5392a52f12cb03c3ba25b3ed3e8f3f774",
+      "category": "amenities",
+      "searchTerms": [
+        "everyday",
+        "water",
+        "drinking",
+        "cooler",
+        "dispenser",
+        "appliance"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.16,
+          "y": 0,
+          "z": -0.19
+        },
+        "max": {
+          "x": 0.16,
+          "y": 1.34,
+          "z": 0.19
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Building Essentials",
+        "sourceCode": "AME-017",
+        "description": "0.32 × 0.32 m · bottle on top, 1.35 m high",
+        "group": "Everyday"
+      },
+      "thumbnail": "ame-017.webp"
+    },
+    {
+      "id": "ame-018",
+      "name": "ATM",
+      "file": "ame-018.glb",
+      "bytes": 21472,
+      "sha256": "1a8c84ba1a7c629f7cfd824a13577df41f3a9a27e6347b9db58504edd7b72e5b",
+      "category": "amenities",
+      "searchTerms": [
+        "everyday",
+        "atm",
+        "cash machine",
+        "bank",
+        "payment",
+        "signage"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.41,
+          "y": 0,
+          "z": -0.45
+        },
+        "max": {
+          "x": 0.41,
+          "y": 1.76,
+          "z": 0.45
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Building Essentials",
+        "sourceCode": "AME-018",
+        "description": "0.80 × 0.75 m · screen, keypad, name header",
+        "group": "Everyday",
+        "signFaces": [
+          {
+            "center": {
+              "x": 0,
+              "y": 1.63,
+              "z": 0.204
+            },
+            "normal": {
+              "x": 0,
+              "y": 0,
+              "z": 1
+            },
+            "width": 0.74,
+            "height": 0.22
+          }
+        ]
+      },
+      "thumbnail": "ame-018.webp"
+    },
+    {
+      "id": "ame-019",
+      "name": "Coat Stand",
+      "file": "ame-019.glb",
+      "bytes": 41780,
+      "sha256": "07ce9217c15e42d1147acc3b4f31e53e58c26ec5c45aab667f58de36e7c3234f",
+      "category": "amenities",
+      "searchTerms": [
+        "everyday",
+        "coat rack",
+        "hanger",
+        "cloakroom",
+        "wardrobe"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.42,
+          "y": 0,
+          "z": -0.22
+        },
+        "max": {
+          "x": 0.42,
+          "y": 1.845,
+          "z": 0.22
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Building Essentials",
+        "sourceCode": "AME-019",
+        "description": "Ø 0.50 m · 1.8 m, 8 hooks",
+        "group": "Everyday"
+      },
+      "thumbnail": "ame-019.webp"
+    },
+    {
+      "id": "ame-020",
+      "name": "Umbrella Stand",
+      "file": "ame-020.glb",
+      "bytes": 13184,
+      "sha256": "881a7c4941c25bb9e237d0c2c1435ece4832ca4aadd4723341c97b51d8f895f8",
+      "category": "amenities",
+      "searchTerms": [
+        "everyday",
+        "umbrella",
+        "entrance",
+        "lobby"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.197,
+          "y": 0,
+          "z": -0.15
+        },
+        "max": {
+          "x": 0.197,
+          "y": 0.963,
+          "z": 0.15
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Building Essentials",
+        "sourceCode": "AME-020",
+        "description": "Ø 0.30 m · 2 umbrellas",
+        "group": "Everyday"
+      },
+      "thumbnail": "ame-020.webp"
+    },
+    {
+      "id": "ame-021",
+      "name": "Waste Sorting Station",
+      "file": "ame-021.glb",
+      "bytes": 28376,
+      "sha256": "c5bd4554a82e0db6e81a24528b40257196dd922b909dcd5a6a809d385aba1d1a",
+      "category": "amenities",
+      "searchTerms": [
+        "everyday",
+        "recycling",
+        "waste",
+        "bin",
+        "trash",
+        "sorting"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.65,
+          "y": 0,
+          "z": -0.22
+        },
+        "max": {
+          "x": 0.65,
+          "y": 1.5,
+          "z": 0.22
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Building Essentials",
+        "sourceCode": "AME-021",
+        "description": "1.30 × 0.45 m · 3 bins, coloured lids, sign strip",
+        "group": "Everyday"
+      },
+      "thumbnail": "ame-021.webp"
+    },
+    {
+      "id": "hsp-001",
+      "name": "Double Bed",
+      "file": "hsp-001.glb",
+      "bytes": 51432,
+      "sha256": "8be3a83f1f7b9c9e1b9e0408bd34df9c10fdf6948eaa1e7650683e78907d1e00",
+      "category": "hospitality",
+      "searchTerms": [
+        "hotel room",
+        "bed",
+        "hotel",
+        "bedroom",
+        "guest room",
+        "sleep"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.9,
+          "y": 0,
+          "z": -1.065
+        },
+        "max": {
+          "x": 0.9,
+          "y": 1.205,
+          "z": 1.065
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Hospitality Kit",
+        "sourceCode": "HSP-001",
+        "description": "1.60 × 2.00 m mattress · headboard, pillows, folded duvet",
+        "group": "Hotel Room"
+      },
+      "thumbnail": "hsp-001.webp"
+    },
+    {
+      "id": "hsp-002",
+      "name": "Twin Beds",
+      "file": "hsp-002.glb",
+      "bytes": 89632,
+      "sha256": "9b15a20f90176f892efc8841423164dcd9aa2a948dc5a923c85f357bac1b363f",
+      "category": "hospitality",
+      "searchTerms": [
+        "hotel room",
+        "bed",
+        "single bed",
+        "hotel",
+        "bedroom",
+        "guest room"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -1.4,
+          "y": 0,
+          "z": -1.065
+        },
+        "max": {
+          "x": 1.4,
+          "y": 1.205,
+          "z": 1.065
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Hospitality Kit",
+        "sourceCode": "HSP-002",
+        "description": "2 × 0.90 × 2.00 m · shared headboard, nightstand between",
+        "group": "Hotel Room"
+      },
+      "thumbnail": "hsp-002.webp"
+    },
+    {
+      "id": "hsp-003",
+      "name": "Nightstand with Lamp",
+      "file": "hsp-003.glb",
+      "bytes": 12828,
+      "sha256": "8516e50c471424a30f9d9e3788bb4f946f19a435e802b7c6bfdc4384a85c7d1b",
+      "category": "hospitality",
+      "searchTerms": [
+        "hotel room",
+        "bedside table",
+        "lamp",
+        "hotel",
+        "bedroom",
+        "storage"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.25,
+          "y": 0,
+          "z": -0.21
+        },
+        "max": {
+          "x": 0.25,
+          "y": 0.96,
+          "z": 0.21
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Hospitality Kit",
+        "sourceCode": "HSP-003",
+        "description": "0.50 × 0.40 m · drawer, table lamp",
+        "group": "Hotel Room"
+      },
+      "thumbnail": "hsp-003.webp"
+    },
+    {
+      "id": "hsp-004",
+      "name": "Wardrobe",
+      "file": "hsp-004.glb",
+      "bytes": 6680,
+      "sha256": "0e73f3e4e9f5f5ae821c54fb2a68c40139f7b66b972cefaed0e701157fba6da2",
+      "category": "hospitality",
+      "searchTerms": [
+        "hotel room",
+        "closet",
+        "cupboard",
+        "hotel",
+        "bedroom",
+        "storage"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.6,
+          "y": 0,
+          "z": -0.311
+        },
+        "max": {
+          "x": 0.6,
+          "y": 2.18,
+          "z": 0.311
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Hospitality Kit",
+        "sourceCode": "HSP-004",
+        "description": "1.20 × 0.60 × 2.20 m · two doors",
+        "group": "Hotel Room"
+      },
+      "thumbnail": "hsp-004.webp"
+    },
+    {
+      "id": "hsp-005",
+      "name": "Luggage Rack",
+      "file": "hsp-005.glb",
+      "bytes": 16420,
+      "sha256": "9ce897cc732e7c419f4257c48e6eb2f4aaa87753e89629bd7bb8caa6868bbd8b",
+      "category": "hospitality",
+      "searchTerms": [
+        "hotel room",
+        "luggage",
+        "suitcase",
+        "hotel",
+        "bedroom"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.34,
+          "y": 0.005,
+          "z": -0.214
+        },
+        "max": {
+          "x": 0.34,
+          "y": 0.795,
+          "z": 0.214
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Hospitality Kit",
+        "sourceCode": "HSP-005",
+        "description": "0.70 × 0.45 m · folding, with a suitcase",
+        "group": "Hotel Room"
+      },
+      "thumbnail": "hsp-005.webp"
+    },
+    {
+      "id": "hsp-006",
+      "name": "Armchair",
+      "file": "hsp-006.glb",
+      "bytes": 39516,
+      "sha256": "fe5543aafa04c029fb8dc08871631307235436fd9bb03291624775874a9614b5",
+      "category": "hospitality",
+      "searchTerms": [
+        "hotel room",
+        "chair",
+        "lounge chair",
+        "seating",
+        "hotel",
+        "lobby"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.605,
+          "y": 0,
+          "z": -0.37
+        },
+        "max": {
+          "x": 0.605,
+          "y": 0.85,
+          "z": 0.37
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Hospitality Kit",
+        "sourceCode": "HSP-006",
+        "description": "0.80 × 0.80 m · upholstered, side table",
+        "group": "Hotel Room"
+      },
+      "thumbnail": "hsp-006.webp"
+    },
+    {
+      "id": "hsp-007",
+      "name": "Hotel Room",
+      "file": "hsp-007.glb",
+      "bytes": 182336,
+      "sha256": "c50895219a8d47ae0de45d1b26bb0ebb032a3f075d0a067a085cc622b84e3209",
+      "category": "hospitality",
+      "searchTerms": [
+        "hotel room",
+        "room",
+        "hotel",
+        "guest room",
+        "bedroom",
+        "en-suite"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -1.95,
+          "y": 0,
+          "z": -3.15
+        },
+        "max": {
+          "x": 1.95,
+          "y": 2.86,
+          "z": 3.15
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Hospitality Kit",
+        "sourceCode": "HSP-007",
+        "description": "3.80 × 6.20 m · double bed, en-suite, wardrobe, desk, TV",
+        "group": "Hotel Room"
+      },
+      "thumbnail": "hsp-007.webp"
+    },
+    {
+      "id": "hsp-008",
+      "name": "Coffee Bar Counter",
+      "file": "hsp-008.glb",
+      "bytes": 39592,
+      "sha256": "9f9adce81ff9ed0b506eba65801b097997012df63f55375e0e36a76f3b8339b1",
+      "category": "hospitality",
+      "searchTerms": [
+        "café",
+        "cafe",
+        "coffee",
+        "counter",
+        "barista",
+        "service",
+        "signage"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -1.23,
+          "y": 0,
+          "z": -0.4
+        },
+        "max": {
+          "x": 1.23,
+          "y": 1.54,
+          "z": 0.4
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Hospitality Kit",
+        "sourceCode": "HSP-008",
+        "description": "2.40 × 0.80 m · espresso machine, grinder, till, name panel",
+        "group": "Café",
+        "signFaces": [
+          {
+            "center": {
+              "x": 0,
+              "y": 0.66,
+              "z": 0.354
+            },
+            "normal": {
+              "x": 0,
+              "y": 0,
+              "z": 1
+            },
+            "width": 1.5,
+            "height": 0.3
+          }
+        ]
+      },
+      "thumbnail": "hsp-008.webp"
+    },
+    {
+      "id": "hsp-009",
+      "name": "Pastry Display Case",
+      "file": "hsp-009.glb",
+      "bytes": 75000,
+      "sha256": "85a7cc0ec2830484139dd9be6b18dedc8d87c171f754a5fe7df7dfbc76caf6b7",
+      "category": "hospitality",
+      "searchTerms": [
+        "café",
+        "cafe",
+        "bakery",
+        "display",
+        "food",
+        "refrigerated"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.61,
+          "y": 0,
+          "z": -0.36
+        },
+        "max": {
+          "x": 0.61,
+          "y": 1.3,
+          "z": 0.36
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Hospitality Kit",
+        "sourceCode": "HSP-009",
+        "description": "1.20 × 0.70 m · curved glass, 2 shelves",
+        "group": "Café"
+      },
+      "thumbnail": "hsp-009.webp"
+    },
+    {
+      "id": "hsp-010",
+      "name": "Café Table for Two",
+      "file": "hsp-010.glb",
+      "bytes": 39984,
+      "sha256": "1ccb60c7f95ef10ae3782932a02d23192aa0fd3f667abbb5081d8c81f6e38ccd",
+      "category": "hospitality",
+      "searchTerms": [
+        "café",
+        "cafe",
+        "table",
+        "chair",
+        "seating",
+        "dining",
+        "restaurant"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.782,
+          "y": 0,
+          "z": -0.3
+        },
+        "max": {
+          "x": 0.782,
+          "y": 0.841,
+          "z": 0.3
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Hospitality Kit",
+        "sourceCode": "HSP-010",
+        "description": "Ø 0.60 m table · 2 chairs",
+        "group": "Café"
+      },
+      "thumbnail": "hsp-010.webp"
+    },
+    {
+      "id": "hsp-011",
+      "name": "Dining Table for Four",
+      "file": "hsp-011.glb",
+      "bytes": 67276,
+      "sha256": "708a1b8367cc912bd12dda04460e539b5e6b149c3d6ec55af6ee82e10e50ba82",
+      "category": "hospitality",
+      "searchTerms": [
+        "restaurant",
+        "table",
+        "chair",
+        "seating",
+        "dining",
+        "canteen"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.6,
+          "y": 0,
+          "z": -0.832
+        },
+        "max": {
+          "x": 0.6,
+          "y": 0.841,
+          "z": 0.832
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Hospitality Kit",
+        "sourceCode": "HSP-011",
+        "description": "1.20 × 0.80 m table · 4 chairs",
+        "group": "Restaurant"
+      },
+      "thumbnail": "hsp-011.webp"
+    },
+    {
+      "id": "hsp-012",
+      "name": "Booth Seating",
+      "file": "hsp-012.glb",
+      "bytes": 30168,
+      "sha256": "205120517def5f5fd956c88a17913d92d1537985cef26d86abfad5338c3bda7a",
+      "category": "hospitality",
+      "searchTerms": [
+        "restaurant",
+        "booth",
+        "diner",
+        "seating",
+        "dining",
+        "cafe"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.7,
+          "y": 0,
+          "z": -1
+        },
+        "max": {
+          "x": 0.7,
+          "y": 1.2,
+          "z": 1
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Hospitality Kit",
+        "sourceCode": "HSP-012",
+        "description": "1.40 × 2.00 m · 2 upholstered benches, table",
+        "group": "Restaurant"
+      },
+      "thumbnail": "hsp-012.webp"
+    },
+    {
+      "id": "hsp-013",
+      "name": "Bar Counter",
+      "file": "hsp-013.glb",
+      "bytes": 50448,
+      "sha256": "b7c1372feea9ba17c01bd058188eaf1fc81392cb4b85f6235a05cf30a61fb5cc",
+      "category": "hospitality",
+      "searchTerms": [
+        "bar",
+        "pub",
+        "counter",
+        "stool",
+        "seating",
+        "signage"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -1.53,
+          "y": 0,
+          "z": -0.597
+        },
+        "max": {
+          "x": 1.53,
+          "y": 1.472,
+          "z": 0.597
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Hospitality Kit",
+        "sourceCode": "HSP-013",
+        "description": "3.00 × 0.70 m · 1.10 m high, beer taps, 4 stools, name panel",
+        "group": "Bar",
+        "signFaces": [
+          {
+            "center": {
+              "x": 0,
+              "y": 0.72,
+              "z": 0.052
+            },
+            "normal": {
+              "x": 0,
+              "y": 0,
+              "z": 1
+            },
+            "width": 1.7,
+            "height": 0.26
+          }
+        ]
+      },
+      "thumbnail": "hsp-013.webp"
+    },
+    {
+      "id": "hsp-014",
+      "name": "Back Bar",
+      "file": "hsp-014.glb",
+      "bytes": 98704,
+      "sha256": "88b3a602dcf81ba2840d141e094eecc66355efdc38435f170fb1c70f18478329",
+      "category": "hospitality",
+      "searchTerms": [
+        "bar",
+        "pub",
+        "shelving",
+        "bottles",
+        "storage"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -1.53,
+          "y": 0,
+          "z": -0.235
+        },
+        "max": {
+          "x": 1.53,
+          "y": 2.3,
+          "z": 0.235
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Hospitality Kit",
+        "sourceCode": "HSP-014",
+        "description": "3.00 × 0.45 × 2.20 m · lit shelves, bottles, fridges",
+        "group": "Bar"
+      },
+      "thumbnail": "hsp-014.webp"
+    },
+    {
+      "id": "hsp-015",
+      "name": "Commercial Kitchen Line",
+      "file": "hsp-015.glb",
+      "bytes": 30252,
+      "sha256": "2418f7e69c6f30ea2e967b6998ad741ed23721b038d85b697d98a1fe4db61e1a",
+      "category": "hospitality",
+      "searchTerms": [
+        "restaurant",
+        "kitchen",
+        "cooking",
+        "stove",
+        "catering",
+        "appliance"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -1.8,
+          "y": 0,
+          "z": -0.5
+        },
+        "max": {
+          "x": 1.8,
+          "y": 2.85,
+          "z": 0.5
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Hospitality Kit",
+        "sourceCode": "HSP-015",
+        "description": "3.60 × 0.90 m · range, griddle, fryer, prep counter, hood",
+        "group": "Restaurant"
+      },
+      "thumbnail": "hsp-015.webp"
+    },
+    {
+      "id": "hsp-016",
+      "name": "Banquet Table",
+      "file": "hsp-016.glb",
+      "bytes": 164512,
+      "sha256": "eaa96d4e1d2df8d5670b9341fceff2b00334b17b5e2ee21f0210d9d274f5d767",
+      "category": "hospitality",
+      "searchTerms": [
+        "restaurant",
+        "banquet",
+        "round table",
+        "event",
+        "wedding",
+        "conference",
+        "dining",
+        "seating"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -1.332,
+          "y": 0,
+          "z": -1.332
+        },
+        "max": {
+          "x": 1.332,
+          "y": 1.164,
+          "z": 1.332
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Hospitality Kit",
+        "sourceCode": "HSP-016",
+        "description": "Ø 1.60 m table · 8 chairs, tablecloth",
+        "group": "Restaurant"
+      },
+      "thumbnail": "hsp-016.webp"
+    },
+    {
+      "id": "prk-001",
+      "name": "Car, Hatchback",
+      "file": "prk-001.glb",
+      "bytes": 35256,
+      "sha256": "5542b8c5ddc77cd14dc560da37c4555d351386dafba3ef7be660f3ac5b861dff",
+      "category": "parking",
+      "searchTerms": [
+        "vehicles",
+        "car",
+        "vehicle",
+        "automobile",
+        "parking",
+        "garage"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.885,
+          "y": 0,
+          "z": -2.125
+        },
+        "max": {
+          "x": 0.885,
+          "y": 1.54,
+          "z": 2.125
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Parking Kit",
+        "sourceCode": "PRK-001",
+        "description": "4.10 × 1.75 × 1.48 m",
+        "group": "Vehicles"
+      },
+      "thumbnail": "prk-001.webp"
+    },
+    {
+      "id": "prk-002",
+      "name": "Car, SUV",
+      "file": "prk-002.glb",
+      "bytes": 36836,
+      "sha256": "874cc01cd36bb4daf7aa312635f72412527ec1bf6d1c252fe43d47dc86433be3",
+      "category": "parking",
+      "searchTerms": [
+        "vehicles",
+        "car",
+        "suv",
+        "vehicle",
+        "automobile",
+        "parking",
+        "garage"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.96,
+          "y": 0,
+          "z": -2.42
+        },
+        "max": {
+          "x": 0.96,
+          "y": 1.81,
+          "z": 2.42
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Parking Kit",
+        "sourceCode": "PRK-002",
+        "description": "4.70 × 1.90 × 1.70 m",
+        "group": "Vehicles"
+      },
+      "thumbnail": "prk-002.webp"
+    },
+    {
+      "id": "prk-003",
+      "name": "Van",
+      "file": "prk-003.glb",
+      "bytes": 33948,
+      "sha256": "149af90977b236cb0b6ead8994cdd771910539ecd7735badba6d198b9d7042db",
+      "category": "parking",
+      "searchTerms": [
+        "vehicles",
+        "van",
+        "delivery",
+        "vehicle",
+        "parking",
+        "garage",
+        "logistics"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -1.043,
+          "y": 0,
+          "z": -2.72
+        },
+        "max": {
+          "x": 1.043,
+          "y": 2.31,
+          "z": 2.72
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Parking Kit",
+        "sourceCode": "PRK-003",
+        "description": "5.30 × 2.00 × 2.25 m · panel van",
+        "group": "Vehicles"
+      },
+      "thumbnail": "prk-003.webp"
+    },
+    {
+      "id": "prk-004",
+      "name": "EV Charger",
+      "file": "prk-004.glb",
+      "bytes": 21468,
+      "sha256": "b5b6d6684eebda6cd53b6e8b273fd468ad0f5d42df8c2076df78c6285e99eb9b",
+      "category": "parking",
+      "searchTerms": [
+        "equipment",
+        "ev",
+        "electric vehicle",
+        "charging",
+        "charger",
+        "parking",
+        "garage"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.295,
+          "y": 0,
+          "z": -0.2
+        },
+        "max": {
+          "x": 0.295,
+          "y": 1.63,
+          "z": 0.2
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Parking Kit",
+        "sourceCode": "PRK-004",
+        "description": "0.45 × 0.30 m pedestal · 2 sockets, cables, screen",
+        "group": "Equipment"
+      },
+      "thumbnail": "prk-004.webp"
+    },
+    {
+      "id": "prk-005",
+      "name": "Barrier Gate",
+      "file": "prk-005.glb",
+      "bytes": 17912,
+      "sha256": "410f04c1296e9ce17b71dfa34a08d62a76625b64a1bded25de5ac2564687f855",
+      "category": "parking",
+      "searchTerms": [
+        "equipment",
+        "barrier",
+        "boom gate",
+        "entrance",
+        "access control",
+        "parking",
+        "garage"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -2.222,
+          "y": 0,
+          "z": -0.23
+        },
+        "max": {
+          "x": 2.222,
+          "y": 1.05,
+          "z": 0.23
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Parking Kit",
+        "sourceCode": "PRK-005",
+        "description": "4.30 m boom · cabinet, striped arm",
+        "group": "Equipment"
+      },
+      "thumbnail": "prk-005.webp"
+    },
+    {
+      "id": "prk-006",
+      "name": "Pay Station",
+      "file": "prk-006.glb",
+      "bytes": 16516,
+      "sha256": "8a74fad1b044d9b78cc6d2c695124f56dd9460fb2348470015555dbefc7b8742",
+      "category": "parking",
+      "searchTerms": [
+        "equipment",
+        "ticket machine",
+        "payment",
+        "kiosk",
+        "parking",
+        "garage"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.3,
+          "y": 0,
+          "z": -0.255
+        },
+        "max": {
+          "x": 0.3,
+          "y": 1.77,
+          "z": 0.255
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Parking Kit",
+        "sourceCode": "PRK-006",
+        "description": "0.60 × 0.45 m · screen, card reader, ticket slot",
+        "group": "Equipment"
+      },
+      "thumbnail": "prk-006.webp"
+    },
+    {
+      "id": "prk-007",
+      "name": "Parking Bay Markings",
+      "file": "prk-007.glb",
+      "bytes": 31204,
+      "sha256": "aadf69752296bf174a6d5b80af50d482c1c4857479df739c7480bd6fd940a345",
+      "category": "parking",
+      "searchTerms": [
+        "markings",
+        "parking space",
+        "bay",
+        "lines",
+        "parking",
+        "garage"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -3.8,
+          "y": 0,
+          "z": -2.55
+        },
+        "max": {
+          "x": 3.8,
+          "y": 0.113,
+          "z": 2.55
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Parking Kit",
+        "sourceCode": "PRK-007",
+        "description": "3 bays 2.50 × 5.00 m · lines, numbers, wheel stops",
+        "group": "Markings"
+      },
+      "thumbnail": "prk-007.webp"
+    },
+    {
+      "id": "prk-008",
+      "name": "Height Barrier",
+      "file": "prk-008.glb",
+      "bytes": 25128,
+      "sha256": "8343d8876e0cbdd5a6443e236af68568bba48fca966dc55da7e3248829ba4e4a",
+      "category": "parking",
+      "searchTerms": [
+        "equipment",
+        "height restriction",
+        "clearance",
+        "entrance",
+        "parking",
+        "garage",
+        "signage"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -1.95,
+          "y": 0,
+          "z": -0.15
+        },
+        "max": {
+          "x": 1.95,
+          "y": 2.8,
+          "z": 0.15
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Parking Kit",
+        "sourceCode": "PRK-008",
+        "description": "3.60 m wide · striped bar at 2.10 m",
+        "group": "Equipment"
+      },
+      "thumbnail": "prk-008.webp"
+    },
+    {
+      "id": "prk-009",
+      "name": "Bike Rack",
+      "file": "prk-009.glb",
+      "bytes": 30256,
+      "sha256": "efb4294229f8e762cbca312404011bc131869939062d42184dd579de17bde2bd",
+      "category": "parking",
+      "searchTerms": [
+        "equipment",
+        "bicycle",
+        "bike",
+        "cycle parking",
+        "outdoor",
+        "parking"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -1.6,
+          "y": 0,
+          "z": -0.374
+        },
+        "max": {
+          "x": 1.6,
+          "y": 0.823,
+          "z": 0.374
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Parking Kit",
+        "sourceCode": "PRK-009",
+        "description": "3.20 × 0.80 m · 5 steel hoops",
+        "group": "Equipment"
+      },
+      "thumbnail": "prk-009.webp"
+    },
+    {
+      "id": "prk-010",
+      "name": "Parking Guidance Sign",
+      "file": "prk-010.glb",
+      "bytes": 12932,
+      "sha256": "c7093f4bbd993222736b6b39011532ea91b2406483c82b0dbb266c5b7db35ee0",
+      "category": "parking",
+      "searchTerms": [
+        "signage",
+        "parking guidance",
+        "free spaces",
+        "direction",
+        "hanging sign",
+        "parking",
+        "garage"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.8,
+          "y": 2.3,
+          "z": -0.072
+        },
+        "max": {
+          "x": 0.8,
+          "y": 3.2,
+          "z": 0.072
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Parking Kit",
+        "sourceCode": "PRK-010",
+        "description": "1.60 × 0.50 m lit panel · hung 2.3 m up, text face",
+        "group": "Signage",
+        "signFaces": [
+          {
+            "center": {
+              "x": 0.22,
+              "y": 2.55,
+              "z": -0.07
+            },
+            "normal": {
+              "x": 0,
+              "y": 0,
+              "z": -1
+            },
+            "width": 0.94,
+            "height": 0.34
+          },
+          {
+            "center": {
+              "x": 0.22,
+              "y": 2.55,
+              "z": 0.07
+            },
+            "normal": {
+              "x": 0,
+              "y": 0,
+              "z": 1
+            },
+            "width": 0.94,
+            "height": 0.34
+          }
+        ]
+      },
+      "thumbnail": "prk-010.webp"
+    },
+    {
+      "id": "trk-001",
+      "name": "BLE Beacon",
+      "file": "trk-001.glb",
+      "bytes": 13464,
+      "sha256": "ba0fa13c30981d991e71d522976b50bd81d8bd3cb3f37502e58abd3aa17344a8",
+      "category": "tracking",
+      "searchTerms": [
+        "positioning",
+        "beacon",
+        "ble",
+        "bluetooth",
+        "rtls",
+        "sensor"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.03,
+          "y": 2.47,
+          "z": -0.011
+        },
+        "max": {
+          "x": 0.03,
+          "y": 2.53,
+          "z": 0.011
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Tracking Kit",
+        "sourceCode": "TRK-001",
+        "description": "0.06 × 0.06 m puck · wall mount, 2.5 m up",
+        "group": "Positioning"
+      },
+      "thumbnail": "trk-001.webp"
+    },
+    {
+      "id": "trk-002",
+      "name": "UWB Anchor",
+      "file": "trk-002.glb",
+      "bytes": 7240,
+      "sha256": "7a4647211d1b340cd9546cb3e5250210774e2f82be15ee1748659e1f76d44d8b",
+      "category": "tracking",
+      "searchTerms": [
+        "positioning",
+        "anchor",
+        "uwb",
+        "ultra-wideband",
+        "rtls",
+        "sensor"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.06,
+          "y": 2.738,
+          "z": -0.066
+        },
+        "max": {
+          "x": 0.06,
+          "y": 2.862,
+          "z": 0.066
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Tracking Kit",
+        "sourceCode": "TRK-002",
+        "description": "0.12 × 0.12 m · bracket mount, 2.8 m up",
+        "group": "Positioning"
+      },
+      "thumbnail": "trk-002.webp"
+    },
+    {
+      "id": "trk-003",
+      "name": "Gateway",
+      "file": "trk-003.glb",
+      "bytes": 15056,
+      "sha256": "c977eb730218064efc7bec7f5668fd25340cdd934579ec4eb4ae3e43085d392d",
+      "category": "tracking",
+      "searchTerms": [
+        "positioning",
+        "gateway",
+        "router",
+        "network",
+        "rtls",
+        "iot"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.1,
+          "y": 1.98,
+          "z": -0.027
+        },
+        "max": {
+          "x": 0.1,
+          "y": 2.788,
+          "z": 0.027
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Tracking Kit",
+        "sourceCode": "TRK-003",
+        "description": "0.20 × 0.25 m · 2 antennas, wall mount, 2.5 m up",
+        "group": "Positioning"
+      },
+      "thumbnail": "trk-003.webp"
+    },
+    {
+      "id": "trk-004",
+      "name": "Wi-Fi Access Point",
+      "file": "trk-004.glb",
+      "bytes": 8880,
+      "sha256": "410e9dbc4d5533fa98c7983ce318bfb99ccd523b7c27ad794474d379b8e6d2ed",
+      "category": "tracking",
+      "searchTerms": [
+        "positioning",
+        "wifi",
+        "access point",
+        "wireless",
+        "network",
+        "ceiling"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.11,
+          "y": 2.896,
+          "z": -0.11
+        },
+        "max": {
+          "x": 0.11,
+          "y": 2.945,
+          "z": 0.11
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Tracking Kit",
+        "sourceCode": "TRK-004",
+        "description": "Ø 0.22 m · ceiling mount, 2.9 m up",
+        "group": "Positioning"
+      },
+      "thumbnail": "trk-004.webp"
+    },
+    {
+      "id": "trk-005",
+      "name": "RFID Portal",
+      "file": "trk-005.glb",
+      "bytes": 18528,
+      "sha256": "2a177b3f8b6d756292d572289f31f3ac842e64334a226af860b14ca02ed39cee",
+      "category": "tracking",
+      "searchTerms": [
+        "positioning",
+        "rfid",
+        "portal",
+        "gate",
+        "zone",
+        "door",
+        "rtls"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -1.1,
+          "y": 0,
+          "z": -0.2
+        },
+        "max": {
+          "x": 1.1,
+          "y": 1.9,
+          "z": 0.2
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Tracking Kit",
+        "sourceCode": "TRK-005",
+        "description": "1.70 m clear · 2 antenna pillars, 1.9 m high",
+        "group": "Positioning"
+      },
+      "thumbnail": "trk-005.webp"
+    },
+    {
+      "id": "trk-006",
+      "name": "Worker",
+      "file": "trk-006.glb",
+      "bytes": 59580,
+      "sha256": "d9feda85acdf956e231056757090bc8b7d514eede1208eb814a2c415ee4b2e5f",
+      "category": "tracking",
+      "searchTerms": [
+        "people",
+        "person",
+        "worker",
+        "employee",
+        "staff",
+        "industrial",
+        "safety"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.294,
+          "y": 0,
+          "z": -0.165
+        },
+        "max": {
+          "x": 0.294,
+          "y": 1.82,
+          "z": 0.165
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Tracking Kit",
+        "sourceCode": "TRK-006",
+        "description": "1.75 m · hi-vis vest, hard hat",
+        "group": "People"
+      },
+      "thumbnail": "trk-006.webp"
+    },
+    {
+      "id": "trk-007",
+      "name": "Nurse",
+      "file": "trk-007.glb",
+      "bytes": 49700,
+      "sha256": "48cf14fc925630505ed081648f7193da73ef4d8e5d8e406cf6572410444ec6d1",
+      "category": "tracking",
+      "searchTerms": [
+        "people",
+        "person",
+        "nurse",
+        "clinician",
+        "staff",
+        "healthcare",
+        "hospital"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.294,
+          "y": 0,
+          "z": -0.145
+        },
+        "max": {
+          "x": 0.294,
+          "y": 1.731,
+          "z": 0.145
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Tracking Kit",
+        "sourceCode": "TRK-007",
+        "description": "1.70 m · scrubs",
+        "group": "People"
+      },
+      "thumbnail": "trk-007.webp"
+    },
+    {
+      "id": "trk-008",
+      "name": "Visitor",
+      "file": "trk-008.glb",
+      "bytes": 63684,
+      "sha256": "6b3c5f8887286654b304777c7c44e0fcd55b3970bb226f6684103d8f64e7a6c6",
+      "category": "tracking",
+      "searchTerms": [
+        "people",
+        "person",
+        "visitor",
+        "guest",
+        "customer",
+        "public"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.317,
+          "y": 0,
+          "z": -0.16
+        },
+        "max": {
+          "x": 0.317,
+          "y": 1.762,
+          "z": 0.16
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Tracking Kit",
+        "sourceCode": "TRK-008",
+        "description": "1.75 m · coat, visitor lanyard",
+        "group": "People"
+      },
+      "thumbnail": "trk-008.webp"
+    },
+    {
+      "id": "trk-009",
+      "name": "Security Guard",
+      "file": "trk-009.glb",
+      "bytes": 57512,
+      "sha256": "1b1ac26c5ff2c66b7b942cc9354e12028e36e49f2da9188ce61e76ffb0ac7c00",
+      "category": "tracking",
+      "searchTerms": [
+        "people",
+        "person",
+        "security",
+        "guard",
+        "staff",
+        "patrol"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.294,
+          "y": 0,
+          "z": -0.145
+        },
+        "max": {
+          "x": 0.294,
+          "y": 1.839,
+          "z": 0.145
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Tracking Kit",
+        "sourceCode": "TRK-009",
+        "description": "1.80 m · uniform, cap, radio",
+        "group": "People"
+      },
+      "thumbnail": "trk-009.webp"
+    },
+    {
+      "id": "trk-010",
+      "name": "AMR Robot",
+      "file": "trk-010.glb",
+      "bytes": 23816,
+      "sha256": "1c8c0631ff9970b0bb16f5a01d49b2a7c19cbb901959eb3bfb055e1fab8c05e3",
+      "category": "tracking",
+      "searchTerms": [
+        "mobile assets",
+        "robot",
+        "amr",
+        "agv",
+        "autonomous",
+        "logistics",
+        "vehicle"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.31,
+          "y": 0,
+          "z": -0.43
+        },
+        "max": {
+          "x": 0.31,
+          "y": 0.38,
+          "z": 0.43
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Tracking Kit",
+        "sourceCode": "TRK-010",
+        "description": "0.80 × 0.60 m · lidar, status light, deck",
+        "group": "Mobile Assets"
+      },
+      "thumbnail": "trk-010.webp"
+    },
+    {
+      "id": "trk-011",
+      "name": "Pallet Jack",
+      "file": "trk-011.glb",
+      "bytes": 14236,
+      "sha256": "4328d87437423353ece4b59a28ed31b970670147caa67ccd484d1c4993c4c9d9",
+      "category": "tracking",
+      "searchTerms": [
+        "mobile assets",
+        "pallet truck",
+        "hand truck",
+        "warehouse",
+        "logistics",
+        "vehicle"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.27,
+          "y": 0,
+          "z": -0.777
+        },
+        "max": {
+          "x": 0.27,
+          "y": 1.19,
+          "z": 0.777
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Tracking Kit",
+        "sourceCode": "TRK-011",
+        "description": "0.55 × 1.55 m · hand pallet truck",
+        "group": "Mobile Assets"
+      },
+      "thumbnail": "trk-011.webp"
+    },
+    {
+      "id": "trk-012",
+      "name": "Reach Truck",
+      "file": "trk-012.glb",
+      "bytes": 24304,
+      "sha256": "2f6ebda8ef3fea1615d31a20bcafb73674f5b2461359d24a63ba4012e9e303af",
+      "category": "tracking",
+      "searchTerms": [
+        "mobile assets",
+        "forklift",
+        "reach truck",
+        "warehouse",
+        "logistics",
+        "vehicle"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.6,
+          "y": 0,
+          "z": -1.2
+        },
+        "max": {
+          "x": 0.6,
+          "y": 2.7,
+          "z": 1.2
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Tracking Kit",
+        "sourceCode": "TRK-012",
+        "description": "1.20 × 2.50 m · 6 m mast lowered, stand-in cab",
+        "group": "Mobile Assets"
+      },
+      "thumbnail": "trk-012.webp"
+    },
+    {
+      "id": "trk-013",
+      "name": "Scissor Lift",
+      "file": "trk-013.glb",
+      "bytes": 28672,
+      "sha256": "0858f19af7867990d88150d5dfd700e98f6e5c788fd0589f6dce4609e6edd307",
+      "category": "tracking",
+      "searchTerms": [
+        "mobile assets",
+        "lift",
+        "aerial work platform",
+        "maintenance",
+        "industrial",
+        "vehicle"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.42,
+          "y": 0,
+          "z": -0.95
+        },
+        "max": {
+          "x": 0.42,
+          "y": 1.97,
+          "z": 0.95
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Tracking Kit",
+        "sourceCode": "TRK-013",
+        "description": "0.80 × 1.90 m · lowered, railed platform",
+        "group": "Mobile Assets"
+      },
+      "thumbnail": "trk-013.webp"
+    },
+    {
+      "id": "trk-014",
+      "name": "Stretcher",
+      "file": "trk-014.glb",
+      "bytes": 27712,
+      "sha256": "ee6c7e7662a05aecbea5c91d1d8cf7a5c9e8f964d156b3b616660339dce848eb",
+      "category": "tracking",
+      "searchTerms": [
+        "mobile assets",
+        "stretcher",
+        "trolley",
+        "gurney",
+        "hospital",
+        "healthcare",
+        "patient"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.35,
+          "y": 0,
+          "z": -0.994
+        },
+        "max": {
+          "x": 0.35,
+          "y": 1.788,
+          "z": 0.994
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Tracking Kit",
+        "sourceCode": "TRK-014",
+        "description": "0.70 × 2.00 m · rails, mattress, castors",
+        "group": "Mobile Assets"
+      },
+      "thumbnail": "trk-014.webp"
+    },
+    {
+      "id": "trk-015",
+      "name": "Cleaning Cart",
+      "file": "trk-015.glb",
+      "bytes": 38204,
+      "sha256": "98ca10c1027b31eeee8cdee2cd1ae6c7cf66bd6db7728e8782d8543a89abd5e5",
+      "category": "tracking",
+      "searchTerms": [
+        "mobile assets",
+        "cleaning",
+        "janitor",
+        "trolley",
+        "facility",
+        "housekeeping"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.538,
+          "y": 0,
+          "z": -0.275
+        },
+        "max": {
+          "x": 0.538,
+          "y": 1.401,
+          "z": 0.275
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Tracking Kit",
+        "sourceCode": "TRK-015",
+        "description": "1.10 × 0.55 m · bucket, mop, bins",
+        "group": "Mobile Assets"
+      },
+      "thumbnail": "trk-015.webp"
+    },
+    {
+      "id": "trk-016",
+      "name": "Mobile Workstation",
+      "file": "trk-016.glb",
+      "bytes": 26948,
+      "sha256": "2fc3ea9265bd9c0e29f9b1781eac94931ceb43b89d5e9f300302c81df1b49567",
+      "category": "tracking",
+      "searchTerms": [
+        "mobile assets",
+        "computer on wheels",
+        "cart",
+        "hospital",
+        "healthcare",
+        "workstation"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.292,
+          "y": 0,
+          "z": -0.279
+        },
+        "max": {
+          "x": 0.292,
+          "y": 1.61,
+          "z": 0.279
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Tracking Kit",
+        "sourceCode": "TRK-016",
+        "description": "0.55 × 0.55 m · monitor, keyboard tray, castors",
+        "group": "Mobile Assets"
+      },
+      "thumbnail": "trk-016.webp"
+    },
+    {
       "id": "cctv-ptz-camera",
       "name": "CCTV PTZ camera",
       "file": "cctv_ptz_camera.glb",
@@ -8833,6 +11414,10 @@
     "industry",
     "structural",
     "events",
+    "amenities",
+    "hospitality",
+    "parking",
+    "tracking",
     "cameras"
   ]
 }
