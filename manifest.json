@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "2.2.0",
-  "assetCount": 329,
+  "version": "2.3.0",
+  "assetCount": 330,
   "assets": [
     {
       "id": "sch-001",
@@ -8839,7 +8839,23 @@
         "sourceTitle": "Event Kit",
         "sourceCode": "EVT-008",
         "description": "4.00 × 2.25 m screen · box truss frame, 3.65 m high",
-        "group": "Stage"
+        "group": "Stage",
+        "screenFaces": [
+          {
+            "center": {
+              "x": 0,
+              "y": 2.2,
+              "z": 0.081
+            },
+            "normal": {
+              "x": 0,
+              "y": 0,
+              "z": 1
+            },
+            "width": 4,
+            "height": 2.25
+          }
+        ]
       },
       "thumbnail": "evt-008.webp"
     },
@@ -11312,6 +11328,68 @@
         "group": "Mobile Assets"
       },
       "thumbnail": "trk-016.webp"
+    },
+    {
+      "id": "trk-017",
+      "name": "Security Guard (animated)",
+      "file": "trk-017.glb",
+      "bytes": 583276,
+      "sha256": "662ee5e4ba0a83dd821e8d9764021e8da2036cd93c8014956c6e7035b606b544",
+      "category": "tracking",
+      "searchTerms": [
+        "people",
+        "person",
+        "security",
+        "guard",
+        "staff",
+        "patrol",
+        "animated"
+      ],
+      "boundingBox": {
+        "min": {
+          "x": -0.298,
+          "y": 0,
+          "z": -0.139
+        },
+        "max": {
+          "x": 0.306,
+          "y": 1.824,
+          "z": 0.228
+        }
+      },
+      "metadata": {
+        "sourceTitle": "Security Guard",
+        "sourceCode": "TRK-017",
+        "description": "1.82 m high · rigged, 31 clips, walks, inspects, signals SOS",
+        "group": "People",
+        "animation": {
+          "states": {
+            "idle": [
+              "Idle"
+            ],
+            "move": [
+              {
+                "clip": "Walk",
+                "upToSpeed": 1.9
+              },
+              {
+                "clip": "Run"
+              }
+            ],
+            "inspect": [
+              "LookAround",
+              "CrouchInspect",
+              "FlashlightScan"
+            ],
+            "alarm": [
+              "SOS"
+            ]
+          },
+          "tint": "Accent",
+          "device": true
+        }
+      },
+      "thumbnail": "trk-017.webp"
     },
     {
       "id": "cctv-ptz-camera",
